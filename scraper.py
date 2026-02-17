@@ -272,98 +272,53 @@ class VavooScraper:
             "Russia",
         ]
 
-    def extract_channel_id(self, url):
-        """Extract channel ID from URL"""
-        if not url:
-            return None
-        # Try to extract ID from vavoo-iptv format: .../play/ID...
-        match = re.search(r"/play/(\d+)", url)
-        if match:
-            return match.group(1)[:10]  # First 10 digits
-        # Try to extract ID from live2 format: .../play3/ID.m3u8
-        match = re.search(r"/play3/(\d+)\.m3u8", url)
-        if match:
-            return match.group(1)[:10]
-        return None
-
     def process_channels(self, live_channels, api_channels):
         """Process and merge channels from both sources"""
         print("Processing channels...")
 
-        # Dictionary to track channels by ID
-        channel_dict = {}
-
-        # Process all channels from both sources
-        all_channels = []
-
-        # Add live channels
+        # Process live channels
         for ch in live_channels:
-            ch["_source"] = "live"
-            all_channels.append(ch)
-
-        # Add API channels
-        for ch in api_channels:
-            ch["_source"] = "api"
-            all_channels.append(ch)
-
-        # Group channels by country and merge duplicates
-        for ch in all_channels:
             country = ch.get("group", "Unknown")
-            name = ch.get("name", "")
-            url = ch.get("url", "")
-            ch_id = self.extract_channel_id(url)
-
-            # Create unique key: country + channel ID (or name if no ID)
-            if ch_id:
-                key = f"{country}_{ch_id}"
-            else:
-                key = f"{country}_{name}"
-
-            if key not in channel_dict:
-                channel_dict[key] = {
-                    "name": name,
-                    "display_name": self.clean_name(name),
-                    "group": country,
-                    "logo": ch.get("logo", ""),
-                    "url_live": "",
-                    "url_vavoo": "",
-                }
-
-            # Store URL in appropriate field
-            if url:
-                if "vavoo-iptv/play" in url:
-                    channel_dict[key]["url_vavoo"] = url
-                elif "live2/play" in url:
-                    channel_dict[key]["url_live"] = url
-                else:
-                    # Fallback: store in vavoo if empty
-                    if not channel_dict[key]["url_vavoo"]:
-                        channel_dict[key]["url_vavoo"] = url
-
-            # Update logo if missing
-            if ch.get("logo") and not channel_dict[key]["logo"]:
-                channel_dict[key]["logo"] = ch.get("logo")
-
-        # Convert dictionary to groups structure
-        for key, ch_data in channel_dict.items():
-            country = ch_data["group"]
             if country not in self.groups:
                 self.groups[country] = []
 
-            # Use vavoo-iptv URL if available, otherwise use live2 URL
-            final_url = (
-                ch_data["url_vavoo"] if ch_data["url_vavoo"] else ch_data["url_live"]
-            )
+            channel_data = {
+                "name": ch.get("name", ""),
+                "display_name": self.clean_name(ch.get("name", "")),
+                "group": country,
+                "logo": ch.get("logo", ""),
+                "url": ch.get("url", ""),
+                "hls": "",
+            }
+            self.groups[country].append(channel_data)
 
-            # Only add if has URL
-            if final_url:
+        # Process API channels and merge
+        for ch in api_channels:
+            country = ch.get("group", "Unknown")
+
+            # Find existing channel
+            existing = None
+            if country in self.groups:
+                for existing_ch in self.groups[country]:
+                    if existing_ch["name"] == ch.get("name"):
+                        existing = existing_ch
+                        break
+
+            if existing:
+                existing["hls"] = ch.get("url", "")
+                if ch.get("logo") and not existing["logo"]:
+                    existing["logo"] = ch.get("logo")
+            else:
+                if country not in self.groups:
+                    self.groups[country] = []
+
                 channel_data = {
-                    "name": ch_data["name"],
-                    "display_name": ch_data["display_name"],
+                    "name": ch.get("name", ""),
+                    "display_name": self.clean_name(ch.get("name", "")),
                     "group": country,
-                    "logo": ch_data["logo"],
-                    "url": final_url,
-                    "hls": "",
+                    "logo": ch.get("logo", ""),
+                    "url": "",
+                    "hls": ch.get("url", ""),
                 }
                 self.groups[country].append(channel_data)
 
@@ -436,19 +391,31 @@ class VavooScraper:
                 for ch in sorted_channels:
                     group = self.categorize_channel(ch["name"], country)
 
-                    # EXTINF line
-                    extinf = f'#EXTINF:-1 tvg-name="{ch["name"]}" group-title="{group}"'
-                    if ch["logo"]:
-                        extinf += f' tvg-logo="{ch["logo"]}"'
-                    extinf += f",{ch['display_name']}"
+                    # Add first URL (live2)
+                    if ch["url"]:
+                        extinf = (
+                            f'#EXTINF:-1 tvg-name="{ch["name"]}" group-title="{group}"'
+                        )
+                        if ch["logo"]:
+                            extinf += f' tvg-logo="{ch["logo"]}"'
+                        extinf += f",{ch['display_name']}"
 
-                    f.write(extinf + "\n")
-
-                    # URL line
-                    url = ch["url"] if ch["url"] else ch["hls"]
-                    if url:
+                        f.write(extinf + "\n")
                         f.write(f"#EXTVLCOPT:http-user-agent=VAVOO/2.6\n")
-                        f.write(f"{url}\n\n")
+                        f.write(f"{ch['url']}\n\n")
+
+                    # Add second URL (vavoo-iptv) if different
+                    if ch["hls"] and ch["hls"] != ch["url"]:
+                        extinf = (
+                            f'#EXTINF:-1 tvg-name="{ch["name"]}" group-title="{group}"'
+                        )
+                        if ch["logo"]:
+                            extinf += f' tvg-logo="{ch["logo"]}"'
+                        extinf += f",{ch['display_name']}"
+
+                        f.write(extinf + "\n")
+                        f.write(f"#EXTVLCOPT:http-user-agent=VAVOO/2.6\n")
+                        f.write(f"{ch['hls']}\n\n")
 
             print(f"Created: {filepath} ({len(channels)} channels)")
 
