@@ -1,0 +1,62 @@
+name: Vavoo M3U8 Scraper
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Her 6 saatte bir çalışır
+  workflow_dispatch:  # Manuel tetikleme için
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+    
+    - name: Run scraper
+      run: python scraper.py
+    
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        git add -A
+        if git diff --cached --quiet; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Update M3U8 playlists - $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
+    
+    - name: Create Release
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: v${{ github.run_number }}
+        name: Release ${{ github.run_number }}
+        files: |
+          output/*.m3u8
+          output/channels.json
+        body: |
+          Otomatik M3U8 playlist güncellemesi
+          Tarih: $(date +'%Y-%m-%d %H:%M:%S')
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
