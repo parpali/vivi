@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-02-17 16:33:53
+# Generated: 2026-02-17 19:00:31
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="101 TV (6)" group-title="Spain",101 TV
@@ -18,6 +18,14 @@ https://vavoo.to/live2/play3/4213738396.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4213738396d99ee03292df
 
+#EXTINF:-1 tvg-name="24 HORAS (1)" group-title="Spain",24 HORAS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1537807715.m3u8
+
+#EXTINF:-1 tvg-name="24 HORAS .b" group-title="Spain",24 HORAS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1537807715bf7b793e7a1b
+
 #EXTINF:-1 tvg-name="324 (6)" group-title="Spain",324
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2640191847.m3u8
@@ -25,14 +33,6 @@ https://vavoo.to/live2/play3/2640191847.m3u8
 #EXTINF:-1 tvg-name="324 .c" group-title="Spain",324
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/26401918474a1ae80d29b8
-
-#EXTINF:-1 tvg-name="7 STORIA (6)" group-title="Spain",7 STORIA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2850662107.m3u8
-
-#EXTINF:-1 tvg-name="7 STORIA .c" group-title="Spain",7 STORIA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2850662107b896ff0bd817
 
 #EXTINF:-1 tvg-name="7 TELEVALENCIA (6)" group-title="Spain",7 TELEVALENCIA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -90,10 +90,6 @@ https://vavoo.to/live2/play3/3892867833.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/38928678336f1f46aad32e
 
-#EXTINF:-1 tvg-name="AFV ESPANOL (6)" group-title="Spain",AFV ESPANOL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3307268079.m3u8
-
 #EXTINF:-1 tvg-name="ALACANTI TV (6)" group-title="Spain",ALACANTI TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4125579950.m3u8
@@ -109,10 +105,6 @@ https://vavoo.to/live2/play3/4251716677.m3u8
 #EXTINF:-1 tvg-name="ALCARRIA TV .c" group-title="Spain",ALCARRIA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/425171667778993923b266
-
-#EXTINF:-1 tvg-name="AMC (6)" group-title="Spain",AMC
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1462723502.m3u8
 
 #EXTINF:-1 tvg-name="AMC .c" group-title="Spain",AMC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -189,14 +181,6 @@ https://vavoo.to/live2/play3/4238619703.m3u8
 #EXTINF:-1 tvg-name="AXN .c" group-title="Spain",AXN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4238619703c79ba7b5a5b5
-
-#EXTINF:-1 tvg-name="AXN HD (1)" group-title="Spain",AXN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/251250868.m3u8
-
-#EXTINF:-1 tvg-name="AXN HD .b" group-title="Spain",AXN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/251250868707e65580891
 
 #EXTINF:-1 tvg-name="AXN MOVIES (6)" group-title="Spain",AXN MOVIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -278,14 +262,6 @@ https://vavoo.to/live2/play3/2840476606.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/284047660611490491d734
 
-#EXTINF:-1 tvg-name="BEIN SPORTS LA LIGA (1)" group-title="Spain",BEIN SPORTS LA LIGA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3939390473.m3u8
-
-#EXTINF:-1 tvg-name="BEIN SPORTS LA LIGA .b" group-title="Spain",BEIN SPORTS LA LIGA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3939390473ccb14145d1c8
-
 #EXTINF:-1 tvg-name="BEIN SPORTS N (1)" group-title="Spain",BEIN SPORTS N
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/581292525.m3u8
@@ -314,13 +290,13 @@ https://vavoo.to/vavoo-iptv/play/979824657ec6e3e91de26
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2047635278.m3u8
 
-#EXTINF:-1 tvg-name="BLAZE (6)" group-title="Spain",BLAZE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3009101585.m3u8
-
 #EXTINF:-1 tvg-name="BLAZE .b" group-title="Spain",BLAZE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/204763527891f30bfee012
+
+#EXTINF:-1 tvg-name="BLAZE .c" group-title="Spain",BLAZE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/300910158504cb8cb51518
 
 #EXTINF:-1 tvg-name="BLOOMBERG TV EMEA LIVE EVENT (6)" group-title="Spain",BLOOMBERG TV EMEA LIVE EVENT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -330,17 +306,17 @@ https://vavoo.to/live2/play3/3037841209.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/30378412093288530913f8
 
-#EXTINF:-1 tvg-name="BOING (1)" group-title="Spain",BOING
+#EXTINF:-1 tvg-name="BLOOMBERG TV EUROPE (6)" group-title="Spain",BLOOMBERG TV EUROPE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/636171559.m3u8
+https://vavoo.to/live2/play3/605083986.m3u8
+
+#EXTINF:-1 tvg-name="BLOOMBERG TV EUROPE .c" group-title="Spain",BLOOMBERG TV EUROPE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/60508398645e9136304f3
 
 #EXTINF:-1 tvg-name="BOING (6)" group-title="Spain",BOING
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3971769720.m3u8
-
-#EXTINF:-1 tvg-name="BOING .b" group-title="Spain",BOING
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/6361715592a11c0625d47
 
 #EXTINF:-1 tvg-name="BOING .c" group-title="Spain",BOING
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -534,10 +510,6 @@ https://vavoo.to/vavoo-iptv/play/17954515875c754b9f6059
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3910659553.m3u8
 
-#EXTINF:-1 tvg-name="CANAL PANDA (6)" group-title="Spain",CANAL PANDA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2717687042.m3u8
-
 #EXTINF:-1 tvg-name="CANAL PANDA .b" group-title="Spain",CANAL PANDA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3910659553655335bbf070
@@ -561,22 +533,6 @@ https://vavoo.to/live2/play3/1754187427.m3u8
 #EXTINF:-1 tvg-name="CANAL SAN ROQUE .c" group-title="Spain",CANAL SAN ROQUE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1754187427a6aecaaa25c4
-
-#EXTINF:-1 tvg-name="CANAL SIERRA DE CADIZ (6)" group-title="Spain",CANAL SIERRA CADIZ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1475374610.m3u8
-
-#EXTINF:-1 tvg-name="CANAL SIERRA DE CADIZ .c" group-title="Spain",CANAL SIERRA CADIZ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/14753746109c25df46fa0f
-
-#EXTINF:-1 tvg-name="CANAL SUR A (1)" group-title="Spain",CANAL SUR A
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/460346627.m3u8
-
-#EXTINF:-1 tvg-name="CANAL SUR A .b" group-title="Spain",CANAL SUR A
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/46034662709632fce4484
 
 #EXTINF:-1 tvg-name="CANAL SUR ANDALUCIA (6)" group-title="Spain",CANAL SUR ANDALUCIA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -658,6 +614,14 @@ https://vavoo.to/vavoo-iptv/play/199548381490413d569533
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2747600950db31136b0c1c
 
+#EXTINF:-1 tvg-name="CLASSICA (1)" group-title="Spain",CLASSICA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2838647061.m3u8
+
+#EXTINF:-1 tvg-name="CLASSICA .b" group-title="Spain",CLASSICA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2838647061dc0ac5a9559a
+
 #EXTINF:-1 tvg-name="CNN EN ESPANOL (6)" group-title="Spain",CNN EN ESPANOL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2703788385.m3u8
@@ -730,6 +694,10 @@ https://vavoo.to/live2/play3/1590334161.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1590334161340073a9e76c
 
+#EXTINF:-1 tvg-name="CUATRO HD .b" group-title="Spain",CUATRO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/4194733823af66ad33c883
+
 #EXTINF:-1 tvg-name="CULTURA 24 TV (6)" group-title="Spain",CULTURA 24 TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3509056761.m3u8
@@ -769,10 +737,6 @@ https://vavoo.to/live2/play3/3907910812.m3u8
 #EXTINF:-1 tvg-name="DAZN 2 .c" group-title="Spain",DAZN 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3907910812527bd3e7d3e0
-
-#EXTINF:-1 tvg-name="DAZN 3 (6)" group-title="Spain",DAZN 3
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3582842156.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 3 .c" group-title="Spain",DAZN 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -818,14 +782,6 @@ https://vavoo.to/live2/play3/326701577.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/32670157716e56fb9e2d7
 
-#EXTINF:-1 tvg-name="DIEZ TV (6)" group-title="Spain",DIEZ TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1205331668.m3u8
-
-#EXTINF:-1 tvg-name="DIEZ TV .c" group-title="Spain",DIEZ TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1205331668a25143dfc803
-
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL (1)" group-title="Spain",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3547398786.m3u8
@@ -866,17 +822,9 @@ https://vavoo.to/live2/play3/4257164702.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4257164702a68ba0f258f7
 
-#EXTINF:-1 tvg-name="DIVINITY (1)" group-title="Spain",DIVINITY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/4187786300.m3u8
-
 #EXTINF:-1 tvg-name="DIVINITY (6)" group-title="Spain",DIVINITY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/749287084.m3u8
-
-#EXTINF:-1 tvg-name="DIVINITY .b" group-title="Spain",DIVINITY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4187786300653c6d1fa123
 
 #EXTINF:-1 tvg-name="DIVINITY .c" group-title="Spain",DIVINITY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -938,17 +886,9 @@ https://vavoo.to/live2/play3/1054272251.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1054272251849283d5e194
 
-#EXTINF:-1 tvg-name="ENERGY (1)" group-title="Spain",ENERGY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2540924807.m3u8
-
 #EXTINF:-1 tvg-name="ENERGY (6)" group-title="Spain",ENERGY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/643888368.m3u8
-
-#EXTINF:-1 tvg-name="ENERGY .b" group-title="Spain",ENERGY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2540924807ac0127057542
 
 #EXTINF:-1 tvg-name="ENERGY .c" group-title="Spain",ENERGY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -998,6 +938,10 @@ https://vavoo.to/vavoo-iptv/play/264841934483c891812cda
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3950843408.m3u8
 
+#EXTINF:-1 tvg-name="ESPORT 3 .c" group-title="Spain",ESPORT 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3950843408dbe44dc12bc7
+
 #EXTINF:-1 tvg-name="ETB 1 (6)" group-title="Spain",ETB 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4016507507.m3u8
@@ -1022,29 +966,13 @@ https://vavoo.to/live2/play3/3689889997.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/368988999784df0119366b
 
-#EXTINF:-1 tvg-name="EUROSPORT 1 (1)" group-title="Spain",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2423006885.m3u8
-
 #EXTINF:-1 tvg-name="EUROSPORT 1 (6)" group-title="Spain",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3632748102.m3u8
 
-#EXTINF:-1 tvg-name="EUROSPORT 1 .b" group-title="Spain",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2423006885b7ccbf73b191
-
 #EXTINF:-1 tvg-name="EUROSPORT 1 .c" group-title="Spain",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/36327481024de3d6082e2e
-
-#EXTINF:-1 tvg-name="EUROSPORT 1 HD (1)" group-title="Spain",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1364676535.m3u8
-
-#EXTINF:-1 tvg-name="EUROSPORT 1 HD .b" group-title="Spain",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/13646765354d48c44c48ee
 
 #EXTINF:-1 tvg-name="EUROSPORT 2 (1)" group-title="Spain",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1102,6 +1030,14 @@ https://vavoo.to/live2/play3/2656093401.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2656093401067d606e6608
 
+#EXTINF:-1 tvg-name="FOX LIFE HD (1)" group-title="Spain",FOX LIFE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2765569410.m3u8
+
+#EXTINF:-1 tvg-name="FOX LIFE HD .b" group-title="Spain",FOX LIFE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2765569410803d64e598b6
+
 #EXTINF:-1 tvg-name="FOX SPORTS 3 (6)" group-title="Spain",FOX SPORTS 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3537553816.m3u8
@@ -1154,6 +1090,10 @@ https://vavoo.to/vavoo-iptv/play/144730041936fc8399828e
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4165524123.m3u8
 
+#EXTINF:-1 tvg-name="GOL TV HD .b" group-title="Spain",GOL TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/4165524123220ab279d403
+
 #EXTINF:-1 tvg-name="HAMAIKA TELEBISTA (6)" group-title="Spain",HAMAIKA TELEBISTA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4120875927.m3u8
@@ -1193,14 +1133,6 @@ https://vavoo.to/live2/play3/3449921394.m3u8
 #EXTINF:-1 tvg-name="HOLA TV .c" group-title="Spain",HOLA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3449921394418d5a19bcab
-
-#EXTINF:-1 tvg-name="HOLLYWOOD HD (1)" group-title="Spain",HOLLYWOOD
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/4205258144.m3u8
-
-#EXTINF:-1 tvg-name="HOLLYWOOD HD .b" group-title="Spain",HOLLYWOOD
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/42052581447fa4bb6f74d9
 
 #EXTINF:-1 tvg-name="IBERALIA TV (6)" group-title="Spain",IBERALIA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1242,10 +1174,6 @@ https://vavoo.to/live2/play3/848731827.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/848731827c8d82bc5e1f7
 
-#EXTINF:-1 tvg-name="INVESTIGATION DISCOVERY (6)" group-title="Spain",INVESTIGATION DISCOVERY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1502859990.m3u8
-
 #EXTINF:-1 tvg-name="LA 1 HD (1)" group-title="Spain",LA 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2673626663.m3u8
@@ -1286,10 +1214,6 @@ https://vavoo.to/live2/play3/2660027208.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/26600272080d09932cd976
 
-#EXTINF:-1 tvg-name="LA SEXTA HD (1)" group-title="Spain",LA SEXTA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/238901671.m3u8
-
 #EXTINF:-1 tvg-name="LA SEXTA HD .b" group-title="Spain",LA SEXTA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2389016718049b6c216ad
@@ -1317,10 +1241,6 @@ https://vavoo.to/live2/play3/3958277473.m3u8
 #EXTINF:-1 tvg-name="LALIGA TV HYPERMOTION .c" group-title="Spain",LALIGA TV HYPERMOTION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/395827747349833310a1e2
-
-#EXTINF:-1 tvg-name="LALIGA TV HYPERMOTION 2 (6)" group-title="Spain",LALIGA TV HYPERMOTION 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/899887126.m3u8
 
 #EXTINF:-1 tvg-name="LALIGA TV HYPERMOTION 2 .c" group-title="Spain",LALIGA TV HYPERMOTION 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1358,9 +1278,13 @@ https://vavoo.to/live2/play3/1995273516.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1995273516687dc1fd0a15
 
-#EXTINF:-1 tvg-name="LIGA TV BAR 4 HD (1)" group-title="Spain",LIGA TV BAR 4
+#EXTINF:-1 tvg-name="LIGA TV BAR 3 HD (1)" group-title="Spain",LIGA TV BAR 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/4222536859.m3u8
+https://vavoo.to/live2/play3/4050371970.m3u8
+
+#EXTINF:-1 tvg-name="LIGA TV BAR 3 HD .b" group-title="Spain",LIGA TV BAR 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/40503719708397301e368b
 
 #EXTINF:-1 tvg-name="LOGOS TV (6)" group-title="Spain",LOGOS TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1402,14 +1326,6 @@ https://vavoo.to/live2/play3/3996529465.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/399652946528748febdb3c
 
-#EXTINF:-1 tvg-name="M.ACCION HD (1)" group-title="Spain",M.ACCION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1704900898.m3u8
-
-#EXTINF:-1 tvg-name="M.ACCION HD .b" group-title="Spain",M.ACCION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1704900898b7b10daa61fb
-
 #EXTINF:-1 tvg-name="M.DEPORTES HD (1)" group-title="Spain",M.DEPORTES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2981915461.m3u8
@@ -1417,10 +1333,6 @@ https://vavoo.to/live2/play3/2981915461.m3u8
 #EXTINF:-1 tvg-name="M.DEPORTES HD .b" group-title="Spain",M.DEPORTES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2981915461c801aa5afbb8
-
-#EXTINF:-1 tvg-name="M.ESTRENOS HD (1)" group-title="Spain",M.ESTRENOS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3864398596.m3u8
 
 #EXTINF:-1 tvg-name="M.ESTRENOS HD .b" group-title="Spain",M.ESTRENOS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1458,10 +1370,6 @@ https://vavoo.to/live2/play3/3202539477.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3202539477bc596e397cb0
 
-#EXTINF:-1 tvg-name="MARBELLA TV .c" group-title="Spain",MARBELLA TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/38473146971fef70979e1c
-
 #EXTINF:-1 tvg-name="MARÍA+VISIÓN SEVILLA (6)" group-title="Spain",MARÍAVISIÓN SEVILLA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1551279190.m3u8
@@ -1474,17 +1382,9 @@ https://vavoo.to/vavoo-iptv/play/15512791901eb33c6a3bcf
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1846141874.m3u8
 
-#EXTINF:-1 tvg-name="MEGA (6)" group-title="Spain",MEGA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3831249317.m3u8
-
 #EXTINF:-1 tvg-name="MEGA .b" group-title="Spain",MEGA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1846141874ddcd550a823d
-
-#EXTINF:-1 tvg-name="MEGA .c" group-title="Spain",MEGA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3831249317d31f7f72373c
 
 #EXTINF:-1 tvg-name="MEZZO (6)" group-title="Spain",MEZZO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1510,14 +1410,6 @@ https://vavoo.to/live2/play3/917375885.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/91737588510a3c1c17e0e
 
-#EXTINF:-1 tvg-name="MOLAHITS TV (6)" group-title="Spain",MOLAHITS TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/328081519.m3u8
-
-#EXTINF:-1 tvg-name="MOLAHITS TV .c" group-title="Spain",MOLAHITS TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/328081519f9217971de78
-
 #EXTINF:-1 tvg-name="MOVISTAR ACCI©N HD (1)" group-title="Spain",MOVISTAR ACCI©N
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3697992438.m3u8
@@ -1526,21 +1418,13 @@ https://vavoo.to/live2/play3/3697992438.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/369799243877c07b241614
 
-#EXTINF:-1 tvg-name="MOVISTAR COMEDIA HD (1)" group-title="Spain",MOVISTAR COMEDIA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1285043320.m3u8
-
-#EXTINF:-1 tvg-name="MOVISTAR COMEDIA HD .b" group-title="Spain",MOVISTAR COMEDIA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/128504332060a4fe38a8e9
-
 #EXTINF:-1 tvg-name="MOVISTAR DEPORTE 1 HD (1)" group-title="Spain",MOVISTARPORTE 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1624090577.m3u8
 
-#EXTINF:-1 tvg-name="MOVISTAR DEPORTES (1)" group-title="Spain",MOVISTARPORTES
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTE 1 HD .b" group-title="Spain",MOVISTARPORTE 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1188166343.m3u8
+https://vavoo.to/vavoo-iptv/play/16240905772a1bd64a3b10
 
 #EXTINF:-1 tvg-name="MOVISTAR DEPORTES .b" group-title="Spain",MOVISTARPORTES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1602,6 +1486,14 @@ https://vavoo.to/live2/play3/1969674121.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/19696741218d7802533835
 
+#EXTINF:-1 tvg-name="MOVISTAR LA LIGA 2 (1)" group-title="Spain",MOVISTAR LA LIGA 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/851881305.m3u8
+
+#EXTINF:-1 tvg-name="MOVISTAR LA LIGA 2 .b" group-title="Spain",MOVISTAR LA LIGA 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/851881305a0fa02c31df2
+
 #EXTINF:-1 tvg-name="MOVISTAR LA LIGA 3 (1)" group-title="Spain",MOVISTAR LA LIGA 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/262571241.m3u8
@@ -1610,9 +1502,29 @@ https://vavoo.to/live2/play3/262571241.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/262571241af1412d0bd59
 
-#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 2 HD (ONLY EVENT) (1)" group-title="Spain",MOVISTAR LIGA CAMPEONES 2
+#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES (1)" group-title="Spain",MOVISTAR LIGA CAMPEONES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/994074713.m3u8
+https://vavoo.to/live2/play3/1275784434.m3u8
+
+#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES .b" group-title="Spain",MOVISTAR LIGA CAMPEONES
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/12757844343f601bb69fdf
+
+#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 1 HD (ONLY EVENT) (1)" group-title="Spain",MOVISTAR LIGA CAMPEONES 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1079960250.m3u8
+
+#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 1 HD (ONLY EVENT) .b" group-title="Spain",MOVISTAR LIGA CAMPEONES 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1079960250bf7fa0932bdc
+
+#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 3 HD (ONLY EVENT) (1)" group-title="Spain",MOVISTAR LIGA CAMPEONES 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2761614279.m3u8
+
+#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 3 HD (ONLY EVENT) .b" group-title="Spain",MOVISTAR LIGA CAMPEONES 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2761614279e0fedd97652a
 
 #EXTINF:-1 tvg-name="MOVISTAR SERIES HD (1)" group-title="Spain",MOVISTAR SERIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1662,14 +1574,6 @@ https://vavoo.to/live2/play3/242013171.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2420131717f9390441c4d
 
-#EXTINF:-1 tvg-name="NAT GEO (6)" group-title="Spain",NAT GEO
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3689902952.m3u8
-
-#EXTINF:-1 tvg-name="NAT GEO .c" group-title="Spain",NAT GEO
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/368990295245746b74b191
-
 #EXTINF:-1 tvg-name="NAT GEO WILD (6)" group-title="Spain",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/289455435.m3u8
@@ -1685,14 +1589,6 @@ https://vavoo.to/live2/play3/2832532485.m3u8
 #EXTINF:-1 tvg-name="NAT GEO WILD HD .b" group-title="Spain",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/28325324853238be23b62e
-
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD (1)" group-title="Spain",NATIONAL GEOGRAPHIC
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1462574321.m3u8
-
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD .b" group-title="Spain",NATIONAL GEOGRAPHIC
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1462574321b31f9e6d7ae5
 
 #EXTINF:-1 tvg-name="NATURE TIME (6)" group-title="Spain",NATURE TIME
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1766,17 +1662,9 @@ https://vavoo.to/live2/play3/3216535545.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/321653554534df94f5da2b
 
-#EXTINF:-1 tvg-name="NOVA (1)" group-title="Spain",NOVA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2356963873.m3u8
-
 #EXTINF:-1 tvg-name="NOVA (6)" group-title="Spain",NOVA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/103395382.m3u8
-
-#EXTINF:-1 tvg-name="NOVA .b" group-title="Spain",NOVA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2356963873e7ce82620920
 
 #EXTINF:-1 tvg-name="NOVA .c" group-title="Spain",NOVA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1926,14 +1814,6 @@ https://vavoo.to/live2/play3/2530683051.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2530683051ea555965fb34
 
-#EXTINF:-1 tvg-name="RT ESPAÑOL (6)" group-title="Spain",RT ESPAÑOL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3881386219.m3u8
-
-#EXTINF:-1 tvg-name="RT ESPAÑOL .c" group-title="Spain",RT ESPAÑOL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3881386219e58c8c23cade
-
 #EXTINF:-1 tvg-name="RTV VIDA (6)" group-title="Spain",RTV VIDA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2788570309.m3u8
@@ -2046,6 +1926,14 @@ https://vavoo.to/live2/play3/741857817.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/7418578175d4eb0bc1477
 
+#EXTINF:-1 tvg-name="TELE MADRID (1)" group-title="Spain",TELE MADRID
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/353289702.m3u8
+
+#EXTINF:-1 tvg-name="TELE MADRID .b" group-title="Spain",TELE MADRID
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3532897029ab4f9dc6816
+
 #EXTINF:-1 tvg-name="TELE SAFOR (6)" group-title="Spain",TELE SAFOR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/977226543.m3u8
@@ -2074,17 +1962,9 @@ https://vavoo.to/vavoo-iptv/play/3530959720aaf7aac4561
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2183991865.m3u8
 
-#EXTINF:-1 tvg-name="TELEDEPORTE (6)" group-title="Spain",TELEDEPORTE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3401999066.m3u8
-
 #EXTINF:-1 tvg-name="TELEDEPORTE .b" group-title="Spain",TELEDEPORTE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2183991865322ec9dc545e
-
-#EXTINF:-1 tvg-name="TELEDEPORTE .c" group-title="Spain",TELEDEPORTE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3401999066566457ba13c2
 
 #EXTINF:-1 tvg-name="TELEDEPORTE HD (1)" group-title="Spain",TELEDEPORTE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2150,6 +2030,10 @@ https://vavoo.to/vavoo-iptv/play/25373200360bc88aa084ee
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/19804052756a4cb9bd26b9
 
+#EXTINF:-1 tvg-name="TNT HD (1)" group-title="Spain",TNT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/4259288064.m3u8
+
 #EXTINF:-1 tvg-name="TNT HD .b" group-title="Spain",TNT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4259288064c3a27aa033d4
@@ -2186,6 +2070,10 @@ https://vavoo.to/live2/play3/902146587.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/90214658748d677e663ea
 
+#EXTINF:-1 tvg-name="TV CASTILLA LA MANCHA / CMM TV (6)" group-title="Spain",TV CASTILLA LA MANCHA / CMM TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3432994000.m3u8
+
 #EXTINF:-1 tvg-name="TV CASTILLA LA MANCHA / CMM TV .c" group-title="Spain",TV CASTILLA LA MANCHA / CMM TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/34329940007d9f909711c6
@@ -2197,14 +2085,6 @@ https://vavoo.to/live2/play3/4080888323.m3u8
 #EXTINF:-1 tvg-name="TV GALICIA .b" group-title="Spain",TV GALICIA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/408088832332d80c000ab7
-
-#EXTINF:-1 tvg-name="TV3 CATALUNIA (1)" group-title="Spain",TV3 CATALUNIA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2235179797.m3u8
-
-#EXTINF:-1 tvg-name="TV3 CATALUNIA .b" group-title="Spain",TV3 CATALUNIA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2235179797b72f603efdd6
 
 #EXTINF:-1 tvg-name="TV3 CATALUNYA (6)" group-title="Spain",TV3 CATALUNYA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2286,21 +2166,13 @@ https://vavoo.to/live2/play3/2240938054.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22409380548021cfe17195
 
-#EXTINF:-1 tvg-name="UROLA TELEBISTA (6)" group-title="Spain",UROLA TELEBISTA
+#EXTINF:-1 tvg-name="VAMOS BAR 2 HD (1)" group-title="Spain",VAMOS BAR 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2196564158.m3u8
+https://vavoo.to/live2/play3/154698207.m3u8
 
-#EXTINF:-1 tvg-name="UROLA TELEBISTA .c" group-title="Spain",UROLA TELEBISTA
+#EXTINF:-1 tvg-name="VAMOS BAR 2 HD .b" group-title="Spain",VAMOS BAR 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2196564158620e56faea84
-
-#EXTINF:-1 tvg-name="VAMOS BAR 1 HD (1)" group-title="Spain",VAMOS BAR 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2276951612.m3u8
-
-#EXTINF:-1 tvg-name="VAMOS BAR 1 HD .b" group-title="Spain",VAMOS BAR 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/22769516123defcca9246a
+https://vavoo.to/vavoo-iptv/play/15469820736c30cac2b55
 
 #EXTINF:-1 tvg-name="VAMOS HD (1)" group-title="Spain",VAMOS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2309,10 +2181,6 @@ https://vavoo.to/live2/play3/450666896.m3u8
 #EXTINF:-1 tvg-name="VAMOS HD .b" group-title="Spain",VAMOS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/450666896020c76abd3b4
-
-#EXTINF:-1 tvg-name="VIAJAR HD (1)" group-title="Spain",VIAJAR
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/296276062.m3u8
 
 #EXTINF:-1 tvg-name="WARNER TV (6)" group-title="Spain",WARNER TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2330,11 +2198,19 @@ https://vavoo.to/live2/play3/2269507513.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22695075131188f358de78
 
-#EXTINF:-1 tvg-name="YU-GI-OH! EN ESPANOL (6)" group-title="Spain",YU-GI-OH! EN ESPANOL
+#EXTINF:-1 tvg-name="XTRM FULL HD (1)" group-title="Spain",XTRM FULL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/4288771976.m3u8
+https://vavoo.to/live2/play3/4208329945.m3u8
 
-#EXTINF:-1 tvg-name="YU-GI-OH! EN ESPANOL .c" group-title="Spain",YU-GI-OH! EN ESPANOL
+#EXTINF:-1 tvg-name="XTRM FULL HD .b" group-title="Spain",XTRM FULL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4288771976ed19ca1898e4
+https://vavoo.to/vavoo-iptv/play/4208329945424738bf4d34
+
+#EXTINF:-1 tvg-name="ZAZ (6)" group-title="Spain",ZAZ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/683974162.m3u8
+
+#EXTINF:-1 tvg-name="ZAZ .c" group-title="Spain",ZAZ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/683974162b7b92a891431
 
