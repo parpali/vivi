@@ -5,6 +5,10 @@ on:
     - cron: '0 */6 * * *'  # Her 6 saatte bir çalışır
   workflow_dispatch:  # Manuel tetikleme için
 
+permissions:
+  contents: write
+  actions: read
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -13,7 +17,8 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ github.token }}
+        fetch-depth: 0
     
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -40,9 +45,12 @@ jobs:
     
     - name: Commit changes
       if: steps.verify-changed-files.outputs.changed == 'true'
+      env:
+        GITHUB_TOKEN: ${{ github.token }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
         git commit -m "Update M3U8 playlists - $(date +'%Y-%m-%d %H:%M:%S')"
         git push
     
@@ -59,4 +67,4 @@ jobs:
           Otomatik M3U8 playlist güncellemesi
           Tarih: $(date +'%Y-%m-%d %H:%M:%S')
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ github.token }}
