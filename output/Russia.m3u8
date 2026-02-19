@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-02-19 07:03:33
+# Generated: 2026-02-19 13:11:32
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name=".BLACK (1)" group-title="Russia",.BLACK
@@ -9,14 +9,6 @@ https://vavoo.to/live2/play3/1140356951.m3u8
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
-
-#EXTINF:-1 tvg-name=".RED HD (1)" group-title="Russia",.RED
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2721165060.m3u8
-
-#EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 
 #EXTINF:-1 tvg-name=".SCI‑FI (1)" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1329,6 +1321,14 @@ https://vavoo.to/live2/play3/3184010784.m3u8
 #EXTINF:-1 tvg-name="MIR .s" group-title="Russia",MIR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/31840107842565adf1ebf2
+
+#EXTINF:-1 tvg-name="MIR 24 (7)" group-title="Russia",MIR 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3982716238.m3u8
+
+#EXTINF:-1 tvg-name="MIR 24 .s" group-title="Russia",MIR 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3982716238abeb14ba268d
 
 #EXTINF:-1 tvg-name="MORSKOE TV (7)" group-title="Russia",MORSKOE TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2969,14 +2969,6 @@ https://vavoo.to/vavoo-iptv/play/32257762953f167416a84
 #EXTINF:-1 tvg-name="МИР .s" group-title="Russia",МИР
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4196979288523a8fdbefe6
-
-#EXTINF:-1 tvg-name="МИР 24 (1)" group-title="Russia",МИР 24
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3907006199.m3u8
-
-#EXTINF:-1 tvg-name="МИР 24 .b" group-title="Russia",МИР 24
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/39070061997f0591c7f88a
 
 #EXTINF:-1 tvg-name="МИР БАСКЕТБОЛА (1)" group-title="Russia",МИР БАСКЕТБОЛА
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
