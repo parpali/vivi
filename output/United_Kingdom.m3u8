@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-02-20 02:22:21
+# Generated: 2026-02-20 07:00:02
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="4MUSIC (7)" group-title="United Kingdom",4MUSIC
@@ -434,14 +434,6 @@ https://vavoo.to/vavoo-iptv/play/15686218534888fee63119
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3876363641b23f2cc010a2
 
-#EXTINF:-1 tvg-name="BBC RB 1 (1)" group-title="United Kingdom",BBC RB 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1552216115.m3u8
-
-#EXTINF:-1 tvg-name="BBC RB 1 .b" group-title="United Kingdom",BBC RB 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/15522161157800985ae1b0
-
 #EXTINF:-1 tvg-name="BBC SCOTLAND (7)" group-title="United Kingdom",BBC SCOTLAND
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/857408474.m3u8
@@ -705,6 +697,22 @@ https://vavoo.to/live2/play3/3579790332.m3u8
 #EXTINF:-1 tvg-name="BT SPORT 3 HD .b" group-title="United Kingdom",BT SPORT 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/35797903326b239f73f665
+
+#EXTINF:-1 tvg-name="BT SPORT ESPN (1)" group-title="United Kingdom",BT SPORT ESPN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3352660234.m3u8
+
+#EXTINF:-1 tvg-name="BT SPORT ESPN .b" group-title="United Kingdom",BT SPORT ESPN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3352660234714a7f3c3896
+
+#EXTINF:-1 tvg-name="BT SPORT ESPN HD (1)" group-title="United Kingdom",BT SPORT ESPN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/408026803.m3u8
+
+#EXTINF:-1 tvg-name="BT SPORT ESPN HD .b" group-title="United Kingdom",BT SPORT ESPN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/40802680329724cb15ca9
 
 #EXTINF:-1 tvg-name="C4 L (1)" group-title="United Kingdom",C4 L
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2981,10 +2989,6 @@ https://vavoo.to/vavoo-iptv/play/2076828992fca12b8e89eb
 #EXTINF:-1 tvg-name="SKY CINEMA ACTION (7)" group-title="United Kingdom",SKY CINEMA ACTION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1985468567.m3u8
-
-#EXTINF:-1 tvg-name="SKY CINEMA ACTION .b" group-title="United Kingdom",SKY CINEMA ACTION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1618904678c7bdd1ee6568
 
 #EXTINF:-1 tvg-name="SKY CINEMA ACTION .s" group-title="United Kingdom",SKY CINEMA ACTION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
