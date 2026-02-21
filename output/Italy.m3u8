@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-02-21 12:53:10
+# Generated: 2026-02-21 18:38:34
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="111 TV (6)" group-title="Italy",111 TV
@@ -193,14 +193,6 @@ https://vavoo.to/live2/play3/2476433040.m3u8
 #EXTINF:-1 tvg-name="BERGAMO TV .c" group-title="Italy",BERGAMO TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
-
-#EXTINF:-1 tvg-name="BIKE (6)" group-title="Italy",BIKE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3095895412.m3u8
-
-#EXTINF:-1 tvg-name="BIKE .c" group-title="Italy",BIKE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f
 
 #EXTINF:-1 tvg-name="BLAZE (6)" group-title="Italy",BLAZE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -522,14 +514,6 @@ https://vavoo.to/live2/play3/861948627.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
 
-#EXTINF:-1 tvg-name="DAZN (MATCH TIME) (7)" group-title="Italy",DAZN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2303792166.m3u8
-
-#EXTINF:-1 tvg-name="DAZN (MATCH TIME) .s" group-title="Italy",DAZN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
-
 #EXTINF:-1 tvg-name="DAZN 1 (6)" group-title="Italy",DAZN 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1376440573.m3u8
@@ -537,6 +521,10 @@ https://vavoo.to/live2/play3/1376440573.m3u8
 #EXTINF:-1 tvg-name="DAZN 1 .c" group-title="Italy",DAZN 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
+
+#EXTINF:-1 tvg-name="DAZN 2 .c" group-title="Italy",DAZN 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 
 #EXTINF:-1 tvg-name="DEEJAY TV (6)" group-title="Italy",DEEJAY TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1094,9 +1082,17 @@ https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2143522071.m3u8
 
+#EXTINF:-1 tvg-name="LA 7 (7)" group-title="Italy",LA 7
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/775530063.m3u8
+
 #EXTINF:-1 tvg-name="LA 7 .c" group-title="Italy",LA 7
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3
+
+#EXTINF:-1 tvg-name="LA 7 .s" group-title="Italy",LA 7
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 
 #EXTINF:-1 tvg-name="LA 7 D (6)" group-title="Italy",LA 7 D
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1257,6 +1253,10 @@ https://vavoo.to/live2/play3/3212860676.m3u8
 #EXTINF:-1 tvg-name="MTV .c" group-title="Italy",MTV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
+
+#EXTINF:-1 tvg-name="MTV HITS (7)" group-title="Italy",MTV HITS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3446813098.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO (6)" group-title="Italy",NAT GEO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1978,17 +1978,9 @@ https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
 
-#EXTINF:-1 tvg-name="SKY ARTE (6)" group-title="Italy",SKY ARTE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1806815496.m3u8
-
 #EXTINF:-1 tvg-name="SKY ARTE (7)" group-title="Italy",SKY ARTE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1902695925.m3u8
-
-#EXTINF:-1 tvg-name="SKY ARTE .c" group-title="Italy",SKY ARTE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 
 #EXTINF:-1 tvg-name="SKY ARTE .s" group-title="Italy",SKY ARTE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2034,17 +2026,9 @@ https://vavoo.to/vavoo-iptv/play/381279617198e7a1b969ee
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62
 
-#EXTINF:-1 tvg-name="SKY CINEMA COLLECTION (6)" group-title="Italy",SKY CINEMA COLLECTION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1759653413.m3u8
-
 #EXTINF:-1 tvg-name="SKY CINEMA COLLECTION (7)" group-title="Italy",SKY CINEMA COLLECTION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3525837057.m3u8
-
-#EXTINF:-1 tvg-name="SKY CINEMA COLLECTION .c" group-title="Italy",SKY CINEMA COLLECTION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1759653413f7025450e6b1
 
 #EXTINF:-1 tvg-name="SKY CINEMA COLLECTION .s" group-title="Italy",SKY CINEMA COLLECTION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2185,14 +2169,6 @@ https://vavoo.to/live2/play3/1968640789.m3u8
 #EXTINF:-1 tvg-name="SKY INVESTIGATION .c" group-title="Italy",SKY INVESTIGATION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/19686407898d20b9ce24d1
-
-#EXTINF:-1 tvg-name="SKY NATURE (6)" group-title="Italy",SKY NATURE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3810188456.m3u8
-
-#EXTINF:-1 tvg-name="SKY NATURE .c" group-title="Italy",SKY NATURE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 1 (6)" group-title="Italy",SKY PRIMAFILA 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2446,10 +2422,6 @@ https://vavoo.to/live2/play3/2555960713.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 
-#EXTINF:-1 tvg-name="SKY SPORT ARENA .s" group-title="Italy",SKY SPORT ARENA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
-
 #EXTINF:-1 tvg-name="SKY SPORT CALCIO (6)" group-title="Italy",SKY SPORT CALCIO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1665920101.m3u8
@@ -2465,14 +2437,6 @@ https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTINF:-1 tvg-name="SKY SPORT CALCIO .s" group-title="Italy",SKY SPORT CALCIO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
-
-#EXTINF:-1 tvg-name="SKY SPORT F1 (6)" group-title="Italy",SKY SPORT F1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/4246774056.m3u8
-
-#EXTINF:-1 tvg-name="SKY SPORT F1 .c" group-title="Italy",SKY SPORT F1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 
 #EXTINF:-1 tvg-name="SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (7)" group-title="Italy",SKY SPORT FOOTBALL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2561,14 +2525,6 @@ https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 #EXTINF:-1 tvg-name="SKY SPORT UNO .s" group-title="Italy",SKY SPORT UNO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
-
-#EXTINF:-1 tvg-name="SKY SPORTS F1 (7)" group-title="Italy",SKY SPORTS F1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2289038972.m3u8
-
-#EXTINF:-1 tvg-name="SKY SPORTS F1 .s" group-title="Italy",SKY SPORTS F1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 
 #EXTINF:-1 tvg-name="SKY SUPER TENNIS (7)" group-title="Italy",SKY SUPER TENNIS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
