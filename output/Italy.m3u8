@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-02-21 02:09:00
+# Generated: 2026-02-21 06:46:02
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="111 TV (6)" group-title="Italy",111 TV
@@ -150,17 +150,9 @@ https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3938501125.m3u8
 
-#EXTINF:-1 tvg-name="BABY TV (7)" group-title="Italy",BABY TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2265727942.m3u8
-
 #EXTINF:-1 tvg-name="BABY TV .c" group-title="Italy",BABY TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/39385011257cd02ab803dc
-
-#EXTINF:-1 tvg-name="BABY TV .s" group-title="Italy",BABY TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 
 #EXTINF:-1 tvg-name="BBC TOP GEAR ITALY (6)" group-title="Italy",BBC TOP GEAR ITALY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -522,6 +514,10 @@ https://vavoo.to/live2/play3/861948627.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
 
+#EXTINF:-1 tvg-name="DAZN (MATCH TIME) .s" group-title="Italy",DAZN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
+
 #EXTINF:-1 tvg-name="DAZN 1 (6)" group-title="Italy",DAZN 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1376440573.m3u8
@@ -529,10 +525,6 @@ https://vavoo.to/live2/play3/1376440573.m3u8
 #EXTINF:-1 tvg-name="DAZN 1 .c" group-title="Italy",DAZN 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
-
-#EXTINF:-1 tvg-name="DAZN 2 (6)" group-title="Italy",DAZN 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/363506221.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 2 .c" group-title="Italy",DAZN 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1306,6 +1298,14 @@ https://vavoo.to/live2/play3/380958472.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
 
+#EXTINF:-1 tvg-name="NICKELODEON (6)" group-title="Italy",NICKELODEON
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3039389215.m3u8
+
+#EXTINF:-1 tvg-name="NICKELODEON .c" group-title="Italy",NICKELODEON
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
+
 #EXTINF:-1 tvg-name="NOVE (6)" group-title="Italy",NOVE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/867216452.m3u8
@@ -2042,6 +2042,10 @@ https://vavoo.to/vavoo-iptv/play/381279617198e7a1b969ee
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62
 
+#EXTINF:-1 tvg-name="SKY CINEMA COLLECTION (6)" group-title="Italy",SKY CINEMA COLLECTION
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1759653413.m3u8
+
 #EXTINF:-1 tvg-name="SKY CINEMA COLLECTION (7)" group-title="Italy",SKY CINEMA COLLECTION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3525837057.m3u8
@@ -2377,10 +2381,6 @@ https://vavoo.to/live2/play3/3618643172.m3u8
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 7 .c" group-title="Italy",SKY PRIMAFILA 7
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
-
-#EXTINF:-1 tvg-name="SKY PRIMAFILA 7 .s" group-title="Italy",SKY PRIMAFILA 7
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
 
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 8 (6)" group-title="Italy",SKY PRIMAFILA 8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3029,6 +3029,14 @@ https://vavoo.to/live2/play3/3271666551.m3u8
 #EXTINF:-1 tvg-name="TELETUTTO .c" group-title="Italy",TELETUTTO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3271666551331132c8bfab
+
+#EXTINF:-1 tvg-name="TG COM 24 (7)" group-title="Italy",TG COM 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1785098768.m3u8
+
+#EXTINF:-1 tvg-name="TG COM 24 .s" group-title="Italy",TG COM 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 
 #EXTINF:-1 tvg-name="TG NORBA 24 (6)" group-title="Italy",TG NORBA 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
