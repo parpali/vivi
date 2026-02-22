@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-02-22 02:26:30
+# Generated: 2026-02-22 06:52:29
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="111 TV (6)" group-title="Italy",111 TV
@@ -938,6 +938,10 @@ https://vavoo.to/live2/play3/317837654.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
 
+#EXTINF:-1 tvg-name="HISTORY .s" group-title="Italy",HISTORY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
+
 #EXTINF:-1 tvg-name="ICARO TV (6)" group-title="Italy",ICARO TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2488017405.m3u8
@@ -1238,17 +1242,9 @@ https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3758728323.m3u8
 
-#EXTINF:-1 tvg-name="MOTORTREND (7)" group-title="Italy",MOTORTREND
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3889279895.m3u8
-
 #EXTINF:-1 tvg-name="MOTORTREND .c" group-title="Italy",MOTORTREND
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
-
-#EXTINF:-1 tvg-name="MOTORTREND .s" group-title="Italy",MOTORTREND
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 
 #EXTINF:-1 tvg-name="MTV (6)" group-title="Italy",MTV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1289,6 +1285,14 @@ https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 #EXTINF:-1 tvg-name="NAT GEO WILD .s" group-title="Italy",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
+
+#EXTINF:-1 tvg-name="NICK JR (6)" group-title="Italy",NICK JR
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/380958472.m3u8
+
+#EXTINF:-1 tvg-name="NICK JR .c" group-title="Italy",NICK JR
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
 
 #EXTINF:-1 tvg-name="NICKELODEON (6)" group-title="Italy",NICKELODEON
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2665,6 +2669,14 @@ https://vavoo.to/live2/play3/3237793511.m3u8
 #EXTINF:-1 tvg-name="STAR CHANNEL .c" group-title="Italy",STAR CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/323779351103799e6e03b2
+
+#EXTINF:-1 tvg-name="STAR CRIME (6)" group-title="Italy",STAR CRIME
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2843642945.m3u8
+
+#EXTINF:-1 tvg-name="STAR CRIME .c" group-title="Italy",STAR CRIME
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/28436429458ff4e2cc4ae6
 
 #EXTINF:-1 tvg-name="STEREO 5 TV (6)" group-title="Italy",STEREO 5 TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
