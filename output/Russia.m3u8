@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-02-24 19:06:00
+# Generated: 2026-02-25 02:25:07
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name=".BLACK (1)" group-title="Russia",.BLACK
@@ -290,9 +290,17 @@ https://vavoo.to/live2/play3/2282393545.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/228239354576d2e55f9999
 
+#EXTINF:-1 tvg-name="BOOMERANG (1)" group-title="Russia",BOOMERANG
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2520496704.m3u8
+
 #EXTINF:-1 tvg-name="BOOMERANG (7)" group-title="Russia",BOOMERANG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/427820695.m3u8
+
+#EXTINF:-1 tvg-name="BOOMERANG .b" group-title="Russia",BOOMERANG
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2520496704d469ed1d760c
 
 #EXTINF:-1 tvg-name="BOOMERANG .s" group-title="Russia",BOOMERANG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1313,6 +1321,14 @@ https://vavoo.to/live2/play3/3184010784.m3u8
 #EXTINF:-1 tvg-name="MIR .s" group-title="Russia",MIR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/31840107842565adf1ebf2
+
+#EXTINF:-1 tvg-name="MIR 24 (7)" group-title="Russia",MIR 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3982716238.m3u8
+
+#EXTINF:-1 tvg-name="MIR 24 .s" group-title="Russia",MIR 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3982716238abeb14ba268d
 
 #EXTINF:-1 tvg-name="MORSKOE TV (7)" group-title="Russia",MORSKOE TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
