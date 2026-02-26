@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-02-26 02:21:17
+# Generated: 2026-02-26 07:03:31
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name=".BLACK (1)" group-title="Russia",.BLACK
@@ -290,9 +290,17 @@ https://vavoo.to/live2/play3/2282393545.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/228239354576d2e55f9999
 
+#EXTINF:-1 tvg-name="BOOMERANG (1)" group-title="Russia",BOOMERANG
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2520496704.m3u8
+
 #EXTINF:-1 tvg-name="BOOMERANG (7)" group-title="Russia",BOOMERANG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/427820695.m3u8
+
+#EXTINF:-1 tvg-name="BOOMERANG .b" group-title="Russia",BOOMERANG
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2520496704d469ed1d760c
 
 #EXTINF:-1 tvg-name="BOOMERANG .s" group-title="Russia",BOOMERANG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -717,6 +725,18 @@ https://vavoo.to/vavoo-iptv/play/2590559126f154af044a7f
 #EXTINF:-1 tvg-name="FIGHTBOX HD (1)" group-title="Russia",FIGHTBOX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2335621669.m3u8
+
+#EXTINF:-1 tvg-name="FIGHTBOX HD .b" group-title="Russia",FIGHTBOX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/23356216693b1fd414fca4
+
+#EXTINF:-1 tvg-name="FINE LIVING (7)" group-title="Russia",FINE LIVING
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1424422972.m3u8
+
+#EXTINF:-1 tvg-name="FINE LIVING .s" group-title="Russia",FINE LIVING
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1424422972a322cdb9ec0c
 
 #EXTINF:-1 tvg-name="FIRST CHANNEL (7)" group-title="Russia",FIRST CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2386,17 +2406,9 @@ https://vavoo.to/vavoo-iptv/play/3174271118629b40061aea
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3911583368.m3u8
 
-#EXTINF:-1 tvg-name="VIASAT SPORT HD .b" group-title="Russia",VIASAT SPORT
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/39115833688bd8257dcaef
-
 #EXTINF:-1 tvg-name="VIJU+ EXPLORER (7)" group-title="Russia",VIJU EXPLORER
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1422230645.m3u8
-
-#EXTINF:-1 tvg-name="VIJU+ EXPLORER .s" group-title="Russia",VIJU EXPLORER
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/142223064552735909a941
 
 #EXTINF:-1 tvg-name="VIJU+ HISTORY (7)" group-title="Russia",VIJU HISTORY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
