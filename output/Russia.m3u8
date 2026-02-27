@@ -1,6 +1,22 @@
 #EXTM3U
-# Generated: 2026-02-26 18:55:47
+# Generated: 2026-02-27 02:12:40
 # Source: vavoo.to
+
+#EXTINF:-1 tvg-name=".BLACK (1)" group-title="Russia",.BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1140356951.m3u8
+
+#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
+
+#EXTINF:-1 tvg-name=".RED HD (1)" group-title="Russia",.RED
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2721165060.m3u8
+
+#EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 
 #EXTINF:-1 tvg-name=".SCI‑FI (1)" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -282,10 +298,6 @@ https://vavoo.to/live2/play3/2520496704.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/427820695.m3u8
 
-#EXTINF:-1 tvg-name="BOOMERANG .b" group-title="Russia",BOOMERANG
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2520496704d469ed1d760c
-
 #EXTINF:-1 tvg-name="BOOMERANG .s" group-title="Russia",BOOMERANG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/427820695e1f57b2eddeb
@@ -490,17 +502,9 @@ https://vavoo.to/live2/play3/3076151845.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/307615184548fbf89e2e42
 
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE (1)" group-title="Russia",DISCOVERY SCIENCE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/66532237.m3u8
-
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE (7)" group-title="Russia",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4026890856.m3u8
-
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE .b" group-title="Russia",DISCOVERY SCIENCE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/665322372175c57c978d
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE .s" group-title="Russia",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3233,6 +3237,14 @@ https://vavoo.to/live2/play3/3816805706.m3u8
 #EXTINF:-1 tvg-name="ПЕРВЫЙ КАНАЛ .s" group-title="Russia",ПЕРВЫЙ КАНАЛ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3816805706731251182a76
+
+#EXTINF:-1 tvg-name="ПЕРВЫЙ КАНАЛ HD (1)" group-title="Russia",ПЕРВЫЙ КАНАЛ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/161958207.m3u8
+
+#EXTINF:-1 tvg-name="ПЕРВЫЙ КАНАЛ HD .b" group-title="Russia",ПЕРВЫЙ КАНАЛ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1619582073dede2b25db6
 
 #EXTINF:-1 tvg-name="ПРОДВИЖЕНИЕ (1)" group-title="Russia",ПРОДВИЖЕНИЕ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
