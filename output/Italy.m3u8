@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-02-28 02:03:19
+# Generated: 2026-02-28 06:41:45
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="111 TV (6)" group-title="Italy",111 TV
@@ -265,14 +265,6 @@ https://vavoo.to/live2/play3/1692155417.m3u8
 #EXTINF:-1 tvg-name="CACCIA .c" group-title="Italy",CACCIA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
-
-#EXTINF:-1 tvg-name="CACCIA E PESCA (6)" group-title="Italy",CACCIA E PESCA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3639213638.m3u8
-
-#EXTINF:-1 tvg-name="CACCIA E PESCA .c" group-title="Italy",CACCIA E PESCA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 
 #EXTINF:-1 tvg-name="CAFE 24 (6)" group-title="Italy",CAFE 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -938,9 +930,17 @@ https://vavoo.to/vavoo-iptv/play/28977827817ceeecfaf662
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
 
+#EXTINF:-1 tvg-name="HISTORY (6)" group-title="Italy",HISTORY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/317837654.m3u8
+
 #EXTINF:-1 tvg-name="HISTORY (7)" group-title="Italy",HISTORY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2134724757.m3u8
+
+#EXTINF:-1 tvg-name="HISTORY .c" group-title="Italy",HISTORY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
 
 #EXTINF:-1 tvg-name="HISTORY .s" group-title="Italy",HISTORY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1265,6 +1265,14 @@ https://vavoo.to/live2/play3/3212860676.m3u8
 #EXTINF:-1 tvg-name="MTV .c" group-title="Italy",MTV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
+
+#EXTINF:-1 tvg-name="MTV HITS (7)" group-title="Italy",MTV HITS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3446813098.m3u8
+
+#EXTINF:-1 tvg-name="MTV HITS .s" group-title="Italy",MTV HITS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 
 #EXTINF:-1 tvg-name="NAT GEO (6)" group-title="Italy",NAT GEO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
