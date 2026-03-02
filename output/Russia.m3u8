@@ -1,10 +1,14 @@
 #EXTM3U
-# Generated: 2026-03-02 07:01:59
+# Generated: 2026-03-02 13:04:00
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name=".BLACK (1)" group-title="Russia",.BLACK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1140356951.m3u8
+
+#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
 
 #EXTINF:-1 tvg-name=".RED HD (1)" group-title="Russia",.RED
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -13,6 +17,10 @@ https://vavoo.to/live2/play3/2721165060.m3u8
 #EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
+
+#EXTINF:-1 tvg-name=".SCI‑FI (1)" group-title="Russia",.SCI‑FI
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/885844520.m3u8
 
 #EXTINF:-1 tvg-name=".SCI‑FI .b" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -117,6 +125,10 @@ https://vavoo.to/vavoo-iptv/play/349069633754bdf2a02ab3
 #EXTINF:-1 tvg-name="ABTO 24 (7)" group-title="Russia",ABTO 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1021671027.m3u8
+
+#EXTINF:-1 tvg-name="ABTO 24 .s" group-title="Russia",ABTO 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1021671027bcdb408e2329
 
 #EXTINF:-1 tvg-name="AMC (7)" group-title="Russia",AMC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -278,17 +290,9 @@ https://vavoo.to/live2/play3/2282393545.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/228239354576d2e55f9999
 
-#EXTINF:-1 tvg-name="BOOMERANG (1)" group-title="Russia",BOOMERANG
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2520496704.m3u8
-
 #EXTINF:-1 tvg-name="BOOMERANG (7)" group-title="Russia",BOOMERANG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/427820695.m3u8
-
-#EXTINF:-1 tvg-name="BOOMERANG .b" group-title="Russia",BOOMERANG
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2520496704d469ed1d760c
 
 #EXTINF:-1 tvg-name="BOOMERANG .s" group-title="Russia",BOOMERANG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -493,6 +497,10 @@ https://vavoo.to/live2/play3/3076151845.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY ID XTRA .s" group-title="Russia",DISCOVERY ID XTRA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/307615184548fbf89e2e42
+
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE (1)" group-title="Russia",DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/66532237.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE (7)" group-title="Russia",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2770,6 +2778,14 @@ https://vavoo.to/live2/play3/7825875.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/7825875d3df1b387437
 
+#EXTINF:-1 tvg-name="КИНОСЕРИЯ (1)" group-title="Russia",КИНОСЕРИЯ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2489244500.m3u8
+
+#EXTINF:-1 tvg-name="КИНОСЕРИЯ .b" group-title="Russia",КИНОСЕРИЯ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/248924450008b27f737cf2
+
 #EXTINF:-1 tvg-name="КИНОУЖАС (1)" group-title="Russia",КИНОУЖАС
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/320077498.m3u8
@@ -2881,14 +2897,6 @@ https://vavoo.to/live2/play3/3492167345.m3u8
 #EXTINF:-1 tvg-name="МАТЧ! ИГРА HD .b" group-title="Russia",МАТЧ! ИГРА
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/34921673454e08dcb9e5a9
-
-#EXTINF:-1 tvg-name="МАТЧ! ПЛАНЕТА (1)" group-title="Russia",МАТЧ! ПЛАНЕТА
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2979742456.m3u8
-
-#EXTINF:-1 tvg-name="МАТЧ! ПЛАНЕТА .b" group-title="Russia",МАТЧ! ПЛАНЕТА
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/29797424561db713a39e88
 
 #EXTINF:-1 tvg-name="МАТЧ! СТРАНА (1)" group-title="Russia",МАТЧ! СТРАНА
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3081,6 +3089,14 @@ https://vavoo.to/live2/play3/2794857251.m3u8
 #EXTINF:-1 tvg-name="НАСТОЯЩЕЕ СТРАШНОЕ ТЕЛЕВИДЕНИЕ (НСТВ) .b" group-title="Russia",НАСТОЯЩЕЕ СТРАШНОЕ ТЕЛЕВИДЕНИЕ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/27948572519809d7e05c91
+
+#EXTINF:-1 tvg-name="НАУКА (1)" group-title="Russia",НАУКА
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2939946239.m3u8
+
+#EXTINF:-1 tvg-name="НАУКА .b" group-title="Russia",НАУКА
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/29399462392930a7eaf64c
 
 #EXTINF:-1 tvg-name="НАША ТЕМА HD (1)" group-title="Russia",НАША ТЕМА
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3282,14 +3298,6 @@ https://vavoo.to/live2/play3/468878553.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/468878553b51a51d6bc6c
 
-#EXTINF:-1 tvg-name="РАТНИК HD (1)" group-title="Russia",РАТНИК
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1108408366.m3u8
-
-#EXTINF:-1 tvg-name="РАТНИК HD .b" group-title="Russia",РАТНИК
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/110840836679616a4c3db2
-
 #EXTINF:-1 tvg-name="РБК‑ТВ (1)" group-title="Russia",РБК‑ТВ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1485818426.m3u8
@@ -3394,22 +3402,6 @@ https://vavoo.to/live2/play3/92839802.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/92839802f033e4f417d8
 
-#EXTINF:-1 tvg-name="РУССКИЙ РОМАН (1)" group-title="Russia",РУССКИЙ РОМАН
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/491538765.m3u8
-
-#EXTINF:-1 tvg-name="РУССКИЙ РОМАН .b" group-title="Russia",РУССКИЙ РОМАН
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/491538765599c282283c6
-
-#EXTINF:-1 tvg-name="САНКТ‑ПЕТЕРБУРГ (1)" group-title="Russia",САНКТ‑ПЕТЕРБУРГ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/862461073.m3u8
-
-#EXTINF:-1 tvg-name="САНКТ‑ПЕТЕРБУРГ .b" group-title="Russia",САНКТ‑ПЕТЕРБУРГ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/8624610736b72d324b06c
-
 #EXTINF:-1 tvg-name="САРАФАН (1)" group-title="Russia",САРАФАН
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2343404595.m3u8
@@ -3425,14 +3417,6 @@ https://vavoo.to/live2/play3/2723978799.m3u8
 #EXTINF:-1 tvg-name="СПАС .b" group-title="Russia",СПАС
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2723978799f6711f28c600
-
-#EXTINF:-1 tvg-name="СТАРТ HD (1)" group-title="Russia",СТАРТ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1000949517.m3u8
-
-#EXTINF:-1 tvg-name="СТАРТ HD .b" group-title="Russia",СТАРТ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1000949517d135e3309a68
 
 #EXTINF:-1 tvg-name="СТС (1)" group-title="Russia",СТС
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3465,30 +3449,6 @@ https://vavoo.to/live2/play3/936965913.m3u8
 #EXTINF:-1 tvg-name="СУББОТА! .b" group-title="Russia",СУББОТА!
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/93696591387d3ab69b1af
-
-#EXTINF:-1 tvg-name="ТАЙНЫ ГАЛАКТИКИ (1)" group-title="Russia",ТАЙНЫ ГАЛАКТИКИ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1567375257.m3u8
-
-#EXTINF:-1 tvg-name="ТАЙНЫ ГАЛАКТИКИ .b" group-title="Russia",ТАЙНЫ ГАЛАКТИКИ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1567375257cdc993380d70
-
-#EXTINF:-1 tvg-name="ТАНЦУЙ! HD (1)" group-title="Russia",ТАНЦУЙ!
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1225955289.m3u8
-
-#EXTINF:-1 tvg-name="ТАНЦУЙ! HD .b" group-title="Russia",ТАНЦУЙ!
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1225955289f867414f0cf6
-
-#EXTINF:-1 tvg-name="ТВЦ (1)" group-title="Russia",ТВЦ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3740898675.m3u8
-
-#EXTINF:-1 tvg-name="ТВЦ .b" group-title="Russia",ТВЦ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3740898675108f3972de16
 
 #EXTINF:-1 tvg-name="ТВ‑3 (1)" group-title="Russia",ТВ‑3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3530,14 +3490,6 @@ https://vavoo.to/live2/play3/289420819.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/289420819de3eb3b023e7
 
-#EXTINF:-1 tvg-name="ТНТ (1)" group-title="Russia",ТНТ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3710993242.m3u8
-
-#EXTINF:-1 tvg-name="ТНТ .b" group-title="Russia",ТНТ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/371099324285e376d4d45c
-
 #EXTINF:-1 tvg-name="ТНТ MUSIC (1)" group-title="Russia",ТНТ MUSIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3783797318.m3u8
@@ -3553,14 +3505,6 @@ https://vavoo.to/live2/play3/3672893251.m3u8
 #EXTINF:-1 tvg-name="ТНТ4 .b" group-title="Russia",ТНТ4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3672893251a94cb20dcf3f
-
-#EXTINF:-1 tvg-name="ТОЧКА ОТРЫВА (1)" group-title="Russia",ТОЧКА ОТРЫВА
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/819174503.m3u8
-
-#EXTINF:-1 tvg-name="ТОЧКА ОТРЫВА .b" group-title="Russia",ТОЧКА ОТРЫВА
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/8191745031db565008555
 
 #EXTINF:-1 tvg-name="УНИКУМ (1)" group-title="Russia",УНИКУМ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
