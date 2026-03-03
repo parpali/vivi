@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-03 13:02:53
+# Generated: 2026-03-03 18:54:58
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="4MUSIC (7)" group-title="United Kingdom",4MUSIC
@@ -986,6 +986,14 @@ https://vavoo.to/live2/play3/3142520812.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/31425208128fea3b9f62a6
 
+#EXTINF:-1 tvg-name="CLUBLAND TV (1)" group-title="United Kingdom",CLUBLAND TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2047021340.m3u8
+
+#EXTINF:-1 tvg-name="CLUBLAND TV .b" group-title="United Kingdom",CLUBLAND TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2047021340afb387088c9a
+
 #EXTINF:-1 tvg-name="CNN (1)" group-title="United Kingdom",CNN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1962567354.m3u8
@@ -1385,6 +1393,14 @@ https://vavoo.to/live2/play3/850366022.m3u8
 #EXTINF:-1 tvg-name="EMAN CHANNEL .b" group-title="United Kingdom",EMAN CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/8503660229fa762b76b85
+
+#EXTINF:-1 tvg-name="ENGLISH CLUB (1)" group-title="United Kingdom",ENGLISH CLUB
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1529193845.m3u8
+
+#EXTINF:-1 tvg-name="ENGLISH CLUB .b" group-title="United Kingdom",ENGLISH CLUB
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/15291938454b22bcbc1516
 
 #EXTINF:-1 tvg-name="ETV1 (1)" group-title="United Kingdom",ETV1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3054,17 +3070,9 @@ https://vavoo.to/vavoo-iptv/play/23748727984286beaa00e1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2616501925.m3u8
 
-#EXTINF:-1 tvg-name="SKY CINEMA FAMILY (7)" group-title="United Kingdom",SKY CINEMA FAMILY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2380134484.m3u8
-
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY .b" group-title="United Kingdom",SKY CINEMA FAMILY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2616501925a4183a7776a3
-
-#EXTINF:-1 tvg-name="SKY CINEMA FAMILY .s" group-title="United Kingdom",SKY CINEMA FAMILY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/23801344844e7a75599b0d
 
 #EXTINF:-1 tvg-name="SKY CINEMA GREATS (1)" group-title="United Kingdom",SKY CINEMA GREATS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3322,10 +3330,6 @@ https://vavoo.to/vavoo-iptv/play/3186551364e288f1eca04c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/30613363577f9d3b3fe492
 
-#EXTINF:-1 tvg-name="SKY SPORTS ARENA (1)" group-title="United Kingdom",SKY SPORTS ARENA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2819511917.m3u8
-
 #EXTINF:-1 tvg-name="SKY SPORTS ARENA (7)" group-title="United Kingdom",SKY SPORTS ARENA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1386668033.m3u8
@@ -3338,17 +3342,21 @@ https://vavoo.to/live2/play3/1012478660.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1012478660fe518cb4fa2f
 
-#EXTINF:-1 tvg-name="SKY SPORTS ARENA .b" group-title="United Kingdom",SKY SPORTS ARENA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2819511917086e27da7a01
-
 #EXTINF:-1 tvg-name="SKY SPORTS ARENA .s" group-title="United Kingdom",SKY SPORTS ARENA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/13866680333c42e55b4f34
 
+#EXTINF:-1 tvg-name="SKY SPORTS ARENA HD (1)" group-title="United Kingdom",SKY SPORTS ARENA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1114173941.m3u8
+
 #EXTINF:-1 tvg-name="SKY SPORTS ARENA HD (7)" group-title="United Kingdom",SKY SPORTS ARENA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2955785097.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORTS ARENA HD .b" group-title="United Kingdom",SKY SPORTS ARENA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1114173941a3c02cbeef38
 
 #EXTINF:-1 tvg-name="SKY SPORTS ARENA HD .s" group-title="United Kingdom",SKY SPORTS ARENA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
