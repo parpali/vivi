@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-05 06:56:07
+# Generated: 2026-03-05 13:05:29
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="4MUSIC (7)" group-title="United Kingdom",4MUSIC
@@ -241,6 +241,14 @@ https://vavoo.to/live2/play3/3838190626.m3u8
 #EXTINF:-1 tvg-name="B4U MUSIC .s" group-title="United Kingdom",B4U MUSIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/383819062616ebab8da30b
+
+#EXTINF:-1 tvg-name="B4U PLUS (7)" group-title="United Kingdom",B4U PLUS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1051063026.m3u8
+
+#EXTINF:-1 tvg-name="B4U PLUS .s" group-title="United Kingdom",B4U PLUS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1051063026bc9659becffc
 
 #EXTINF:-1 tvg-name="BABY TV (7)" group-title="United Kingdom",BABY TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2810,6 +2818,10 @@ https://vavoo.to/live2/play3/3554227516.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3554227516d9fb6646dd7d
 
+#EXTINF:-1 tvg-name="RT HD (1)" group-title="United Kingdom",RT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2743499355.m3u8
+
 #EXTINF:-1 tvg-name="RT HD .b" group-title="United Kingdom",RT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/27434993559ed52fe9b6c2
@@ -4493,10 +4505,6 @@ https://vavoo.to/live2/play3/372875800.m3u8
 #EXTINF:-1 tvg-name="UTV IRELAND .s" group-title="United Kingdom",UTV IRELAND
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3728758003796ef8256de
-
-#EXTINF:-1 tvg-name="VH1 .s" group-title="United Kingdom",VH1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2472057422e66827965ebc
 
 #EXTINF:-1 tvg-name="VIAPLAY SPORTS 1 (7)" group-title="United Kingdom",VIAPLAY SPORTS 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
