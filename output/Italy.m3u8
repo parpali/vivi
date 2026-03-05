@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-05 13:05:29
+# Generated: 2026-03-05 19:18:24
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="111 TV (6)" group-title="Italy",111 TV
@@ -594,6 +594,14 @@ https://vavoo.to/live2/play3/1574591400.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE (6)" group-title="Italy",DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/528430841.m3u8
+
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE .c" group-title="Italy",DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15
+
 #EXTINF:-1 tvg-name="DISNEY+ FILM (6)" group-title="Italy",DISNEY FILM
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1264775727.m3u8
@@ -729,14 +737,6 @@ https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 tvg-name="EUROSPORT 2 .s" group-title="Italy",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
-
-#EXTINF:-1 tvg-name="EUROSPORT 2 TIMVISION (6)" group-title="Italy",EUROSPORT 2 TIMVISION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1100261415.m3u8
-
-#EXTINF:-1 tvg-name="EUROSPORT 2 TIMVISION .c" group-title="Italy",EUROSPORT 2 TIMVISION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 
 #EXTINF:-1 tvg-name="EUROSPORT 4 TIMVISION (6)" group-title="Italy",EUROSPORT 4 TIMVISION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2393,10 +2393,6 @@ https://vavoo.to/live2/play3/2130255339.m3u8
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 8 (7)" group-title="Italy",SKY PRIMAFILA 8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1440779061.m3u8
-
-#EXTINF:-1 tvg-name="SKY PRIMAFILA 8 .c" group-title="Italy",SKY PRIMAFILA 8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/213025533947852942a90f
 
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 8 .s" group-title="Italy",SKY PRIMAFILA 8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
