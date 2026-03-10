@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-10 06:54:07
+# Generated: 2026-03-10 13:06:00
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="111 TV (6)" group-title="Italy",111 TV
@@ -738,14 +738,6 @@ https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 
-#EXTINF:-1 tvg-name="EUROSPORT 2 TIMVISION (6)" group-title="Italy",EUROSPORT 2 TIMVISION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1100261415.m3u8
-
-#EXTINF:-1 tvg-name="EUROSPORT 2 TIMVISION .c" group-title="Italy",EUROSPORT 2 TIMVISION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
-
 #EXTINF:-1 tvg-name="EUROSPORT 4 TIMVISION (6)" group-title="Italy",EUROSPORT 4 TIMVISION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1668185301.m3u8
@@ -1254,9 +1246,17 @@ https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3758728323.m3u8
 
+#EXTINF:-1 tvg-name="MOTORTREND (7)" group-title="Italy",MOTORTREND
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3889279895.m3u8
+
 #EXTINF:-1 tvg-name="MOTORTREND .c" group-title="Italy",MOTORTREND
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
+
+#EXTINF:-1 tvg-name="MOTORTREND .s" group-title="Italy",MOTORTREND
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 
 #EXTINF:-1 tvg-name="MTV (6)" group-title="Italy",MTV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1265,10 +1265,6 @@ https://vavoo.to/live2/play3/3212860676.m3u8
 #EXTINF:-1 tvg-name="MTV .c" group-title="Italy",MTV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
-
-#EXTINF:-1 tvg-name="MTV HITS (7)" group-title="Italy",MTV HITS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3446813098.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO (6)" group-title="Italy",NAT GEO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1309,6 +1305,14 @@ https://vavoo.to/live2/play3/380958472.m3u8
 #EXTINF:-1 tvg-name="NICK JR .c" group-title="Italy",NICK JR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
+
+#EXTINF:-1 tvg-name="NICKELODEON (6)" group-title="Italy",NICKELODEON
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3039389215.m3u8
+
+#EXTINF:-1 tvg-name="NICKELODEON .c" group-title="Italy",NICKELODEON
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 
 #EXTINF:-1 tvg-name="NOVE (6)" group-title="Italy",NOVE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2613,10 +2617,6 @@ https://vavoo.to/live2/play3/322024849.m3u8
 #EXTINF:-1 tvg-name="SKY UNO .c" group-title="Italy",SKY UNO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
-
-#EXTINF:-1 tvg-name="SKY UNO .s" group-title="Italy",SKY UNO
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 
 #EXTINF:-1 tvg-name="SKYSHOWTIME 1 (6)" group-title="Italy",SKYSHOWTIME 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6

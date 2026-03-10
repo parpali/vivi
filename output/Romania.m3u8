@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-10 06:54:07
+# Generated: 2026-03-10 13:06:00
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="1 MUSIC CHANNEL (7)" group-title="Romania",1 MUSIC CHANNEL
@@ -662,9 +662,17 @@ https://vavoo.to/live2/play3/3909115636.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2788611999.m3u8
 
+#EXTINF:-1 tvg-name="NASUL TV (7)" group-title="Romania",NASUL TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/348279619.m3u8
+
 #EXTINF:-1 tvg-name="NAT GEO (7)" group-title="Romania",NAT GEO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1990754219.m3u8
+
+#EXTINF:-1 tvg-name="NAT GEO WILD (7)" group-title="Romania",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/607384556.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD HD (1)" group-title="Romania",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -822,6 +830,10 @@ https://vavoo.to/live2/play3/3723098333.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2015204510.m3u8
 
+#EXTINF:-1 tvg-name="TARAF (7)" group-title="Romania",TARAF
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2098788309.m3u8
+
 #EXTINF:-1 tvg-name="TARAF TV (1)" group-title="Romania",TARAF TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4067987074.m3u8
@@ -953,8 +965,4 @@ https://vavoo.to/live2/play3/97535420.m3u8
 #EXTINF:-1 tvg-name="VIASAT NATURE (7)" group-title="Romania",VIASAT NATURE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/691736606.m3u8
-
-#EXTINF:-1 tvg-name="ZU TV (7)" group-title="Romania",ZU TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/86496830.m3u8
 
