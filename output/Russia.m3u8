@@ -1,6 +1,14 @@
 #EXTM3U
-# Generated: 2026-03-11 18:56:39
+# Generated: 2026-03-12 02:23:26
 # Source: vavoo.to
+
+#EXTINF:-1 tvg-name=".RED HD (1)" group-title="Russia",.RED
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2721165060.m3u8
+
+#EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 
 #EXTINF:-1 tvg-name=".SCI‑FI (1)" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -490,10 +498,6 @@ https://vavoo.to/live2/play3/66532237.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4026890856.m3u8
 
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE .b" group-title="Russia",DISCOVERY SCIENCE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/665322372175c57c978d
-
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE .s" group-title="Russia",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4026890856b88bdc10e22c
@@ -645,10 +649,6 @@ https://vavoo.to/vavoo-iptv/play/21117800420af664344b4b
 #EXTINF:-1 tvg-name="EUROSPORT 1 HD (1)" group-title="Russia",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3253625485.m3u8
-
-#EXTINF:-1 tvg-name="EUROSPORT 1 HD .b" group-title="Russia",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/325362548527bcb7b6b31b
 
 #EXTINF:-1 tvg-name="EUROSPORT 2 (7)" group-title="Russia",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1606,17 +1606,9 @@ https://vavoo.to/vavoo-iptv/play/76242220790757446597a
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4124291638.m3u8
 
-#EXTINF:-1 tvg-name="PARAMOUNT COMEDY (7)" group-title="Russia",PARAMOUNT COMEDY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/30547351.m3u8
-
 #EXTINF:-1 tvg-name="PARAMOUNT COMEDY .b" group-title="Russia",PARAMOUNT COMEDY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/41242916388dfff54a51bc
-
-#EXTINF:-1 tvg-name="PARAMOUNT COMEDY .s" group-title="Russia",PARAMOUNT COMEDY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/305473510222f3a97065
 
 #EXTINF:-1 tvg-name="PEH TB (7)" group-title="Russia",PEH TB
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2913,6 +2905,22 @@ https://vavoo.to/live2/play3/645081056.m3u8
 #EXTINF:-1 tvg-name="МАТЧ! СТРАНА HD .b" group-title="Russia",МАТЧ! СТРАНА
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/64508105673a236ea9791
+
+#EXTINF:-1 tvg-name="МАТЧ! ФУТБОЛ 1 HD (1)" group-title="Russia",МАТЧ! ФУТБОЛ 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/4071606722.m3u8
+
+#EXTINF:-1 tvg-name="МАТЧ! ФУТБОЛ 1 HD .b" group-title="Russia",МАТЧ! ФУТБОЛ 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/40716067227d1bc556a29e
+
+#EXTINF:-1 tvg-name="МАТЧ! ФУТБОЛ 2 HD (1)" group-title="Russia",МАТЧ! ФУТБОЛ 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2082524705.m3u8
+
+#EXTINF:-1 tvg-name="МАТЧ! ФУТБОЛ 2 HD .b" group-title="Russia",МАТЧ! ФУТБОЛ 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2082524705723d6a4aabdc
 
 #EXTINF:-1 tvg-name="МАТЧ! ФУТБОЛ 3 HD (1)" group-title="Russia",МАТЧ! ФУТБОЛ 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
