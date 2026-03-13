@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-13 13:03:54
+# Generated: 2026-03-13 18:46:03
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="4MUSIC (7)" group-title="United Kingdom",4MUSIC
@@ -89,6 +89,14 @@ https://vavoo.to/live2/play3/265784057.m3u8
 #EXTINF:-1 tvg-name="5USA+1 .b" group-title="United Kingdom",5USA1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2657840577e2397a34c3d
+
+#EXTINF:-1 tvg-name="92 NEWS (1)" group-title="United Kingdom",92 NEWS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2466243336.m3u8
+
+#EXTINF:-1 tvg-name="92 NEWS .b" group-title="United Kingdom",92 NEWS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/24662433362d90e00309b2
 
 #EXTINF:-1 tvg-name="ABP NEWS (7)" group-title="United Kingdom",ABP NEWS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -714,14 +722,6 @@ https://vavoo.to/live2/play3/408026803.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/40802680329724cb15ca9
 
-#EXTINF:-1 tvg-name="C4 L (1)" group-title="United Kingdom",C4 L
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3373040735.m3u8
-
-#EXTINF:-1 tvg-name="C4 L .b" group-title="United Kingdom",C4 L
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3373040735775ddfeb441a
-
 #EXTINF:-1 tvg-name="CARTOON NETWORK (1)" group-title="United Kingdom",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1493324324.m3u8
@@ -729,14 +729,6 @@ https://vavoo.to/live2/play3/1493324324.m3u8
 #EXTINF:-1 tvg-name="CARTOON NETWORK .b" group-title="United Kingdom",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/14933243241a00eb69dcd6
-
-#EXTINF:-1 tvg-name="CARTOON NETWORK HD (1)" group-title="United Kingdom",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1358548580.m3u8
-
-#EXTINF:-1 tvg-name="CARTOON NETWORK HD .b" group-title="United Kingdom",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1358548580c0af1d559c0d
 
 #EXTINF:-1 tvg-name="CARTOONITO (1)" group-title="United Kingdom",CARTOONITO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1722,6 +1714,14 @@ https://vavoo.to/live2/play3/3990894854.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/399089485455b300e1d744
 
+#EXTINF:-1 tvg-name="HIGH STREET TV 2 (1)" group-title="United Kingdom",HIGH STREET TV 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/465385516.m3u8
+
+#EXTINF:-1 tvg-name="HIGH STREET TV 2 .b" group-title="United Kingdom",HIGH STREET TV 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/465385516521e9300c478
+
 #EXTINF:-1 tvg-name="HIGH STREET TV 3 (1)" group-title="United Kingdom",HIGH STREET TV 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/652022172.m3u8
@@ -2281,14 +2281,6 @@ https://vavoo.to/vavoo-iptv/play/126904365660961d27a201
 #EXTINF:-1 tvg-name="MUTV .s" group-title="United Kingdom",MUTV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/247196516b2f005dacf7c
-
-#EXTINF:-1 tvg-name="MUTV FC (1)" group-title="United Kingdom",MUTV FC
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2630500553.m3u8
-
-#EXTINF:-1 tvg-name="MUTV FC .b" group-title="United Kingdom",MUTV FC
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2630500553a77fda8c6613
 
 #EXTINF:-1 tvg-name="NAT GEO (7)" group-title="United Kingdom",NAT GEO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -4481,6 +4473,10 @@ https://vavoo.to/live2/play3/372875800.m3u8
 #EXTINF:-1 tvg-name="UTV IRELAND .s" group-title="United Kingdom",UTV IRELAND
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3728758003796ef8256de
+
+#EXTINF:-1 tvg-name="VH1 .s" group-title="United Kingdom",VH1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2472057422e66827965ebc
 
 #EXTINF:-1 tvg-name="VIAPLAY SPORTS 1 (7)" group-title="United Kingdom",VIAPLAY SPORTS 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
