@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-14 06:51:30
+# Generated: 2026-03-14 12:57:02
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="101 TV (6)" group-title="Spain",101 TV
@@ -513,6 +513,14 @@ https://vavoo.to/live2/play3/4217507207.m3u8
 #EXTINF:-1 tvg-name="CANAL DIOCESANO .c" group-title="Spain",CANAL DIOCESANO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4217507207725b765241f4
+
+#EXTINF:-1 tvg-name="CANAL DONANA (6)" group-title="Spain",CANAL DONANA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2180152276.m3u8
+
+#EXTINF:-1 tvg-name="CANAL DONANA .c" group-title="Spain",CANAL DONANA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/21801522766d228ecc4a9f
 
 #EXTINF:-1 tvg-name="CANAL EXTREMADURA (6)" group-title="Spain",CANAL EXTREMADURA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2226,6 +2234,10 @@ https://vavoo.to/live2/play3/2183991865.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3401999066.m3u8
 
+#EXTINF:-1 tvg-name="TELEDEPORTE .b" group-title="Spain",TELEDEPORTE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2183991865322ec9dc545e
+
 #EXTINF:-1 tvg-name="TELEDEPORTE .c" group-title="Spain",TELEDEPORTE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3401999066566457ba13c2
@@ -2325,14 +2337,6 @@ https://vavoo.to/live2/play3/142832720.m3u8
 #EXTINF:-1 tvg-name="TOROS .c" group-title="Spain",TOROS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/142832720b500e5b89cad
-
-#EXTINF:-1 tvg-name="TOROS TV (1)" group-title="Spain",TOROS TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/469813358.m3u8
-
-#EXTINF:-1 tvg-name="TOROS TV .b" group-title="Spain",TOROS TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/46981335898e66a40a61f
 
 #EXTINF:-1 tvg-name="TOROS TV HD (1)" group-title="Spain",TOROS TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2485,14 +2489,6 @@ https://vavoo.to/live2/play3/450666896.m3u8
 #EXTINF:-1 tvg-name="VAMOS HD .b" group-title="Spain",VAMOS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/450666896020c76abd3b4
-
-#EXTINF:-1 tvg-name="VIAJAR HD (1)" group-title="Spain",VIAJAR
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/296276062.m3u8
-
-#EXTINF:-1 tvg-name="VIAJAR HD .b" group-title="Spain",VIAJAR
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2962760626894bbd07215
 
 #EXTINF:-1 tvg-name="WARNER TV (6)" group-title="Spain",WARNER TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
