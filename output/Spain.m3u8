@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-14 02:11:40
+# Generated: 2026-03-14 06:51:30
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="101 TV (6)" group-title="Spain",101 TV
@@ -1498,6 +1498,14 @@ https://vavoo.to/live2/play3/3864398596.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/38643985961d782a6ca836
 
+#EXTINF:-1 tvg-name="M.FORMULA 1 HD (1)" group-title="Spain",M.FORMULA 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/270716645.m3u8
+
+#EXTINF:-1 tvg-name="M.FORMULA 1 HD .b" group-title="Spain",M.FORMULA 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/270716645f69fa5033f46
+
 #EXTINF:-1 tvg-name="M.GOLF HD (1)" group-title="Spain",M.GOLF
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/428774689.m3u8
@@ -1602,6 +1610,14 @@ https://vavoo.to/live2/play3/1285043320.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/128504332060a4fe38a8e9
 
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTE 1 HD (1)" group-title="Spain",MOVISTARPORTE 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1624090577.m3u8
+
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTE 1 HD .b" group-title="Spain",MOVISTARPORTE 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/16240905772a1bd64a3b10
+
 #EXTINF:-1 tvg-name="MOVISTAR DEPORTES (1)" group-title="Spain",MOVISTARPORTES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1188166343.m3u8
@@ -1633,6 +1649,10 @@ https://vavoo.to/live2/play3/1826839470.m3u8
 #EXTINF:-1 tvg-name="MOVISTAR F1 HD .b" group-title="Spain",MOVISTAR F1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/18268394702984cdfbbbfd
+
+#EXTINF:-1 tvg-name="MOVISTAR GOLF HD (1)" group-title="Spain",MOVISTAR GOLF
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2703480816.m3u8
 
 #EXTINF:-1 tvg-name="MOVISTAR GOLF HD .b" group-title="Spain",MOVISTAR GOLF
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2190,6 +2210,10 @@ https://vavoo.to/live2/play3/1024256819.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1024256819e4e24ddd6c8d
 
+#EXTINF:-1 tvg-name="TELECINCO HD (1)" group-title="Spain",TELECINCO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/353095972.m3u8
+
 #EXTINF:-1 tvg-name="TELECINCO HD .b" group-title="Spain",TELECINCO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3530959720aaf7aac4561
@@ -2202,13 +2226,17 @@ https://vavoo.to/live2/play3/2183991865.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3401999066.m3u8
 
-#EXTINF:-1 tvg-name="TELEDEPORTE .b" group-title="Spain",TELEDEPORTE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2183991865322ec9dc545e
-
 #EXTINF:-1 tvg-name="TELEDEPORTE .c" group-title="Spain",TELEDEPORTE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3401999066566457ba13c2
+
+#EXTINF:-1 tvg-name="TELEDEPORTE HD (1)" group-title="Spain",TELEDEPORTE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/531598528.m3u8
+
+#EXTINF:-1 tvg-name="TELEDEPORTE HD .b" group-title="Spain",TELEDEPORTE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/53159852814b98ea8c2fc
 
 #EXTINF:-1 tvg-name="TELEMADRID (6)" group-title="Spain",TELEMADRID
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
