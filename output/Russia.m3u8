@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-14 18:41:43
+# Generated: 2026-03-15 02:37:33
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name=".BLACK (1)" group-title="Russia",.BLACK
@@ -13,10 +13,6 @@ https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
 #EXTINF:-1 tvg-name=".RED HD (1)" group-title="Russia",.RED
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2721165060.m3u8
-
-#EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 
 #EXTINF:-1 tvg-name=".SCI‑FI (1)" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -41,6 +37,14 @@ https://vavoo.to/live2/play3/98281434.m3u8
 #EXTINF:-1 tvg-name="360 TUNEBOX .s" group-title="Russia",360 TUNEBOX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/9828143438e140eb471a
+
+#EXTINF:-1 tvg-name="360 НОВОСТИ (1)" group-title="Russia",360 НОВОСТИ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1091733503.m3u8
+
+#EXTINF:-1 tvg-name="360 НОВОСТИ .b" group-title="Russia",360 НОВОСТИ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1091733503a136df29c545
 
 #EXTINF:-1 tvg-name="365 DAYS (7)" group-title="Russia",365 DAYS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -485,6 +489,10 @@ https://vavoo.to/vavoo-iptv/play/307615184548fbf89e2e42
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE (7)" group-title="Russia",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4026890856.m3u8
+
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE .b" group-title="Russia",DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/665322372175c57c978d
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE .s" group-title="Russia",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1546,6 +1554,14 @@ https://vavoo.to/live2/play3/2111994892.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2111994892eff89d08a583
 
+#EXTINF:-1 tvg-name="NRJ (7)" group-title="Russia",NRJ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3047232166.m3u8
+
+#EXTINF:-1 tvg-name="NRJ .s" group-title="Russia",NRJ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3047232166801d72e62e32
+
 #EXTINF:-1 tvg-name="NTV (7)" group-title="Russia",NTV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3337128760.m3u8
@@ -1582,17 +1598,9 @@ https://vavoo.to/vavoo-iptv/play/76242220790757446597a
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4124291638.m3u8
 
-#EXTINF:-1 tvg-name="PARAMOUNT COMEDY (7)" group-title="Russia",PARAMOUNT COMEDY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/30547351.m3u8
-
 #EXTINF:-1 tvg-name="PARAMOUNT COMEDY .b" group-title="Russia",PARAMOUNT COMEDY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/41242916388dfff54a51bc
-
-#EXTINF:-1 tvg-name="PARAMOUNT COMEDY .s" group-title="Russia",PARAMOUNT COMEDY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/305473510222f3a97065
 
 #EXTINF:-1 tvg-name="PEH TB (7)" group-title="Russia",PEH TB
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
