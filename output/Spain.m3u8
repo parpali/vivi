@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-16 02:38:06
+# Generated: 2026-03-16 07:21:41
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="101 TV (6)" group-title="Spain" tvg-logo="/live2/logo/3042734297.png",101 TV
@@ -1122,6 +1122,14 @@ https://vavoo.to/live2/play3/4125810523.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4125810523d80a37d3ff1c
 
+#EXTINF:-1 tvg-name="FDF (1)" group-title="Spain",FDF
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2622585831.m3u8
+
+#EXTINF:-1 tvg-name="FDF .b" group-title="Spain",FDF
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/26225858313dc1c12ffe85
+
 #EXTINF:-1 tvg-name="FOX (6)" group-title="Spain",FOX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3362806456.m3u8
@@ -2177,14 +2185,6 @@ https://vavoo.to/live2/play3/741857817.m3u8
 #EXTINF:-1 tvg-name="TELE ELX .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=741857817.png",TELE ELX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/7418578175d4eb0bc1477
-
-#EXTINF:-1 tvg-name="TELE MADRID (1)" group-title="Spain",TELE MADRID
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/353289702.m3u8
-
-#EXTINF:-1 tvg-name="TELE MADRID .b" group-title="Spain",TELE MADRID
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3532897029ab4f9dc6816
 
 #EXTINF:-1 tvg-name="TELE SAFOR (6)" group-title="Spain" tvg-logo="/live2/logo/977226543.png",TELE SAFOR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
