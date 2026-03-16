@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-16 13:18:16
+# Generated: 2026-03-16 19:05:06
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="24 KITCHEN (6)" group-title="Portugal" tvg-logo="/live2/logo/2176778441.png",24 KITCHEN
@@ -654,6 +654,10 @@ https://vavoo.to/live2/play3/2111785550.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2106247479.m3u8
 
+#EXTINF:-1 tvg-name="PANDA BIGGS (1)" group-title="Portugal",PANDA BIGGS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2958694111.m3u8
+
 #EXTINF:-1 tvg-name="PANDA KIDS (6)" group-title="Portugal" tvg-logo="/live2/logo/2171243952.png",PANDA KIDS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2171243952.m3u8
@@ -689,10 +693,6 @@ https://vavoo.to/live2/play3/1211778226.m3u8
 #EXTINF:-1 tvg-name="RTP 1 (6)" group-title="Portugal" tvg-logo="/live2/logo/3213786206.png",RTP 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3213786206.m3u8
-
-#EXTINF:-1 tvg-name="RTP 1 HD (1)" group-title="Portugal",RTP 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1394401047.m3u8
 
 #EXTINF:-1 tvg-name="RTP 2 (1)" group-title="Portugal",RTP 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1041,6 +1041,10 @@ https://vavoo.to/live2/play3/224744270.m3u8
 #EXTINF:-1 tvg-name="TRAVELXP (6)" group-title="Portugal" tvg-logo="/live2/logo/2769296124.png",TRAVELXP
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2769296124.m3u8
+
+#EXTINF:-1 tvg-name="TV GLOBO (1)" group-title="Portugal",TV GLOBO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3068526841.m3u8
 
 #EXTINF:-1 tvg-name="TV GLOBO NOW (1)" group-title="Portugal",TV GLOBO NOW
 #EXTVLCOPT:http-user-agent=VAVOO/2.6

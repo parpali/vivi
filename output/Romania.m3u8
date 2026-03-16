@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-16 13:18:16
+# Generated: 2026-03-16 19:05:06
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="1 MUSIC CHANNEL (7)" group-title="Romania",1 MUSIC CHANNEL
@@ -37,6 +37,10 @@ https://vavoo.to/live2/play3/3743412295.m3u8
 #EXTINF:-1 tvg-name="ALFA & OMEGA TV (7)" group-title="Romania" tvg-logo="/live2/logo/3167710399.png",ALFA & OMEGA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3167710399.m3u8
+
+#EXTINF:-1 tvg-name="AMC (1)" group-title="Romania",AMC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3466104099.m3u8
 
 #EXTINF:-1 tvg-name="AMC (7)" group-title="Romania",AMC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -174,10 +178,6 @@ https://vavoo.to/live2/play3/692523876.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1858621093.m3u8
 
-#EXTINF:-1 tvg-name="CARTOON NETWORK (1)" group-title="Romania",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/682895493.m3u8
-
 #EXTINF:-1 tvg-name="CARTOON NETWORK (7)" group-title="Romania",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3702884132.m3u8
@@ -266,6 +266,10 @@ https://vavoo.to/live2/play3/185416755.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2228529603.m3u8
 
+#EXTINF:-1 tvg-name="DIGI 4K TV (7)" group-title="Romania",DIGI TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2467663593.m3u8
+
 #EXTINF:-1 tvg-name="DIGI ANIMAL WORLD (7)" group-title="Romania",DIGI ANIMAL WORLD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4055775147.m3u8
@@ -277,6 +281,10 @@ https://vavoo.to/live2/play3/2768290645.m3u8
 #EXTINF:-1 tvg-name="DIGI LIFE (7)" group-title="Romania",DIGI LIFE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/252596478.m3u8
+
+#EXTINF:-1 tvg-name="DIGI LIFE HD (1)" group-title="Romania",DIGI LIFE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3213830486.m3u8
 
 #EXTINF:-1 tvg-name="DIGI SPORT 1 (1)" group-title="Romania",DIGI SPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -342,10 +350,6 @@ https://vavoo.to/live2/play3/1915112508.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1866716904.m3u8
 
-#EXTINF:-1 tvg-name="DISCOVERY HD SHOWCASE (1)" group-title="Romania",DISCOVERY SHOWCASE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2323251357.m3u8
-
 #EXTINF:-1 tvg-name="DISCOVERY INVESTIGATION (7)" group-title="Romania",DISCOVERY INVESTIGATION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/575624309.m3u8
@@ -353,10 +357,6 @@ https://vavoo.to/live2/play3/575624309.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE (7)" group-title="Romania",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/432753698.m3u8
-
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD (1)" group-title="Romania",DISCOVERY SCIENCE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2806040124.m3u8
 
 #EXTINF:-1 tvg-name="DISNEY CHANNEL (1)" group-title="Romania",DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -445,14 +445,6 @@ https://vavoo.to/live2/play3/2765356700.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 (7)" group-title="Romania",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/937259113.m3u8
-
-#EXTINF:-1 tvg-name="EUROSPORT 2 HD (1)" group-title="Romania",EUROSPORT 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/710736255.m3u8
-
-#EXTINF:-1 tvg-name="EXTREME SPORT RO (1)" group-title="Romania",EXTREME SPORT RO
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/388462731.m3u8
 
 #EXTINF:-1 tvg-name="FAVORIT (7)" group-title="Romania",FAVORIT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -594,10 +586,6 @@ https://vavoo.to/live2/play3/3737977832.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2424114096.m3u8
 
-#EXTINF:-1 tvg-name="MEGAMAX (1)" group-title="Romania",MEGAMAX
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3818331108.m3u8
-
 #EXTINF:-1 tvg-name="METROPOLA TV (7)" group-title="Romania",METROPOLA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1871377147.m3u8
@@ -713,10 +701,6 @@ https://vavoo.to/live2/play3/3510040414.m3u8
 #EXTINF:-1 tvg-name="OBSERVATOR NEWS (7)" group-title="Romania",OBSERVATOR NEWS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/130908298.m3u8
-
-#EXTINF:-1 tvg-name="ORANGE SPORT 1 (7)" group-title="Romania",ORANGE SPORT 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3731501465.m3u8
 
 #EXTINF:-1 tvg-name="ORANGE SPORT 2 (7)" group-title="Romania",ORANGE SPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
