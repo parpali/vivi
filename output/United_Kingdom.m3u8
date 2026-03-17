@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-17 07:07:26
+# Generated: 2026-03-17 13:17:15
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="4MUSIC (7)" group-title="United Kingdom",4MUSIC
@@ -498,17 +498,9 @@ https://vavoo.to/live2/play3/3188588870.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3188588870e6bf0c727c53
 
-#EXTINF:-1 tvg-name="BBC TWO WALES (1)" group-title="United Kingdom",BBC TWO WALES
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2906043924.m3u8
-
 #EXTINF:-1 tvg-name="BBC TWO WALES (7)" group-title="United Kingdom",BBC TWO WALES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2984367443.m3u8
-
-#EXTINF:-1 tvg-name="BBC TWO WALES .b" group-title="United Kingdom",BBC TWO WALES
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/290604392459e06185d20e
 
 #EXTINF:-1 tvg-name="BBC TWO WALES .s" group-title="United Kingdom",BBC TWO WALES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1025,6 +1017,14 @@ https://vavoo.to/live2/play3/3076266170.m3u8
 #EXTINF:-1 tvg-name="COLORS EUROPE .s" group-title="United Kingdom",COLORS EUROPE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3076266170bfe0a1ca0913
+
+#EXTINF:-1 tvg-name="COMEDY CENTRAL (7)" group-title="United Kingdom",COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/612786605.m3u8
+
+#EXTINF:-1 tvg-name="COMEDY CENTRAL .s" group-title="United Kingdom",COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/6127866053a0bdbe1f0e8
 
 #EXTINF:-1 tvg-name="COMEDY CENTRAL EXTRA (7)" group-title="United Kingdom" tvg-logo="/live2/logo/238077825.png",COMEDY CENTRAL EXTRA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1842,10 +1842,6 @@ https://vavoo.to/live2/play3/1185476436.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/118547643653266198cbc8
 
-#EXTINF:-1 tvg-name="ID CRIME INVESTIGATION (1)" group-title="United Kingdom",ID CRIME INVESTIGATION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3432303713.m3u8
-
 #EXTINF:-1 tvg-name="ID CRIME INVESTIGATION .b" group-title="United Kingdom",ID CRIME INVESTIGATION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3432303713967b479b7df9
@@ -2137,14 +2133,6 @@ https://vavoo.to/live2/play3/3373097988.m3u8
 #EXTINF:-1 tvg-name="LIVERPOOL FC .b" group-title="United Kingdom",LIVERPOOL FC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3373097988a603f35cfef5
-
-#EXTINF:-1 tvg-name="LIVERPOOL VS EVERTON (7)" group-title="United Kingdom",LIVERPOOL VS EVERTON
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3335712630.m3u8
-
-#EXTINF:-1 tvg-name="LIVERPOOL VS EVERTON .s" group-title="United Kingdom",LIVERPOOL VS EVERTON
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/333571263099cd6909b775
 
 #EXTINF:-1 tvg-name="LONDON LIVE (7)" group-title="United Kingdom",LONDON LIVE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
