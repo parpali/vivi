@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-17 19:05:34
+# Generated: 2026-03-18 02:28:06
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name=".BLACK (1)" group-title="Russia",.BLACK
@@ -258,14 +258,6 @@ https://vavoo.to/live2/play3/6139117.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/61391171aa2c453bb5e
 
-#EXTINF:-1 tvg-name="BLUESTV (7)" group-title="Russia",BLUESTV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3718916758.m3u8
-
-#EXTINF:-1 tvg-name="BLUESTV .s" group-title="Russia",BLUESTV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3718916758b452d4b84cbf
-
 #EXTINF:-1 tvg-name="BOLLYWOOD (7)" group-title="Russia",BOLLYWOOD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2977392257.m3u8
@@ -281,6 +273,10 @@ https://vavoo.to/live2/play3/2282393545.m3u8
 #EXTINF:-1 tvg-name="BOLLYWOOD HD .b" group-title="Russia",BOLLYWOOD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/228239354576d2e55f9999
+
+#EXTINF:-1 tvg-name="BOOMERANG (1)" group-title="Russia",BOOMERANG
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2520496704.m3u8
 
 #EXTINF:-1 tvg-name="BOOMERANG (7)" group-title="Russia",BOOMERANG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -450,6 +446,10 @@ https://vavoo.to/live2/play3/1743144074.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1743144074d24d0db85c8f
 
+#EXTINF:-1 tvg-name="DETSKIJ (7)" group-title="Russia",DETSKIJ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/718036639.m3u8
+
 #EXTINF:-1 tvg-name="DETSKIJ .s" group-title="Russia",DETSKIJ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/71803663997604b458e1d
@@ -606,9 +606,17 @@ https://vavoo.to/live2/play3/82783515.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/82783515dfc3a8b28100
 
+#EXTINF:-1 tvg-name="EURONEWS (1)" group-title="Russia",EURONEWS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1803373236.m3u8
+
 #EXTINF:-1 tvg-name="EURONEWS (7)" group-title="Russia",EURONEWS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/174481627.m3u8
+
+#EXTINF:-1 tvg-name="EURONEWS .b" group-title="Russia",EURONEWS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/180337323636975f5703d0
 
 #EXTINF:-1 tvg-name="EURONEWS .s" group-title="Russia",EURONEWS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1586,17 +1594,9 @@ https://vavoo.to/vavoo-iptv/play/76242220790757446597a
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4124291638.m3u8
 
-#EXTINF:-1 tvg-name="PARAMOUNT COMEDY (7)" group-title="Russia",PARAMOUNT COMEDY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/30547351.m3u8
-
 #EXTINF:-1 tvg-name="PARAMOUNT COMEDY .b" group-title="Russia",PARAMOUNT COMEDY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/41242916388dfff54a51bc
-
-#EXTINF:-1 tvg-name="PARAMOUNT COMEDY .s" group-title="Russia",PARAMOUNT COMEDY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/305473510222f3a97065
 
 #EXTINF:-1 tvg-name="PEH TB (7)" group-title="Russia",PEH TB
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3333,6 +3333,14 @@ https://vavoo.to/live2/play3/3537757965.m3u8
 #EXTINF:-1 tvg-name="РОССИЯ 1 +6 .b" group-title="Russia",РОССИЯ 1 6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/35377579659b5d3d399e8d
+
+#EXTINF:-1 tvg-name="РОССИЯ 1 +8 (1)" group-title="Russia",РОССИЯ 1 8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1844271468.m3u8
+
+#EXTINF:-1 tvg-name="РОССИЯ 1 +8 .b" group-title="Russia",РОССИЯ 1 8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1844271468581e6d621a30
 
 #EXTINF:-1 tvg-name="РОССИЯ 1 HD (1)" group-title="Russia",РОССИЯ 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
