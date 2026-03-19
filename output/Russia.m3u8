@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-19 13:10:17
+# Generated: 2026-03-19 19:01:41
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name=".BLACK (1)" group-title="Russia",.BLACK
@@ -882,6 +882,10 @@ https://vavoo.to/live2/play3/811110208.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/8111102086a0179c1cfa4
 
+#EXTINF:-1 tvg-name="ID (1)" group-title="Russia",ID
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1255037843.m3u8
+
 #EXTINF:-1 tvg-name="ID .b" group-title="Russia",ID
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/125503784320a11c11f7be
@@ -998,10 +1002,6 @@ https://vavoo.to/live2/play3/24466529.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/24466529fbccd90eeac8
 
-#EXTINF:-1 tvg-name="KINO KOMEDIJA (7)" group-title="Russia",KINO KOMEDIJA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/110753114.m3u8
-
 #EXTINF:-1 tvg-name="KINO KOMEDIJA .s" group-title="Russia",KINO KOMEDIJA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/110753114452f1436c12b
@@ -1077,14 +1077,6 @@ https://vavoo.to/live2/play3/940837356.m3u8
 #EXTINF:-1 tvg-name="KINOXIT .s" group-title="Russia",KINOXIT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/940837356165f62440c36
-
-#EXTINF:-1 tvg-name="KOMEDIJA TV (7)" group-title="Russia",KOMEDIJA TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1171526072.m3u8
-
-#EXTINF:-1 tvg-name="KOMEDIJA TV .s" group-title="Russia",KOMEDIJA TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/117152607232c1fc69c54a
 
 #EXTINF:-1 tvg-name="KOMEDIYNOE (7)" group-title="Russia",KOMEDIYNOE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2729,10 +2721,6 @@ https://vavoo.to/vavoo-iptv/play/3291727292ea02ac0edb90
 #EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD (1)" group-title="Russia",КИНОПРЕМЬЕРА
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3343714768.m3u8
-
-#EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD .b" group-title="Russia",КИНОПРЕМЬЕРА
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/33437147685e2915da08fe
 
 #EXTINF:-1 tvg-name="КИНОСВИДАНИЕ (1)" group-title="Russia",КИНОСВИДАНИЕ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
