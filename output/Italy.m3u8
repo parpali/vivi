@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-19 07:01:27
+# Generated: 2026-03-19 13:10:17
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="111 TV (6)" group-title="Italy" tvg-logo="/live2/logo/1600139819.png",111 TV
@@ -266,14 +266,6 @@ https://vavoo.to/live2/play3/1692155417.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
 
-#EXTINF:-1 tvg-name="CACCIA E PESCA (6)" group-title="Italy" tvg-logo="/live2/logo/3639213638.png",CACCIA E PESCA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3639213638.m3u8
-
-#EXTINF:-1 tvg-name="CACCIA E PESCA .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3639213638.png",CACCIA E PESCA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
-
 #EXTINF:-1 tvg-name="CAFE 24 (6)" group-title="Italy" tvg-logo="/live2/logo/1625923783.png",CAFE 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1625923783.m3u8
@@ -313,6 +305,10 @@ https://vavoo.to/live2/play3/3906007886.m3u8
 #EXTINF:-1 tvg-name="CANALE 21 CAMPANIA .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3906007886.png",CANALE 21 CAMPANIA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/390600788675c13850cd70
+
+#EXTINF:-1 tvg-name="CANALE 21 EXTRA (7)" group-title="Italy",CANALE 21 EXTRA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2454558136.m3u8
 
 #EXTINF:-1 tvg-name="CANALE 21 EXTRA .s" group-title="Italy",CANALE 21 EXTRA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1262,9 +1258,17 @@ https://vavoo.to/live2/play3/3657217948.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 
+#EXTINF:-1 tvg-name="MOTORTREND (6)" group-title="Italy" tvg-logo="/live2/logo/3758728323.png",MOTORTREND
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3758728323.m3u8
+
 #EXTINF:-1 tvg-name="MOTORTREND (7)" group-title="Italy",MOTORTREND
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3889279895.m3u8
+
+#EXTINF:-1 tvg-name="MOTORTREND .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3758728323.png",MOTORTREND
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 
 #EXTINF:-1 tvg-name="MOTORTREND .s" group-title="Italy",MOTORTREND
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1757,14 +1761,6 @@ https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTINF:-1 tvg-name="RAI YOYO .s" group-title="Italy",RAI YOYO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
-
-#EXTINF:-1 tvg-name="RAKUTEN FAMILY (7)" group-title="Italy",RAKUTEN FAMILY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3902650955.m3u8
-
-#EXTINF:-1 tvg-name="RAKUTEN FAMILY .s" group-title="Italy",RAKUTEN FAMILY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 
 #EXTINF:-1 tvg-name="RDS SOCIAL (7)" group-title="Italy",RDS SOCIAL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2393,10 +2389,6 @@ https://vavoo.to/live2/play3/3939513684.m3u8
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 6 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3251217290.png",SKY PRIMAFILA 6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
-
-#EXTINF:-1 tvg-name="SKY PRIMAFILA 6 .s" group-title="Italy",SKY PRIMAFILA 6
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 7 (6)" group-title="Italy" tvg-logo="/live2/logo/4238969402.png",SKY PRIMAFILA 7
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
