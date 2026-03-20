@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-20 02:22:10
+# Generated: 2026-03-20 06:59:15
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name=".BLACK (1)" group-title="Russia",.BLACK
@@ -230,10 +230,6 @@ https://vavoo.to/vavoo-iptv/play/1302672529a11e5372005c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2093231628.m3u8
 
-#EXTINF:-1 tvg-name="ARENATV .s" group-title="Russia",ARENATV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/20932316281d4386da5b7b
-
 #EXTINF:-1 tvg-name="AUTO PLUS (7)" group-title="Russia",AUTO PLUS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/36740410.m3u8
@@ -290,17 +286,9 @@ https://vavoo.to/live2/play3/2282393545.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/228239354576d2e55f9999
 
-#EXTINF:-1 tvg-name="BOOMERANG (1)" group-title="Russia",BOOMERANG
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2520496704.m3u8
-
 #EXTINF:-1 tvg-name="BOOMERANG (7)" group-title="Russia",BOOMERANG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/427820695.m3u8
-
-#EXTINF:-1 tvg-name="BOOMERANG .b" group-title="Russia",BOOMERANG
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2520496704d469ed1d760c
 
 #EXTINF:-1 tvg-name="BOOMERANG .s" group-title="Russia",BOOMERANG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1321,6 +1309,10 @@ https://vavoo.to/live2/play3/3184010784.m3u8
 #EXTINF:-1 tvg-name="MIR .s" group-title="Russia",MIR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/31840107842565adf1ebf2
+
+#EXTINF:-1 tvg-name="MIR 24 (7)" group-title="Russia",MIR 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3982716238.m3u8
 
 #EXTINF:-1 tvg-name="MORSKOE TV (7)" group-title="Russia",MORSKOE TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2833,6 +2825,14 @@ https://vavoo.to/live2/play3/3306339907.m3u8
 #EXTINF:-1 tvg-name="ЛЮБИМОЕ КИНО .b" group-title="Russia",ЛЮБИМОЕ КИНО
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/330633990776353394b754
+
+#EXTINF:-1 tvg-name="МАЛЫШ (1)" group-title="Russia",МАЛЫШ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2013717009.m3u8
+
+#EXTINF:-1 tvg-name="МАЛЫШ .b" group-title="Russia",МАЛЫШ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/20137170091e7452729c27
 
 #EXTINF:-1 tvg-name="МАМА (1)" group-title="Russia",МАМА
 #EXTVLCOPT:http-user-agent=VAVOO/2.6

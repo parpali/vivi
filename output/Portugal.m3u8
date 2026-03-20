@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-20 02:22:10
+# Generated: 2026-03-20 06:59:15
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="24 KITCHEN (6)" group-title="Portugal" tvg-logo="/live2/logo/2176778441.png",24 KITCHEN
@@ -69,6 +69,10 @@ https://vavoo.to/live2/play3/3143462075.m3u8
 #EXTINF:-1 tvg-name="AXN MOVIES (6)" group-title="Portugal" tvg-logo="/live2/logo/474759302.png",AXN MOVIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/474759302.m3u8
+
+#EXTINF:-1 tvg-name="AXN MOVIES HD (1)" group-title="Portugal",AXN MOVIES
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2370723370.m3u8
 
 #EXTINF:-1 tvg-name="AXN WHITE (6)" group-title="Portugal" tvg-logo="/live2/logo/477021226.png",AXN WHITE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -933,6 +937,10 @@ https://vavoo.to/live2/play3/1718019314.m3u8
 #EXTINF:-1 tvg-name="SPORT TV NBA HD (1)" group-title="Portugal" tvg-logo="/live2/logo/3476204840.png",SPORT TV NBA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3476204840.m3u8
+
+#EXTINF:-1 tvg-name="SPORT TV NBA HD (BACKUP) (1)" group-title="Portugal",SPORT TV NBA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2751720311.m3u8
 
 #EXTINF:-1 tvg-name="SPORTING TV (1)" group-title="Portugal",SPORTING TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
