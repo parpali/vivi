@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-22 06:55:54
+# Generated: 2026-03-22 12:56:34
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="4MUSIC (7)" group-title="United Kingdom",4MUSIC
@@ -530,14 +530,6 @@ https://vavoo.to/live2/play3/3844047623.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3844047623aa2a2a3ab3d3
 
-#EXTINF:-1 tvg-name="BEIN SPORTS LA LIGA (1)" group-title="United Kingdom",BEIN SPORTS LA LIGA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1338646069.m3u8
-
-#EXTINF:-1 tvg-name="BEIN SPORTS LA LIGA .b" group-title="United Kingdom",BEIN SPORTS LA LIGA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/13386460690b72b50b0839
-
 #EXTINF:-1 tvg-name="BFBS RADIO (1)" group-title="United Kingdom",BFBS RADIO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2715792381.m3u8
@@ -737,6 +729,14 @@ https://vavoo.to/live2/play3/1493324324.m3u8
 #EXTINF:-1 tvg-name="CARTOON NETWORK .b" group-title="United Kingdom",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/14933243241a00eb69dcd6
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD (1)" group-title="United Kingdom",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1358548580.m3u8
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD .b" group-title="United Kingdom",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1358548580c0af1d559c0d
 
 #EXTINF:-1 tvg-name="CARTOONITO (1)" group-title="United Kingdom",CARTOONITO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1265,10 +1265,6 @@ https://vavoo.to/live2/play3/974384046.m3u8
 #EXTINF:-1 tvg-name="DUNAMIS TV .b" group-title="United Kingdom",DUNAMIS TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/9743840468a6af59e5a7e
-
-#EXTINF:-1 tvg-name="DUNYA NEWS (1)" group-title="United Kingdom",DUNYA NEWS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3030295351.m3u8
 
 #EXTINF:-1 tvg-name="DUNYA NEWS .b" group-title="United Kingdom",DUNYA NEWS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2713,14 +2709,6 @@ https://vavoo.to/live2/play3/4002575683.m3u8
 #EXTINF:-1 tvg-name="PREMIER SPORTS 2 HD .b" group-title="United Kingdom",PREMIER SPORTS 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/400257568389e116a9ae50
-
-#EXTINF:-1 tvg-name="PTV GLOBAL (1)" group-title="United Kingdom",PTV GLOBAL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/269935491.m3u8
-
-#EXTINF:-1 tvg-name="PTV GLOBAL .b" group-title="United Kingdom",PTV GLOBAL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/269935491cf0b6923affe
 
 #EXTINF:-1 tvg-name="QUEST (7)" group-title="United Kingdom" tvg-logo="/live2/logo/187460501.png",QUEST
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -4337,6 +4325,10 @@ https://vavoo.to/live2/play3/2721727780.m3u8
 #EXTINF:-1 tvg-name="TNT SPORTS 3 .s" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=2721727780.png",TNT SPORTS 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/27217277804702040fbfdb
+
+#EXTINF:-1 tvg-name="TNT SPORTS 4 (7)" group-title="United Kingdom" tvg-logo="/live2/logo/270178612.png",TNT SPORTS 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/270178612.m3u8
 
 #EXTINF:-1 tvg-name="TNT SPORTS 4 .s" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=270178612.png",TNT SPORTS 4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
