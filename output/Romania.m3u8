@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-22 18:40:12
+# Generated: 2026-03-23 02:30:26
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="1 MUSIC CHANNEL (7)" group-title="Romania",1 MUSIC CHANNEL
@@ -50,13 +50,13 @@ https://vavoo.to/live2/play3/3888491987.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1878508890.m3u8
 
-#EXTINF:-1 tvg-name="ANTENA 1 HD (1)" group-title="Romania",ANTENA 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1631861196.m3u8
-
 #EXTINF:-1 tvg-name="ANTENA 3 (7)" group-title="Romania" tvg-logo="/live2/logo/355964474.png",ANTENA 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/355964474.m3u8
+
+#EXTINF:-1 tvg-name="ANTENA 3 HD (1)" group-title="Romania" tvg-logo="/live2/logo/593575601.png",ANTENA 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/593575601.m3u8
 
 #EXTINF:-1 tvg-name="ANTENA STARS (7)" group-title="Romania" tvg-logo="/live2/logo/2135143941.png",ANTENA STARS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -97,10 +97,6 @@ https://vavoo.to/live2/play3/927710249.m3u8
 #EXTINF:-1 tvg-name="AXN BLACK (7)" group-title="Romania",AXN BLACK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2107939798.m3u8
-
-#EXTINF:-1 tvg-name="AXN HD (1)" group-title="Romania",AXN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1050568979.m3u8
 
 #EXTINF:-1 tvg-name="AXN SPIN (1)" group-title="Romania",AXN SPIN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -234,6 +230,10 @@ https://vavoo.to/live2/play3/3089743655.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2692994546.m3u8
 
+#EXTINF:-1 tvg-name="DAVINCI LEARNING (1)" group-title="Romania",DAVINCI LEARNING
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2378573400.m3u8
+
 #EXTINF:-1 tvg-name="DAVINCI LEARNING (7)" group-title="Romania",DAVINCI LEARNING
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2117365693.m3u8
@@ -242,13 +242,25 @@ https://vavoo.to/live2/play3/2117365693.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/185416755.m3u8
 
+#EXTINF:-1 tvg-name="DIGI 24 HD (1)" group-title="Romania",DIGI 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2228529603.m3u8
+
 #EXTINF:-1 tvg-name="DIGI ANIMAL WORLD (7)" group-title="Romania",DIGI ANIMAL WORLD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4055775147.m3u8
 
+#EXTINF:-1 tvg-name="DIGI ANIMAL WORLD HD (1)" group-title="Romania",DIGI ANIMAL WORLD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2768290645.m3u8
+
 #EXTINF:-1 tvg-name="DIGI LIFE (7)" group-title="Romania",DIGI LIFE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/252596478.m3u8
+
+#EXTINF:-1 tvg-name="DIGI LIFE HD (1)" group-title="Romania",DIGI LIFE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3213830486.m3u8
 
 #EXTINF:-1 tvg-name="DIGI SPORT 1 (1)" group-title="Romania",DIGI SPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -321,10 +333,6 @@ https://vavoo.to/live2/play3/1786676661.m3u8
 #EXTINF:-1 tvg-name="DISNEY JUNIOR (1)" group-title="Romania",DISNEY JUNIOR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2102228766.m3u8
-
-#EXTINF:-1 tvg-name="DIVA (1)" group-title="Romania",DIVA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/765940213.m3u8
 
 #EXTINF:-1 tvg-name="DIVA CHANNEL (7)" group-title="Romania",DIVA CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -538,6 +546,10 @@ https://vavoo.to/live2/play3/2263701124.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3891690731.m3u8
 
+#EXTINF:-1 tvg-name="MIREASA (7)" group-title="Romania",MIREASA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/518251734.m3u8
+
 #EXTINF:-1 tvg-name="MOLDOVA TV (7)" group-title="Romania",MOLDOVA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3826888042.m3u8
@@ -721,6 +733,10 @@ https://vavoo.to/live2/play3/942898701.m3u8
 #EXTINF:-1 tvg-name="ROCK TV (7)" group-title="Romania",ROCK TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1657199847.m3u8
+
+#EXTINF:-1 tvg-name="ROMANIA TV (1)" group-title="Romania",ROMANIA TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3723098333.m3u8
 
 #EXTINF:-1 tvg-name="ROTV VALENCIA (7)" group-title="Romania",ROTV VALENCIA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
