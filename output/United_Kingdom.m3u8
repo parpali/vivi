@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-25 13:16:11
+# Generated: 2026-03-25 18:58:26
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="4MUSIC (7)" group-title="United Kingdom",4MUSIC
@@ -737,6 +737,14 @@ https://vavoo.to/live2/play3/1493324324.m3u8
 #EXTINF:-1 tvg-name="CARTOON NETWORK .b" group-title="United Kingdom",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/14933243241a00eb69dcd6
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD (1)" group-title="United Kingdom",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1358548580.m3u8
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD .b" group-title="United Kingdom",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1358548580c0af1d559c0d
 
 #EXTINF:-1 tvg-name="CARTOONITO (1)" group-title="United Kingdom",CARTOONITO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2073,14 +2081,6 @@ https://vavoo.to/live2/play3/397037301.m3u8
 #EXTINF:-1 tvg-name="KANSHI TV .b" group-title="United Kingdom",KANSHI TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/39703730194b7379a35a5
-
-#EXTINF:-1 tvg-name="KERRANG! (1)" group-title="United Kingdom",KERRANG!
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3198823032.m3u8
-
-#EXTINF:-1 tvg-name="KERRANG! .b" group-title="United Kingdom",KERRANG!
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3198823032710738aaee2c
 
 #EXTINF:-1 tvg-name="KHUSHKHABRI (1)" group-title="United Kingdom",KHUSHKHABRI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -4218,14 +4218,6 @@ https://vavoo.to/live2/play3/1030793801.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/10307938019f9467a2f900
 
-#EXTINF:-1 tvg-name="THATS TV GOLD (1)" group-title="United Kingdom",THATS TV GOLD
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2131677357.m3u8
-
-#EXTINF:-1 tvg-name="THATS TV GOLD .b" group-title="United Kingdom",THATS TV GOLD
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/213167735750829ca2466e
-
 #EXTINF:-1 tvg-name="THE BOX (1)" group-title="United Kingdom",THE BOX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1723061357.m3u8
@@ -4505,14 +4497,6 @@ https://vavoo.to/live2/play3/372875800.m3u8
 #EXTINF:-1 tvg-name="UTV IRELAND .s" group-title="United Kingdom",UTV IRELAND
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3728758003796ef8256de
-
-#EXTINF:-1 tvg-name="VH1 (7)" group-title="United Kingdom",VH1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2472057422.m3u8
-
-#EXTINF:-1 tvg-name="VH1 .s" group-title="United Kingdom",VH1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2472057422e66827965ebc
 
 #EXTINF:-1 tvg-name="VIAPLAY SPORTS 1 (7)" group-title="United Kingdom",VIAPLAY SPORTS 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
