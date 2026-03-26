@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-26 13:21:24
+# Generated: 2026-03-26 19:10:24
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="111 TV (6)" group-title="Italy" tvg-logo="/live2/logo/1600139819.png",111 TV
@@ -530,6 +530,10 @@ https://vavoo.to/live2/play3/861948627.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
 
+#EXTINF:-1 tvg-name="DAZN (MATCH TIME) (7)" group-title="Italy",DAZN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2303792166.m3u8
+
 #EXTINF:-1 tvg-name="DAZN (MATCH TIME) .s" group-title="Italy",DAZN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
@@ -765,10 +769,6 @@ https://vavoo.to/live2/play3/1668185301.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 4 TIMVISION .c" group-title="Italy",EUROSPORT 4 TIMVISION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
-
-#EXTINF:-1 tvg-name="EUROSPORT 5 TIMVISION (6)" group-title="Italy",EUROSPORT 5 TIMVISION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3667240765.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 5 TIMVISION .c" group-title="Italy",EUROSPORT 5 TIMVISION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1554,17 +1554,9 @@ https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1939210164.m3u8
 
-#EXTINF:-1 tvg-name="RAI 2 (7)" group-title="Italy",RAI 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/246253359.m3u8
-
 #EXTINF:-1 tvg-name="RAI 2 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1939210164.png",RAI 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1939210164cf0608420d67
-
-#EXTINF:-1 tvg-name="RAI 2 .s" group-title="Italy",RAI 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/246253359a81d94887441
 
 #EXTINF:-1 tvg-name="RAI 3 (6)" group-title="Italy" tvg-logo="/live2/logo/1324733956.png",RAI 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2613,6 +2605,14 @@ https://vavoo.to/live2/play3/2289038972.m3u8
 #EXTINF:-1 tvg-name="SKY SPORTS F1 .s" group-title="Italy",SKY SPORTS F1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
+
+#EXTINF:-1 tvg-name="SKY SUPER TENNIS (7)" group-title="Italy",SKY SUPER TENNIS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/558282118.m3u8
+
+#EXTINF:-1 tvg-name="SKY SUPER TENNIS .s" group-title="Italy",SKY SUPER TENNIS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 
 #EXTINF:-1 tvg-name="SKY TG 24 (6)" group-title="Italy" tvg-logo="/live2/logo/3376031355.png",SKY TG 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
