@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-27 07:11:43
+# Generated: 2026-03-27 13:11:43
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="111 TV (6)" group-title="Italy" tvg-logo="/live2/logo/1600139819.png",111 TV
@@ -193,6 +193,14 @@ https://vavoo.to/live2/play3/2476433040.m3u8
 #EXTINF:-1 tvg-name="BERGAMO TV .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2476433040.png",BERGAMO TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
+
+#EXTINF:-1 tvg-name="BIKE (6)" group-title="Italy" tvg-logo="/live2/logo/3095895412.png",BIKE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3095895412.m3u8
+
+#EXTINF:-1 tvg-name="BIKE .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3095895412.png",BIKE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f
 
 #EXTINF:-1 tvg-name="BLAZE (6)" group-title="Italy" tvg-logo="/live2/logo/2532635659.png",BLAZE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -521,14 +529,6 @@ https://vavoo.to/live2/play3/861948627.m3u8
 #EXTINF:-1 tvg-name="CUSANO NEWS7 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=861948627.png",CUSANO NEWS7
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
-
-#EXTINF:-1 tvg-name="DAZN (MATCH TIME) (7)" group-title="Italy",DAZN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2303792166.m3u8
-
-#EXTINF:-1 tvg-name="DAZN (MATCH TIME) .s" group-title="Italy",DAZN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 
 #EXTINF:-1 tvg-name="DAZN 1 (6)" group-title="Italy" tvg-logo="/live2/logo/1376440573.png",DAZN 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1306,9 +1306,17 @@ https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 
+#EXTINF:-1 tvg-name="NAT GEO WILD (6)" group-title="Italy" tvg-logo="/live2/logo/3428501495.png",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3428501495.m3u8
+
 #EXTINF:-1 tvg-name="NAT GEO WILD (7)" group-title="Italy",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3229664409.m3u8
+
+#EXTINF:-1 tvg-name="NAT GEO WILD .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3428501495.png",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 
 #EXTINF:-1 tvg-name="NAT GEO WILD .s" group-title="Italy",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1534,17 +1542,9 @@ https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1939210164.m3u8
 
-#EXTINF:-1 tvg-name="RAI 2 (7)" group-title="Italy",RAI 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/246253359.m3u8
-
 #EXTINF:-1 tvg-name="RAI 2 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1939210164.png",RAI 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1939210164cf0608420d67
-
-#EXTINF:-1 tvg-name="RAI 2 .s" group-title="Italy",RAI 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/246253359a81d94887441
 
 #EXTINF:-1 tvg-name="RAI 3 (6)" group-title="Italy" tvg-logo="/live2/logo/1324733956.png",RAI 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2577,6 +2577,14 @@ https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 #EXTINF:-1 tvg-name="SKY SPORT UNO .s" group-title="Italy",SKY SPORT UNO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
+
+#EXTINF:-1 tvg-name="SKY SPORTS F1 (7)" group-title="Italy",SKY SPORTS F1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2289038972.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORTS F1 .s" group-title="Italy",SKY SPORTS F1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 
 #EXTINF:-1 tvg-name="SKY SUPER TENNIS (7)" group-title="Italy",SKY SUPER TENNIS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
