@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-28 02:26:39
+# Generated: 2026-03-28 07:01:42
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="101 TV (6)" group-title="Spain" tvg-logo="/live2/logo/3042734297.png",101 TV
@@ -610,6 +610,14 @@ https://vavoo.to/live2/play3/2458539823.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/24585398230e547ebb993f
 
+#EXTINF:-1 tvg-name="CANAL SUR ANDALUCIA 2 (6)" group-title="Spain" tvg-logo="/live2/logo/864327681.png",CANAL SUR ANDALUCIA 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/864327681.m3u8
+
+#EXTINF:-1 tvg-name="CANAL SUR ANDALUCIA 2 .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=864327681.png",CANAL SUR ANDALUCIA 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/864327681f476c8a8db29
+
 #EXTINF:-1 tvg-name="CANAL TARONJA ANOIA (6)" group-title="Spain" tvg-logo="/live2/logo/645787578.png",CANAL TARONJA ANOIA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/645787578.m3u8
@@ -1194,6 +1202,14 @@ https://vavoo.to/live2/play3/1447300419.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/144730041936fc8399828e
 
+#EXTINF:-1 tvg-name="GOL TV HD (1)" group-title="Spain",GOL TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/4165524123.m3u8
+
+#EXTINF:-1 tvg-name="GOL TV HD .b" group-title="Spain",GOL TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/4165524123220ab279d403
+
 #EXTINF:-1 tvg-name="HAMAIKA TELEBISTA (6)" group-title="Spain" tvg-logo="/live2/logo/4120875927.png",HAMAIKA TELEBISTA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4120875927.m3u8
@@ -1729,6 +1745,14 @@ https://vavoo.to/live2/play3/1138873971.m3u8
 #EXTINF:-1 tvg-name="MOVISTAR SERIES HD .b" group-title="Spain",MOVISTAR SERIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11388739713b9c23fd9584
+
+#EXTINF:-1 tvg-name="MOVISTAR SERIESMANIA HD (1)" group-title="Spain",MOVISTAR SERIESMANIA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1344073831.m3u8
+
+#EXTINF:-1 tvg-name="MOVISTAR SERIESMANIA HD .b" group-title="Spain",MOVISTAR SERIESMANIA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/13440738315213b34666cd
 
 #EXTINF:-1 tvg-name="MOVISTAR+ (6)" group-title="Spain" tvg-logo="/live2/logo/2881668464.png",MOVISTAR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
