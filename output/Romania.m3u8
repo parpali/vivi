@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-29 02:38:59
+# Generated: 2026-03-29 07:07:10
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="1 MUSIC CHANNEL (7)" group-title="Romania",1 MUSIC CHANNEL
@@ -134,6 +134,10 @@ https://vavoo.to/live2/play3/3021802433.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2087129169.m3u8
 
+#EXTINF:-1 tvg-name="B1 TV (1)" group-title="Romania",B1 TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2945216147.m3u8
+
 #EXTINF:-1 tvg-name="BBC EARTH (7)" group-title="Romania",BBC EARTH
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/502532410.m3u8
@@ -266,21 +270,17 @@ https://vavoo.to/live2/play3/185416755.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2228529603.m3u8
 
+#EXTINF:-1 tvg-name="DIGI 4K TV (7)" group-title="Romania",DIGI TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2467663593.m3u8
+
 #EXTINF:-1 tvg-name="DIGI ANIMAL WORLD (7)" group-title="Romania",DIGI ANIMAL WORLD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4055775147.m3u8
 
-#EXTINF:-1 tvg-name="DIGI ANIMAL WORLD HD (1)" group-title="Romania",DIGI ANIMAL WORLD
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2768290645.m3u8
-
 #EXTINF:-1 tvg-name="DIGI LIFE (7)" group-title="Romania",DIGI LIFE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/252596478.m3u8
-
-#EXTINF:-1 tvg-name="DIGI LIFE HD (1)" group-title="Romania",DIGI LIFE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3213830486.m3u8
 
 #EXTINF:-1 tvg-name="DIGI SPORT 1 (1)" group-title="Romania",DIGI SPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -394,6 +394,10 @@ https://vavoo.to/live2/play3/455507840.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1059974583.m3u8
 
+#EXTINF:-1 tvg-name="DUCK TV (1)" group-title="Romania",DUCK TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1964173601.m3u8
+
 #EXTINF:-1 tvg-name="DUCK TV (7)" group-title="Romania",DUCK TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/336184142.m3u8
@@ -425,10 +429,6 @@ https://vavoo.to/live2/play3/2022472244.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 (7)" group-title="Romania",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1887242937.m3u8
-
-#EXTINF:-1 tvg-name="EUROSPORT 1 HD (1)" group-title="Romania",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2765356700.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2 (7)" group-title="Romania",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
