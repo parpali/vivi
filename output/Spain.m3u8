@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-29 07:07:10
+# Generated: 2026-03-29 13:01:14
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="101 TV (6)" group-title="Spain" tvg-logo="/live2/logo/3042734297.png",101 TV
@@ -426,6 +426,14 @@ https://vavoo.to/live2/play3/2909740152.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2909740152333ac0f08921
 
+#EXTINF:-1 tvg-name="CANAL 10 EMPORDA (6)" group-title="Spain" tvg-logo="/live2/logo/1294208925.png",CANAL 10 EMPORDA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1294208925.m3u8
+
+#EXTINF:-1 tvg-name="CANAL 10 EMPORDA .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=1294208925.png",CANAL 10 EMPORDA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1294208925b6e16cf4c87a
+
 #EXTINF:-1 tvg-name="CANAL 24 HORAS (6)" group-title="Spain" tvg-logo="/live2/logo/2123081752.png",CANAL 24 HORAS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2123081752.m3u8
@@ -453,10 +461,6 @@ https://vavoo.to/vavoo-iptv/play/9403520712fdc52d9022e
 #EXTINF:-1 tvg-name="CANAL 4 (6)" group-title="Spain",CANAL 4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3790097768.m3u8
-
-#EXTINF:-1 tvg-name="CANAL 4 .c" group-title="Spain",CANAL 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/379009776867e9c025b3fa
 
 #EXTINF:-1 tvg-name="CANAL 45 TV (6)" group-title="Spain" tvg-logo="/live2/logo/2197204081.png",CANAL 45 TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -509,6 +513,10 @@ https://vavoo.to/vavoo-iptv/play/4217507207725b765241f4
 #EXTINF:-1 tvg-name="CANAL DONANA (6)" group-title="Spain" tvg-logo="/live2/logo/2180152276.png",CANAL DONANA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2180152276.m3u8
+
+#EXTINF:-1 tvg-name="CANAL DONANA .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=2180152276.png",CANAL DONANA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/21801522766d228ecc4a9f
 
 #EXTINF:-1 tvg-name="CANAL EXTREMADURA (6)" group-title="Spain" tvg-logo="/live2/logo/3410008380.png",CANAL EXTREMADURA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1109,14 +1117,6 @@ https://vavoo.to/live2/play3/4125810523.m3u8
 #EXTINF:-1 tvg-name="FACTORIA DE FICCION/FDF .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=4125810523.png",FACTORIA FICCION/FDF
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4125810523d80a37d3ff1c
-
-#EXTINF:-1 tvg-name="FDF (1)" group-title="Spain",FDF
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2622585831.m3u8
-
-#EXTINF:-1 tvg-name="FDF .b" group-title="Spain",FDF
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/26225858313dc1c12ffe85
 
 #EXTINF:-1 tvg-name="FOX (6)" group-title="Spain",FOX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2309,14 +2309,6 @@ https://vavoo.to/live2/play3/142832720.m3u8
 #EXTINF:-1 tvg-name="TOROS .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=142832720.png",TOROS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/142832720b500e5b89cad
-
-#EXTINF:-1 tvg-name="TOROS TV (1)" group-title="Spain",TOROS TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/469813358.m3u8
-
-#EXTINF:-1 tvg-name="TOROS TV .b" group-title="Spain",TOROS TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/46981335898e66a40a61f
 
 #EXTINF:-1 tvg-name="TOROS TV HD (1)" group-title="Spain",TOROS TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
