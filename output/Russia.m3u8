@@ -1,6 +1,14 @@
 #EXTM3U
-# Generated: 2026-03-30 07:45:49
+# Generated: 2026-03-30 13:25:32
 # Source: vavoo.to
+
+#EXTINF:-1 tvg-name=".BLACK (1)" group-title="Russia",.BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1140356951.m3u8
+
+#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
 
 #EXTINF:-1 tvg-name=".RED HD (1)" group-title="Russia",.RED
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -45,6 +53,10 @@ https://vavoo.to/vavoo-iptv/play/9828143438e140eb471a
 #EXTINF:-1 tvg-name="360 НОВОСТИ (1)" group-title="Russia",360 НОВОСТИ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1091733503.m3u8
+
+#EXTINF:-1 tvg-name="360 НОВОСТИ .b" group-title="Russia",360 НОВОСТИ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1091733503a136df29c545
 
 #EXTINF:-1 tvg-name="365 DAYS (7)" group-title="Russia",365 DAYS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -213,6 +225,14 @@ https://vavoo.to/live2/play3/1302672529.m3u8
 #EXTINF:-1 tvg-name="ANIMAL PLANET HD .b" group-title="Russia",ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1302672529a11e5372005c
+
+#EXTINF:-1 tvg-name="ARENATV (7)" group-title="Russia",ARENATV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2093231628.m3u8
+
+#EXTINF:-1 tvg-name="ARENATV .s" group-title="Russia",ARENATV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/20932316281d4386da5b7b
 
 #EXTINF:-1 tvg-name="AUTO PLUS (7)" group-title="Russia",AUTO PLUS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1277,14 +1297,6 @@ https://vavoo.to/live2/play3/3184010784.m3u8
 #EXTINF:-1 tvg-name="MIR .s" group-title="Russia",MIR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/31840107842565adf1ebf2
-
-#EXTINF:-1 tvg-name="MIR 24 (7)" group-title="Russia",MIR 24
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3982716238.m3u8
-
-#EXTINF:-1 tvg-name="MIR 24 .s" group-title="Russia",MIR 24
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3982716238abeb14ba268d
 
 #EXTINF:-1 tvg-name="MORSKOE TV (7)" group-title="Russia",MORSKOE TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3062,10 +3074,6 @@ https://vavoo.to/live2/play3/4244739358.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/424473935800c7fa20143c
 
-#EXTINF:-1 tvg-name="НТВ (7)" group-title="Russia",НТВ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/983685089.m3u8
-
 #EXTINF:-1 tvg-name="НТВ +2 (1)" group-title="Russia",НТВ 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1625653914.m3u8
@@ -3097,18 +3105,6 @@ https://vavoo.to/live2/play3/710253115.m3u8
 #EXTINF:-1 tvg-name="НТВ +8 .b" group-title="Russia",НТВ 8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/710253115d8ff5fb872b7
-
-#EXTINF:-1 tvg-name="НТВ .s" group-title="Russia",НТВ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/983685089eea34094af26
-
-#EXTINF:-1 tvg-name="НТВ HD (1)" group-title="Russia",НТВ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2551704065.m3u8
-
-#EXTINF:-1 tvg-name="НТВ HD .b" group-title="Russia",НТВ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/25517040655f7d4286a0f3
 
 #EXTINF:-1 tvg-name="НТВ ПРАВО (1)" group-title="Russia",НТВ ПРАВО
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
