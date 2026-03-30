@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-30 02:41:52
+# Generated: 2026-03-30 07:45:49
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="4MUSIC (7)" group-title="United Kingdom",4MUSIC
@@ -657,6 +657,14 @@ https://vavoo.to/live2/play3/1493324324.m3u8
 #EXTINF:-1 tvg-name="CARTOON NETWORK .b" group-title="United Kingdom",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/14933243241a00eb69dcd6
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD (1)" group-title="United Kingdom",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1358548580.m3u8
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD .b" group-title="United Kingdom",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1358548580c0af1d559c0d
 
 #EXTINF:-1 tvg-name="CARTOONITO (1)" group-title="United Kingdom",CARTOONITO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3906,14 +3914,6 @@ https://vavoo.to/live2/play3/2721727780.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/27217277804702040fbfdb
 
-#EXTINF:-1 tvg-name="TNT SPORTS 4 (7)" group-title="United Kingdom" tvg-logo="/live2/logo/270178612.png",TNT SPORTS 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/270178612.m3u8
-
-#EXTINF:-1 tvg-name="TNT SPORTS 4 .s" group-title="United Kingdom" tvg-logo="https://logo.huhu.to/logo?c=270178612.png",TNT SPORTS 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/270178612d3bf0bad8c5d
-
 #EXTINF:-1 tvg-name="TNT SPORTS 5 (7)" group-title="United Kingdom" tvg-logo="/live2/logo/763015300.png",TNT SPORTS 5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/763015300.m3u8
@@ -4049,6 +4049,14 @@ https://vavoo.to/live2/play3/372875800.m3u8
 #EXTINF:-1 tvg-name="UTV IRELAND .s" group-title="United Kingdom",UTV IRELAND
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3728758003796ef8256de
+
+#EXTINF:-1 tvg-name="VH1 (7)" group-title="United Kingdom",VH1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2472057422.m3u8
+
+#EXTINF:-1 tvg-name="VH1 .s" group-title="United Kingdom",VH1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2472057422e66827965ebc
 
 #EXTINF:-1 tvg-name="VIAPLAY SPORTS 1 (7)" group-title="United Kingdom",VIAPLAY SPORTS 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
