@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-03-31 13:24:16
+# Generated: 2026-03-31 19:04:40
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="24 KITCHEN (6)" group-title="Portugal" tvg-logo="/live2/logo/2176778441.png",24 KITCHEN
@@ -69,6 +69,10 @@ https://vavoo.to/live2/play3/3143462075.m3u8
 #EXTINF:-1 tvg-name="AXN MOVIES (6)" group-title="Portugal" tvg-logo="/live2/logo/474759302.png",AXN MOVIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/474759302.m3u8
+
+#EXTINF:-1 tvg-name="AXN MOVIES HD (1)" group-title="Portugal",AXN MOVIES
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2370723370.m3u8
 
 #EXTINF:-1 tvg-name="AXN WHITE (6)" group-title="Portugal" tvg-logo="/live2/logo/477021226.png",AXN WHITE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -334,10 +338,6 @@ https://vavoo.to/live2/play3/3523975641.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/513907015.m3u8
 
-#EXTINF:-1 tvg-name="ELEVEN SPORT 6 (1)" group-title="Portugal",ELEVEN SPORT 6
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3725483887.m3u8
-
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 1 HD (1)" group-title="Portugal",ELEVEN SPORTS 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3294572902.m3u8
@@ -377,10 +377,6 @@ https://vavoo.to/live2/play3/1985937235.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 5 HD (1)" group-title="Portugal",ELEVEN SPORTS 5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1075134364.m3u8
-
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD (1)" group-title="Portugal",ELEVEN SPORTS 6
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3466213503.m3u8
 
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD (BACKUP) (1)" group-title="Portugal",ELEVEN SPORTS 6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -646,10 +642,6 @@ https://vavoo.to/live2/play3/2111785550.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2106247479.m3u8
 
-#EXTINF:-1 tvg-name="PANDA BIGGS (1)" group-title="Portugal",PANDA BIGGS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2958694111.m3u8
-
 #EXTINF:-1 tvg-name="PANDA KIDS (6)" group-title="Portugal" tvg-logo="/live2/logo/2171243952.png",PANDA KIDS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2171243952.m3u8
@@ -661,10 +653,6 @@ https://vavoo.to/live2/play3/1655711684.m3u8
 #EXTINF:-1 tvg-name="PFC (1)" group-title="Portugal",PFC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2447945475.m3u8
-
-#EXTINF:-1 tvg-name="PFC (BACKUP) (1)" group-title="Portugal",PFC
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3753231864.m3u8
 
 #EXTINF:-1 tvg-name="PORTO CANAL (1)" group-title="Portugal",PORTO CANAL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -713,10 +701,6 @@ https://vavoo.to/live2/play3/1961433088.m3u8
 #EXTINF:-1 tvg-name="RTP AFRICA (1)" group-title="Portugal",RTP AFRICA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1885378174.m3u8
-
-#EXTINF:-1 tvg-name="RTP ARENA (6)" group-title="Portugal" tvg-logo="/live2/logo/1323652899.png",RTP ARENA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1323652899.m3u8
 
 #EXTINF:-1 tvg-name="RTP AÇORES (6)" group-title="Portugal" tvg-logo="/live2/logo/1100907938.png",RTP AÇORES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -906,10 +890,6 @@ https://vavoo.to/live2/play3/971104126.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1276326705.m3u8
 
-#EXTINF:-1 tvg-name="SPORT TV 5 HD (1)" group-title="Portugal",SPORT TV 5
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1747400167.m3u8
-
 #EXTINF:-1 tvg-name="SPORT TV 6 (6)" group-title="Portugal" tvg-logo="/live2/logo/2118231470.png",SPORT TV 6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2118231470.m3u8
@@ -925,10 +905,6 @@ https://vavoo.to/live2/play3/1718019314.m3u8
 #EXTINF:-1 tvg-name="SPORT TV NBA HD (1)" group-title="Portugal" tvg-logo="/live2/logo/3476204840.png",SPORT TV NBA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3476204840.m3u8
-
-#EXTINF:-1 tvg-name="SPORT TV NBA HD (BACKUP) (1)" group-title="Portugal",SPORT TV NBA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2751720311.m3u8
 
 #EXTINF:-1 tvg-name="SPORTING TV (1)" group-title="Portugal",SPORTING TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1006,10 +982,6 @@ https://vavoo.to/live2/play3/1966027521.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1619697698.m3u8
 
-#EXTINF:-1 tvg-name="TOROS TV (1)" group-title="Portugal" tvg-logo="/live2/logo/1243809524.png",TOROS TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1243809524.m3u8
-
 #EXTINF:-1 tvg-name="TOROS TV (BACKUP) (1)" group-title="Portugal",TOROS TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/784576657.m3u8
@@ -1037,10 +1009,6 @@ https://vavoo.to/live2/play3/2769296124.m3u8
 #EXTINF:-1 tvg-name="TV GLOBO (1)" group-title="Portugal",TV GLOBO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3068526841.m3u8
-
-#EXTINF:-1 tvg-name="TV GLOBO NOW (1)" group-title="Portugal",TV GLOBO NOW
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2099488922.m3u8
 
 #EXTINF:-1 tvg-name="TV MANA 1 (6)" group-title="Portugal" tvg-logo="/live2/logo/3430368704.png",TV MANA 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1125,10 +1093,6 @@ https://vavoo.to/live2/play3/2446987600.m3u8
 #EXTINF:-1 tvg-name="V+ TVI (6)" group-title="Portugal" tvg-logo="/live2/logo/299880045.png",V TVI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/299880045.m3u8
-
-#EXTINF:-1 tvg-name="VH1 (1)" group-title="Portugal",VH1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1260407014.m3u8
 
 #EXTINF:-1 tvg-name="W-SPORT (6)" group-title="Portugal",W-SPORT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
