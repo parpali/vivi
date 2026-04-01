@@ -1,10 +1,14 @@
 #EXTM3U
-# Generated: 2026-04-01 02:48:05
+# Generated: 2026-04-01 07:24:31
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="100% (6)" group-title="Netherlands" tvg-logo="/live2/logo/740890222.png",100%
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/740890222.m3u8
+
+#EXTINF:-1 tvg-name="100% NL TV (7)" group-title="Netherlands",100% NL TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/60276472.m3u8
 
 #EXTINF:-1 tvg-name="192 TV (6)" group-title="Netherlands" tvg-logo="/live2/logo/2608998715.png",192 TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -246,6 +250,10 @@ https://vavoo.to/live2/play3/3637574983.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/453029930.m3u8
 
+#EXTINF:-1 tvg-name="FASHION TV (7)" group-title="Netherlands",FASHION TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1467439935.m3u8
+
 #EXTINF:-1 tvg-name="FASHIONTV (6)" group-title="Netherlands" tvg-logo="/live2/logo/2801564951.png",FASHIONTV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2801564951.m3u8
@@ -257,6 +265,14 @@ https://vavoo.to/live2/play3/887233041.m3u8
 #EXTINF:-1 tvg-name="FILM 1 DRAMA (7)" group-title="Netherlands",FILM 1 DRAMA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2329363703.m3u8
+
+#EXTINF:-1 tvg-name="FILM 1 FAMILY (7)" group-title="Netherlands",FILM 1 FAMILY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3479714514.m3u8
+
+#EXTINF:-1 tvg-name="FILM 1 PREMIERE (7)" group-title="Netherlands",FILM 1 PREMIERE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2143191607.m3u8
 
 #EXTINF:-1 tvg-name="FOX CHANNEL (7)" group-title="Netherlands",FOX CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -642,6 +658,10 @@ https://vavoo.to/live2/play3/2323583211.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4226462509.m3u8
 
+#EXTINF:-1 tvg-name="RTL 4 (7)" group-title="Netherlands",RTL 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/4193182769.m3u8
+
 #EXTINF:-1 tvg-name="RTL 5 (6)" group-title="Netherlands" tvg-logo="/live2/logo/3330972317.png",RTL 5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3330972317.m3u8
@@ -938,10 +958,6 @@ https://vavoo.to/live2/play3/2922568715.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2038080316.m3u8
 
-#EXTINF:-1 tvg-name="VIAPLAY EVENT 2 (6)" group-title="Netherlands",VIAPLAY EVENT 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3918702299.m3u8
-
 #EXTINF:-1 tvg-name="VIAPLAY EVENT 3 (6)" group-title="Netherlands",VIAPLAY EVENT 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3572666219.m3u8
@@ -1045,6 +1061,10 @@ https://vavoo.to/live2/play3/3120243495.m3u8
 #EXTINF:-1 tvg-name="ZIGGO SPORT SELECT (6)" group-title="Netherlands" tvg-logo="/live2/logo/1585597115.png",ZIGGO SPORT SELECT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1585597115.m3u8
+
+#EXTINF:-1 tvg-name="ZIGGO SPORT SELECT (7)" group-title="Netherlands",ZIGGO SPORT SELECT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/739290895.m3u8
 
 #EXTINF:-1 tvg-name="ZIGGO SPORT TENNIS (7)" group-title="Netherlands",ZIGGO SPORT TENNIS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
