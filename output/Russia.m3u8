@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-04-01 13:26:55
+# Generated: 2026-04-01 19:05:30
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name=".BLACK (1)" group-title="Russia",.BLACK
@@ -1274,6 +1274,14 @@ https://vavoo.to/live2/play3/862478150.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/86247815017bcd61d5dbc
 
+#EXTINF:-1 tvg-name="MEZZO LIVE HD (1)" group-title="Russia",MEZZO LIVE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2245610187.m3u8
+
+#EXTINF:-1 tvg-name="MEZZO LIVE HD .b" group-title="Russia",MEZZO LIVE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/22456101875c4e5cb31ecc
+
 #EXTINF:-1 tvg-name="MILLET (7)" group-title="Russia",MILLET
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1196499698.m3u8
@@ -1289,14 +1297,6 @@ https://vavoo.to/live2/play3/3184010784.m3u8
 #EXTINF:-1 tvg-name="MIR .s" group-title="Russia",MIR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/31840107842565adf1ebf2
-
-#EXTINF:-1 tvg-name="MIR 24 (7)" group-title="Russia",MIR 24
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3982716238.m3u8
-
-#EXTINF:-1 tvg-name="MIR 24 .s" group-title="Russia",MIR 24
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3982716238abeb14ba268d
 
 #EXTINF:-1 tvg-name="MORSKOE TV (7)" group-title="Russia",MORSKOE TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3481,14 +3481,6 @@ https://vavoo.to/live2/play3/289420819.m3u8
 #EXTINF:-1 tvg-name="ТНВ‑ПЛАНЕТА .b" group-title="Russia",ТНВ‑ПЛАНЕТА
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/289420819de3eb3b023e7
-
-#EXTINF:-1 tvg-name="ТНТ (1)" group-title="Russia",ТНТ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3710993242.m3u8
-
-#EXTINF:-1 tvg-name="ТНТ .b" group-title="Russia",ТНТ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/371099324285e376d4d45c
 
 #EXTINF:-1 tvg-name="ТНТ MUSIC (1)" group-title="Russia",ТНТ MUSIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6

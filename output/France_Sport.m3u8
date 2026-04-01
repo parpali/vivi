@@ -1,6 +1,14 @@
 #EXTM3U
-# Generated: 2026-04-01 13:26:55
+# Generated: 2026-04-01 19:05:30
 # Source: vavoo.to
+
+#EXTINF:-1 tvg-name="DAZN EVENT 1 (7)" group-title="France Sport",DAZN EVENT 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2019775967.m3u8
+
+#EXTINF:-1 tvg-name="DAZN EVENT 10 (7)" group-title="France Sport",DAZN EVENT 10
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3771449102.m3u8
 
 #EXTINF:-1 tvg-name="DAZN EVENT 11 (7)" group-title="France Sport",DAZN EVENT 11
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -77,10 +85,6 @@ https://vavoo.to/live2/play3/1209212446.m3u8
 #EXTINF:-1 tvg-name="INFO SPORT HD (7)" group-title="France Sport",INFO SPORT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2520651022.m3u8
-
-#EXTINF:-1 tvg-name="LEQUIPE 21 HD (7)" group-title="France Sport",LEQUIPE 21
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2523971284.m3u8
 
 #EXTINF:-1 tvg-name="LIGUE 1 FHD (7)" group-title="France Sport",LIGUE 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
