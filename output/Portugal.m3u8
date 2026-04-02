@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-04-01 19:05:30
+# Generated: 2026-04-02 02:32:22
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="24 KITCHEN (6)" group-title="Portugal" tvg-logo="/live2/logo/2176778441.png",24 KITCHEN
@@ -69,10 +69,6 @@ https://vavoo.to/live2/play3/3143462075.m3u8
 #EXTINF:-1 tvg-name="AXN MOVIES (6)" group-title="Portugal" tvg-logo="/live2/logo/474759302.png",AXN MOVIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/474759302.m3u8
-
-#EXTINF:-1 tvg-name="AXN MOVIES HD (1)" group-title="Portugal",AXN MOVIES
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2370723370.m3u8
 
 #EXTINF:-1 tvg-name="AXN WHITE (6)" group-title="Portugal" tvg-logo="/live2/logo/477021226.png",AXN WHITE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -262,6 +258,10 @@ https://vavoo.to/live2/play3/3654160632.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3836623176.m3u8
 
+#EXTINF:-1 tvg-name="DAZN 6 (6)" group-title="Portugal" tvg-logo="/live2/logo/2735621016.png",DAZN 6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2735621016.m3u8
+
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD (1)" group-title="Portugal",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/783187914.m3u8
@@ -373,6 +373,14 @@ https://vavoo.to/live2/play3/1985937235.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 5 HD (1)" group-title="Portugal",ELEVEN SPORTS 5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1075134364.m3u8
+
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD (1)" group-title="Portugal",ELEVEN SPORTS 6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3466213503.m3u8
+
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD (BACKUP) (1)" group-title="Portugal",ELEVEN SPORTS 6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1783116785.m3u8
 
 #EXTINF:-1 tvg-name="EURONEWS (6)" group-title="Portugal" tvg-logo="/live2/logo/2842227117.png",EURONEWS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -837,6 +845,10 @@ https://vavoo.to/live2/play3/702454257.m3u8
 #EXTINF:-1 tvg-name="SPORT TV 2 HD (1)" group-title="Portugal",SPORT TV 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1658993918.m3u8
+
+#EXTINF:-1 tvg-name="SPORT TV 2 HD (BACKUP) (1)" group-title="Portugal",SPORT TV 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/779445982.m3u8
 
 #EXTINF:-1 tvg-name="SPORT TV 3 (1)" group-title="Portugal",SPORT TV 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
