@@ -1,10 +1,6 @@
 #EXTM3U
-# Generated: 2026-04-02 07:16:36
+# Generated: 2026-04-02 13:18:59
 # Source: vavoo.to
-
-#EXTINF:-1 tvg-name="(ALGERIA) CNA TV (1)" group-title="Arabia",(ALGERIA) CNA TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/907894234.m3u8
 
 #EXTINF:-1 tvg-name="(ALGERIA) EL BILAD TV (1)" group-title="Arabia",(ALGERIA) EL BILAD TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -149,6 +145,10 @@ https://vavoo.to/live2/play3/1158172945.m3u8
 #EXTINF:-1 tvg-name="AL ANWAR TV (1)" group-title="Arabia",AL ANWAR TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3616888284.m3u8
+
+#EXTINF:-1 tvg-name="AL AOULA HD TNT (1)" group-title="Arabia",AL AOULA TNT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/718684517.m3u8
 
 #EXTINF:-1 tvg-name="AL AOULA INTER (1)" group-title="Arabia",AL AOULA INTER
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -510,6 +510,14 @@ https://vavoo.to/live2/play3/2421008256.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2604842501.m3u8
 
+#EXTINF:-1 tvg-name="ALBAEENAH IRAQ (1)" group-title="Arabia",ALBAEENAH IRAQ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2484780131.m3u8
+
+#EXTINF:-1 tvg-name="ALERTH ALNABAWI CHANNEL (576P) (1)" group-title="Arabia",ALERTH ALNABAWI CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2933686104.m3u8
+
 #EXTINF:-1 tvg-name="ALFA CINEMA 1 (1)" group-title="Arabia",ALFA CINEMA 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3167389462.m3u8
@@ -541,10 +549,6 @@ https://vavoo.to/live2/play3/2397827261.m3u8
 #EXTINF:-1 tvg-name="ALFORAT TV (FHD) (1)" group-title="Arabia",ALFORAT TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/501483461.m3u8
-
-#EXTINF:-1 tvg-name="ALGERIA 1 (1)" group-title="Arabia",ALGERIA 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3870741582.m3u8
 
 #EXTINF:-1 tvg-name="ALGERIA 4 (1)" group-title="Arabia",ALGERIA 4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1066,14 +1070,6 @@ https://vavoo.to/live2/play3/992275182.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/737390683.m3u8
 
-#EXTINF:-1 tvg-name="BEIN AFC1 HD (1)" group-title="Arabia",BEIN AFC1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/839178749.m3u8
-
-#EXTINF:-1 tvg-name="BEIN AFC1 SD (1)" group-title="Arabia",BEIN AFC1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1528114085.m3u8
-
 #EXTINF:-1 tvg-name="BEIN AFC2 HD (1)" group-title="Arabia",BEIN AFC2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3163282974.m3u8
@@ -1081,10 +1077,6 @@ https://vavoo.to/live2/play3/3163282974.m3u8
 #EXTINF:-1 tvg-name="BEIN AFC2 SD (1)" group-title="Arabia",BEIN AFC2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3583650886.m3u8
-
-#EXTINF:-1 tvg-name="BEIN AFC3 HD (1)" group-title="Arabia",BEIN AFC3
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1881267840.m3u8
 
 #EXTINF:-1 tvg-name="BEIN AFC3 SD (1)" group-title="Arabia",BEIN AFC3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1209,6 +1201,10 @@ https://vavoo.to/live2/play3/2062753557.m3u8
 #EXTINF:-1 tvg-name="BEIN MOVIES 3 HD (DRAMA) (1)" group-title="Arabia",BEIN MOVIES 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1486940610.m3u8
+
+#EXTINF:-1 tvg-name="BEIN MOVIES 4 (1)" group-title="Arabia" tvg-logo="/live2/logo/146446160.png",BEIN MOVIES 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/146446160.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES 4 HD (1)" group-title="Arabia",BEIN MOVIES 4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1834,6 +1830,10 @@ https://vavoo.to/live2/play3/496638848.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1513775440.m3u8
 
+#EXTINF:-1 tvg-name="BEIN SPORTS ENGLISH HD3 (1)" group-title="Arabia",BEIN SPORTS ENGLISH3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1733970144.m3u8
+
 #EXTINF:-1 tvg-name="BEIN SPORTS EXTRA 2 FHD (1)" group-title="Arabia",BEIN SPORTS EXTRA 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3153189536.m3u8
@@ -2009,10 +2009,6 @@ https://vavoo.to/live2/play3/1724108284.m3u8
 #EXTINF:-1 tvg-name="BELQEES (1)" group-title="Arabia",BELQEES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1779179803.m3u8
-
-#EXTINF:-1 tvg-name="BK: [EG] ON SPORT 1 (1)" group-title="Arabia",BK: ON SPORT 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2378785549.m3u8
 
 #EXTINF:-1 tvg-name="BK: [EG] ON SPORT 2 (1)" group-title="Arabia",BK: ON SPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2673,10 +2669,6 @@ https://vavoo.to/live2/play3/917094634.m3u8
 #EXTINF:-1 tvg-name="DISNEY HD (1)" group-title="Arabia",DISNEY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3384534969.m3u8
-
-#EXTINF:-1 tvg-name="DISNEY JUNIOR HD (1)" group-title="Arabia",DISNEY JUNIOR
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3739835707.m3u8
 
 #EXTINF:-1 tvg-name="DISNEY XD (1)" group-title="Arabia",DISNEY XD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3426,10 +3418,6 @@ https://vavoo.to/live2/play3/510192659.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/323262546.m3u8
 
-#EXTINF:-1 tvg-name="LIBYA ONE (1)" group-title="Arabia",LIBYA ONE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1099339864.m3u8
-
 #EXTINF:-1 tvg-name="LIBYA RSMIA CH (1)" group-title="Arabia",LIBYA RSMIA CH
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1942979865.m3u8
@@ -3625,6 +3613,10 @@ https://vavoo.to/live2/play3/159425668.m3u8
 #EXTINF:-1 tvg-name="MBC 4 (1)" group-title="Arabia" tvg-logo="/live2/logo/1442018003.png",MBC 4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1442018003.m3u8
+
+#EXTINF:-1 tvg-name="MBC 4 (FHD) (1)" group-title="Arabia",MBC 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2568082672.m3u8
 
 #EXTINF:-1 tvg-name="MBC 5 (1)" group-title="Arabia" tvg-logo="/live2/logo/1754487651.png",MBC 5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -4014,6 +4006,10 @@ https://vavoo.to/live2/play3/1546247033.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3640110143.m3u8
 
+#EXTINF:-1 tvg-name="NEWS (1)" group-title="Arabia",NEWS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3441938297.m3u8
+
 #EXTINF:-1 tvg-name="NICK JR (1)" group-title="Arabia",NICK JR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1565542727.m3u8
@@ -4021,6 +4017,10 @@ https://vavoo.to/live2/play3/1565542727.m3u8
 #EXTINF:-1 tvg-name="NICK TOON HD (1)" group-title="Arabia",NICK TOON
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2939943218.m3u8
+
+#EXTINF:-1 tvg-name="NICKELODEON (1)" group-title="Arabia",NICKELODEON
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/818345441.m3u8
 
 #EXTINF:-1 tvg-name="NICKELODEON (6)" group-title="Arabia",NICKELODEON
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -4498,10 +4498,6 @@ https://vavoo.to/live2/play3/2308922641.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2899462753.m3u8
 
-#EXTINF:-1 tvg-name="SAT 7 ARABIC (240P) (1)" group-title="Arabia",SAT 7 ARABIC
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1315628278.m3u8
-
 #EXTINF:-1 tvg-name="SAT 7 ARABIC (6)" group-title="Arabia" tvg-logo="/live2/logo/1527938535.png",SAT 7 ARABIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1527938535.m3u8
@@ -4790,6 +4786,10 @@ https://vavoo.to/live2/play3/310966371.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/44426657.m3u8
 
+#EXTINF:-1 tvg-name="SNIPERS NETFLIX 3 (1)" group-title="Arabia",SNIPERS NETFLIX 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1069927441.m3u8
+
 #EXTINF:-1 tvg-name="SNIPERS TOM AND JERRY 1 (1)" group-title="Arabia" tvg-logo="/live2/logo/14433475.png",SNIPERS TOM AND JERRY 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/14433475.m3u8
@@ -4921,10 +4921,6 @@ https://vavoo.to/live2/play3/455844791.m3u8
 #EXTINF:-1 tvg-name="SV CANAL 4 (6)" group-title="Arabia",SV CANAL 4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/427692862.m3u8
-
-#EXTINF:-1 tvg-name="SYFY (1)" group-title="Arabia",SYFY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/148755622.m3u8
 
 #EXTINF:-1 tvg-name="SYFY (6)" group-title="Arabia" tvg-logo="/live2/logo/3247080697.png",SYFY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -5137,10 +5133,6 @@ https://vavoo.to/live2/play3/2724093926.m3u8
 #EXTINF:-1 tvg-name="TODO NOTICIAS (1)" group-title="Arabia",TODO NOTICIAS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3011325723.m3u8
-
-#EXTINF:-1 tvg-name="TOKTOK AFLAM (1)" group-title="Arabia",TOKTOK AFLAM
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/91327789.m3u8
 
 #EXTINF:-1 tvg-name="TOKTOK CIMA (1)" group-title="Arabia",TOKTOK CIMA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6

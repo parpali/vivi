@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-04-02 07:16:36
+# Generated: 2026-04-02 13:18:59
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="111 TV (6)" group-title="Italy" tvg-logo="/live2/logo/1600139819.png",111 TV
@@ -189,10 +189,6 @@ https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
 #EXTINF:-1 tvg-name="BIKE (6)" group-title="Italy" tvg-logo="/live2/logo/3095895412.png",BIKE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3095895412.m3u8
-
-#EXTINF:-1 tvg-name="BIKE .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3095895412.png",BIKE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f
 
 #EXTINF:-1 tvg-name="BLAZE (6)" group-title="Italy" tvg-logo="/live2/logo/2532635659.png",BLAZE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -729,14 +725,6 @@ https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 tvg-name="EUROSPORT 2 .s" group-title="Italy",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
-
-#EXTINF:-1 tvg-name="EUROSPORT 2 TIMVISION (6)" group-title="Italy",EUROSPORT 2 TIMVISION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1100261415.m3u8
-
-#EXTINF:-1 tvg-name="EUROSPORT 2 TIMVISION .c" group-title="Italy",EUROSPORT 2 TIMVISION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 
 #EXTINF:-1 tvg-name="EUROSPORT 4 TIMVISION (6)" group-title="Italy",EUROSPORT 4 TIMVISION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2574,9 +2562,17 @@ https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2130523218.m3u8
 
+#EXTINF:-1 tvg-name="SKY UNO (7)" group-title="Italy" tvg-logo="/live2/logo/322024849.png",SKY UNO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/322024849.m3u8
+
 #EXTINF:-1 tvg-name="SKY UNO .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2130523218.png",SKY UNO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
+
+#EXTINF:-1 tvg-name="SKY UNO .s" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=322024849.png",SKY UNO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 
 #EXTINF:-1 tvg-name="SKYSHOWTIME 1 (6)" group-title="Italy" tvg-logo="/live2/logo/2873793231.png",SKYSHOWTIME 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
