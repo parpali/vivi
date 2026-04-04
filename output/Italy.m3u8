@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-04-04 07:04:14
+# Generated: 2026-04-04 13:00:31
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="111 TV (6)" group-title="Italy" tvg-logo="/live2/logo/1600139819.png",111 TV
@@ -530,14 +530,6 @@ https://vavoo.to/live2/play3/1376440573.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 
-#EXTINF:-1 tvg-name="DAZN 2 (6)" group-title="Italy" tvg-logo="/live2/logo/363506221.png",DAZN 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/363506221.m3u8
-
-#EXTINF:-1 tvg-name="DAZN 2 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=363506221.png",DAZN 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
-
 #EXTINF:-1 tvg-name="DEEJAY TV (6)" group-title="Italy" tvg-logo="/live2/logo/963607327.png",DEEJAY TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/963607327.m3u8
@@ -738,6 +730,14 @@ https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 
+#EXTINF:-1 tvg-name="EUROSPORT 2 TIMVISION (6)" group-title="Italy",EUROSPORT 2 TIMVISION
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1100261415.m3u8
+
+#EXTINF:-1 tvg-name="EUROSPORT 2 TIMVISION .c" group-title="Italy",EUROSPORT 2 TIMVISION
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
+
 #EXTINF:-1 tvg-name="EUROSPORT 4 TIMVISION (6)" group-title="Italy",EUROSPORT 4 TIMVISION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1668185301.m3u8
@@ -929,10 +929,6 @@ https://vavoo.to/vavoo-iptv/play/28977827817ceeecfaf662
 #EXTINF:-1 tvg-name="HGTV .s" group-title="Italy",HGTV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-
-#EXTINF:-1 tvg-name="HISTORY (6)" group-title="Italy" tvg-logo="/live2/logo/317837654.png",HISTORY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/317837654.m3u8
 
 #EXTINF:-1 tvg-name="HISTORY (7)" group-title="Italy",HISTORY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
