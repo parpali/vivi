@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-04-06 02:42:48
+# Generated: 2026-04-06 07:47:18
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="111 TV (6)" group-title="Italy" tvg-logo="/live2/logo/1600139819.png",111 TV
@@ -1690,9 +1690,17 @@ https://vavoo.to/live2/play3/843891896.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19
 
+#EXTINF:-1 tvg-name="RAI STORIA (6)" group-title="Italy" tvg-logo="/live2/logo/78838793.png",RAI STORIA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/78838793.m3u8
+
 #EXTINF:-1 tvg-name="RAI STORIA (7)" group-title="Italy",RAI STORIA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/57338653.m3u8
+
+#EXTINF:-1 tvg-name="RAI STORIA .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=78838793.png",RAI STORIA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/788387936f9a9f4a81c4
 
 #EXTINF:-1 tvg-name="RAI STORIA .s" group-title="Italy",RAI STORIA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
