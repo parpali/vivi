@@ -1,6 +1,10 @@
 #EXTM3U
-# Generated: 2026-04-07 07:21:30
+# Generated: 2026-04-07 13:23:41
 # Source: vavoo.to
+
+#EXTINF:-1 tvg-name="101 TV (6)" group-title="Spain" tvg-logo="/live2/logo/3042734297.png",101 TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3042734297.m3u8
 
 #EXTINF:-1 tvg-name="101 TV .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=3042734297.png",101 TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -214,6 +218,14 @@ https://vavoo.to/live2/play3/3312673778.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/33126737788738bced58b8
 
+#EXTINF:-1 tvg-name="AXN WHITE HD (1)" group-title="Spain",AXN WHITE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3062256453.m3u8
+
+#EXTINF:-1 tvg-name="AXN WHITE HD .b" group-title="Spain",AXN WHITE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/30622564539999ee2d2ce5
+
 #EXTINF:-1 tvg-name="BABY TV (1)" group-title="Spain",BABY TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3531960591.m3u8
@@ -221,6 +233,10 @@ https://vavoo.to/live2/play3/3531960591.m3u8
 #EXTINF:-1 tvg-name="BABY TV .b" group-title="Spain",BABY TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/35319605913a05a35de44e
+
+#EXTINF:-1 tvg-name="BARCA TV (1)" group-title="Spain",BARCA TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1979280950.m3u8
 
 #EXTINF:-1 tvg-name="BARCA TV (6)" group-title="Spain" tvg-logo="/live2/logo/2697778342.png",BARCA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -469,6 +485,14 @@ https://vavoo.to/live2/play3/4217507207.m3u8
 #EXTINF:-1 tvg-name="CANAL DIOCESANO .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=4217507207.png",CANAL DIOCESANO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4217507207725b765241f4
+
+#EXTINF:-1 tvg-name="CANAL DONANA (6)" group-title="Spain" tvg-logo="/live2/logo/2180152276.png",CANAL DONANA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2180152276.m3u8
+
+#EXTINF:-1 tvg-name="CANAL DONANA .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=2180152276.png",CANAL DONANA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/21801522766d228ecc4a9f
 
 #EXTINF:-1 tvg-name="CANAL EXTREMADURA (6)" group-title="Spain" tvg-logo="/live2/logo/3410008380.png",CANAL EXTREMADURA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1621,22 +1645,6 @@ https://vavoo.to/live2/play3/994074713.m3u8
 #EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 2 HD (ONLY EVENT) .b" group-title="Spain",MOVISTAR LIGA CAMPEONES 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/99407471309612174606f
-
-#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 3 HD (ONLY EVENT) (1)" group-title="Spain",MOVISTAR LIGA CAMPEONES 3
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2761614279.m3u8
-
-#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 3 HD (ONLY EVENT) .b" group-title="Spain",MOVISTAR LIGA CAMPEONES 3
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2761614279e0fedd97652a
-
-#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 4 HD (ONLY EVENT) (1)" group-title="Spain",MOVISTAR LIGA CAMPEONES 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/3447547295.m3u8
-
-#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 4 HD (ONLY EVENT) .b" group-title="Spain",MOVISTAR LIGA CAMPEONES 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3447547295cda5cb391fdc
 
 #EXTINF:-1 tvg-name="MOVISTAR SERIES HD (1)" group-title="Spain",MOVISTAR SERIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
