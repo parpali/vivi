@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-04-08 02:38:00
+# Generated: 2026-04-08 07:24:06
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="7/8 TV (6)" group-title="Bulgaria" tvg-logo="/live2/logo/1090435732.png",7/8 TV
@@ -358,10 +358,6 @@ https://vavoo.to/live2/play3/1421125992.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3502546645.m3u8
 
-#EXTINF:-1 tvg-name="MAX SPORT 2 (7)" group-title="Bulgaria",MAX SPORT 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/320132024.m3u8
-
 #EXTINF:-1 tvg-name="MAX SPORT 3 (6)" group-title="Bulgaria" tvg-logo="/live2/logo/3986995045.png",MAX SPORT 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3986995045.m3u8
@@ -405,6 +401,10 @@ https://vavoo.to/live2/play3/2550224292.m3u8
 #EXTINF:-1 tvg-name="NOVA NEWS (7)" group-title="Bulgaria",NOVA NEWS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2497402570.m3u8
+
+#EXTINF:-1 tvg-name="NOVA SPORT (6)" group-title="Bulgaria" tvg-logo="/live2/logo/2771280932.png",NOVA SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2771280932.m3u8
 
 #EXTINF:-1 tvg-name="NOVA TV (6)" group-title="Bulgaria" tvg-logo="/live2/logo/2261886020.png",NOVA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
