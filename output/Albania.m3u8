@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-04-09 07:26:15
+# Generated: 2026-04-09 13:45:51
 # Source: vavoo.to
 
 #EXTINF:-1 tvg-name="24 KITCHEN (6)" group-title="Albania" tvg-logo="/live2/logo/1629878879.png",24 KITCHEN
@@ -186,10 +186,6 @@ https://vavoo.to/live2/play3/3586832779.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1729459361.m3u8
 
-#EXTINF:-1 tvg-name="ART SPORT 1 HD (1)" group-title="Albania",ART SPORT 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1144238417.m3u8
-
 #EXTINF:-1 tvg-name="ART SPORT 2 (6)" group-title="Albania" tvg-logo="/live2/logo/2456470363.png",ART SPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2456470363.m3u8
@@ -306,6 +302,10 @@ https://vavoo.to/live2/play3/2409719353.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3246587993.m3u8
 
+#EXTINF:-1 tvg-name="BESA (1)" group-title="Albania",BESA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/4104386390.m3u8
+
 #EXTINF:-1 tvg-name="BESA TV (6)" group-title="Albania" tvg-logo="/live2/logo/2714601883.png",BESA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2714601883.m3u8
@@ -313,14 +313,6 @@ https://vavoo.to/live2/play3/2714601883.m3u8
 #EXTINF:-1 tvg-name="BESA TV (7)" group-title="Albania",BESA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2046985544.m3u8
-
-#EXTINF:-1 tvg-name="BIG BROTHER (1)" group-title="Albania",BIG BROTHER
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2550632094.m3u8
-
-#EXTINF:-1 tvg-name="BIG BROTHER 1 (1)" group-title="Albania",BIG BROTHER 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/2757997483.m3u8
 
 #EXTINF:-1 tvg-name="BIG BROTHER 1 (6)" group-title="Albania" tvg-logo="/live2/logo/2744217815.png",BIG BROTHER 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1510,10 +1502,6 @@ https://vavoo.to/live2/play3/4025988512.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/701897229.m3u8
 
-#EXTINF:-1 tvg-name="KS COMEDY (6)" group-title="Albania",KS COMEDY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/509374500.m3u8
-
 #EXTINF:-1 tvg-name="KS EPIC (6)" group-title="Albania",KS EPIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1182035655.m3u8
@@ -1533,6 +1521,18 @@ https://vavoo.to/live2/play3/1719232329.m3u8
 #EXTINF:-1 tvg-name="KS KIDS (1)" group-title="Albania",KS KIDS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3339847432.m3u8
+
+#EXTINF:-1 tvg-name="KS PREMIERE 1 (6)" group-title="Albania",KS PREMIERE 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/2148590865.m3u8
+
+#EXTINF:-1 tvg-name="KS PREMIERE 3 (6)" group-title="Albania",KS PREMIERE 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/4207982193.m3u8
+
+#EXTINF:-1 tvg-name="KS PREMIERE 4 (6)" group-title="Albania",KS PREMIERE 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1223715425.m3u8
 
 #EXTINF:-1 tvg-name="KSPORT 1 (1)" group-title="Albania",KSPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1565,10 +1565,6 @@ https://vavoo.to/live2/play3/87812266.m3u8
 #EXTINF:-1 tvg-name="KUJTESA SPORT 1 [LIVE DURING EVENTS ONLY] (7)" group-title="Albania",KUJTESA SPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/158095501.m3u8
-
-#EXTINF:-1 tvg-name="KUJTESA SPORT 2 (6)" group-title="Albania" tvg-logo="/live2/logo/1117491834.png",KUJTESA SPORT 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play3/1117491834.m3u8
 
 #EXTINF:-1 tvg-name="KUJTESA SPORT 2 [LIVE DURING EVENTS ONLY] (7)" group-title="Albania",KUJTESA SPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2206,6 +2202,10 @@ https://vavoo.to/live2/play3/2601193179.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1866257977.m3u8
 
+#EXTINF:-1 tvg-name="RTV FONTANA (1)" group-title="Albania",RTV FONTANA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3377534818.m3u8
+
 #EXTINF:-1 tvg-name="RTV FONTANA (6)" group-title="Albania" tvg-logo="/live2/logo/1049698532.png",RTV FONTANA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1049698532.m3u8
@@ -2774,6 +2774,10 @@ https://vavoo.to/live2/play3/1727131872.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/2692794012.m3u8
 
+#EXTINF:-1 tvg-name="TRING COMEDY (7)" group-title="Albania" tvg-logo="/live2/logo/762506641.png",TRING COMEDY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/762506641.m3u8
+
 #EXTINF:-1 tvg-name="TRING FANTASY (1)" group-title="Albania",TRING FANTASY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/3700563967.m3u8
@@ -2998,6 +3002,10 @@ https://vavoo.to/live2/play3/357641176.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/962196376.m3u8
 
+#EXTINF:-1 tvg-name="TËVË KIDS 1 (6)" group-title="Albania",TËVË KIDS 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3159918518.m3u8
+
 #EXTINF:-1 tvg-name="TËVË1 (7)" group-title="Albania",TËVË1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4106850488.m3u8
@@ -3042,9 +3050,17 @@ https://vavoo.to/live2/play3/2804093796.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/1166733563.m3u8
 
+#EXTINF:-1 tvg-name="X DRAMA HD (1)" group-title="Albania",X DRAMA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/3644697654.m3u8
+
 #EXTINF:-1 tvg-name="X FAMILY HD (1)" group-title="Albania",X FAMILY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/live2/play3/4074320383.m3u8
+
+#EXTINF:-1 tvg-name="X FILMA 24 (7)" group-title="Albania",X FILMA 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/live2/play3/1641803616.m3u8
 
 #EXTINF:-1 tvg-name="X PREMIUM 1 HD (1)" group-title="Albania",X PREMIUM 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
