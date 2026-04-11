@@ -411,6 +411,7 @@ class VavooScraper:
                     extinf += f",{ch['display_name']}"
 
                     f.write(extinf + "\n")
+                    f.write("#EXTVLCOPT:http-user-agent=VAVOO/2.6\n")
                     f.write(f"{raw_url}\n\n")
                     written_channels += 1
 
