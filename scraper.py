@@ -8,11 +8,9 @@ import requests
 import json
 import re
 import os
-import base64
 import random
 import warnings
 from datetime import datetime
-from urllib.parse import quote_plus
 
 # Disable SSL warnings
 warnings.filterwarnings("ignore", message="Unverified HTTPS request")
@@ -24,6 +22,7 @@ tracker_loaded = False
 BASEURL = "https://www2.vavoo.to/ccapi/"
 VAVOO_LIVE_URL = "https://www.vavoo.to/live2/index?output=json"
 VAVOO_API_URL = "https://vavoo.to/mediahubmx-catalog.json"
+VAVOO_RESOLVE_URL = "https://vavoo.to/mediahubmx-resolve.json"
 PING_URL = "https://www.vavoo.tv/api/box/ping2"
 LOKKE_URL = "https://www.lokke.app/api/app/ping"
 VEC_URL = "http://mastaaa1987.github.io/repo/veclist.json"
@@ -168,20 +167,10 @@ class VavooScraper:
         """Fetch channels from vavoo API"""
         print("Fetching channels from vavoo API...")
 
-        if not self.watched_sig:
-            self.watched_sig = self.get_watched_signature()
-
-        if not self.watched_sig:
+        headers = self.get_mediahub_headers()
+        if not headers:
             print("Could not get watched signature")
             return []
-
-        headers = {
-            "accept-encoding": "gzip",
-            "user-agent": "MediaHubMX/2",
-            "accept": "application/json",
-            "content-type": "application/json; charset=utf-8",
-            "mediahubmx-signature": self.watched_sig,
-        }
 
         all_channels = []
         groups = self.get_groups()
@@ -226,6 +215,22 @@ class VavooScraper:
 
         print(f"Found {len(all_channels)} channels from API")
         return all_channels
+
+    def get_mediahub_headers(self):
+        """Build auth headers for catalog and resolve endpoints"""
+        if not self.watched_sig:
+            self.watched_sig = self.get_watched_signature()
+
+        if not self.watched_sig:
+            return None
+
+        return {
+            "accept-encoding": "gzip",
+            "user-agent": "MediaHubMX/2",
+            "accept": "application/json",
+            "content-type": "application/json; charset=utf-8",
+            "mediahubmx-signature": self.watched_sig,
+        }
 
     def get_groups(self):
         """Get available channel groups"""
@@ -379,45 +384,39 @@ class VavooScraper:
 
             filename = re.sub(r"[^\w\-_\.]", "_", country)
             filepath = os.path.join(OUTPUT_DIR, f"{filename}.m3u8")
+            written_channels = 0
+            skipped_channels = 0
 
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write(f"#EXTM3U\n")
                 f.write(f"# Generated: {timestamp}\n")
-                f.write(f"# Source: vavoo.to\n\n")
+                f.write(f"# Source: raw vavoo.to catalog URLs\n\n")
 
                 # Sort channels by name
                 sorted_channels = sorted(channels, key=lambda x: x["name"])
 
                 for ch in sorted_channels:
                     group = self.categorize_channel(ch["name"], country)
+                    raw_url = ch["hls"] if ch["hls"] else None
 
-                    # Add first URL (live2)
-                    if ch["url"]:
-                        extinf = (
-                            f'#EXTINF:-1 tvg-name="{ch["name"]}" group-title="{group}"'
-                        )
-                        if ch["logo"]:
-                            extinf += f' tvg-logo="{ch["logo"]}"'
-                        extinf += f",{ch['display_name']}"
+                    if not raw_url:
+                        skipped_channels += 1
+                        continue
 
-                        f.write(extinf + "\n")
-                        f.write(f"#EXTVLCOPT:http-user-agent=VAVOO/2.6\n")
-                        f.write(f"{ch['url']}\n\n")
+                    extinf = (
+                        f'#EXTINF:-1 tvg-name="{ch["name"]}" group-title="{group}"'
+                    )
+                    if ch["logo"]:
+                        extinf += f' tvg-logo="{ch["logo"]}"'
+                    extinf += f",{ch['display_name']}"
 
-                    # Add second URL (vavoo-iptv) if different
-                    if ch["hls"] and ch["hls"] != ch["url"]:
-                        extinf = (
-                            f'#EXTINF:-1 tvg-name="{ch["name"]}" group-title="{group}"'
-                        )
-                        if ch["logo"]:
-                            extinf += f' tvg-logo="{ch["logo"]}"'
-                        extinf += f",{ch['display_name']}"
+                    f.write(extinf + "\n")
+                    f.write(f"{raw_url}\n\n")
+                    written_channels += 1
 
-                        f.write(extinf + "\n")
-                        f.write(f"#EXTVLCOPT:http-user-agent=VAVOO/2.6\n")
-                        f.write(f"{ch['hls']}\n\n")
-
-            print(f"Created: {filepath} ({len(channels)} channels)")
+            print(
+                f"Created: {filepath} ({written_channels} playable, {skipped_channels} skipped)"
+            )
 
     def save_json(self):
         """Save channels as JSON for tracking changes"""
