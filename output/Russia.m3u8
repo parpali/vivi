@@ -1,10 +1,6 @@
 #EXTM3U
-# Generated: 2026-04-18 02:36:36
+# Generated: 2026-04-18 07:12:13
 # Source: raw vavoo.to catalog URLs
-
-#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
 
 #EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -18,6 +14,10 @@ https://vavoo.to/vavoo-iptv/play/8858445202e2ac20b5656
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4223838354ce43479f5c1c
 
+#EXTINF:-1 tvg-name="2X2 TV .s" group-title="Russia",2X2 TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/315716754464580c53e16a
+
 #EXTINF:-1 tvg-name="360 TUNEBOX .s" group-title="Russia",360 TUNEBOX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/9828143438e140eb471a
@@ -25,6 +25,10 @@ https://vavoo.to/vavoo-iptv/play/9828143438e140eb471a
 #EXTINF:-1 tvg-name="360 НОВОСТИ .b" group-title="Russia",360 НОВОСТИ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1091733503a136df29c545
+
+#EXTINF:-1 tvg-name="365 DAYS .s" group-title="Russia",365 DAYS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3879975969c27fce923c2e
 
 #EXTINF:-1 tvg-name="365 DENI .s" group-title="Russia",365NI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -142,6 +146,10 @@ https://vavoo.to/vavoo-iptv/play/29773922573ce9b93d58ea
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/228239354576d2e55f9999
 
+#EXTINF:-1 tvg-name="BOOMERANG .b" group-title="Russia",BOOMERANG
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2520496704d469ed1d760c
+
 #EXTINF:-1 tvg-name="BOOMERANG .s" group-title="Russia" tvg-logo="https://logo.huhu.to/logo?c=427820695.png",BOOMERANG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/427820695e1f57b2eddeb
@@ -237,10 +245,6 @@ https://vavoo.to/vavoo-iptv/play/428467108827359d72f1c9
 #EXTINF:-1 tvg-name="DISCOVERY ID XTRA .s" group-title="Russia",DISCOVERY ID XTRA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/307615184548fbf89e2e42
-
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE .b" group-title="Russia",DISCOVERY SCIENCE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/665322372175c57c978d
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE .s" group-title="Russia",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -662,9 +666,9 @@ https://vavoo.to/vavoo-iptv/play/412055334305df2dc7b7b7
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/33296161526b03a90bf2c1
 
-#EXTINF:-1 tvg-name="MTV LIVE .s" group-title="Russia",MTV LIVE
+#EXTINF:-1 tvg-name="MTV LIVE INTERNATIONAL HD .b" group-title="Russia",MTV LIVE INTERNATIONAL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3870096228f86ded461a22
+https://vavoo.to/vavoo-iptv/play/1783586546377487f47eca
 
 #EXTINF:-1 tvg-name="MULT TV .s" group-title="Russia",MULT TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
