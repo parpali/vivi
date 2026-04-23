@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-04-23 13:48:32
+# Generated: 2026-04-23 19:13:53
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="111 TV .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1600139819.png",111 TV
@@ -17,6 +17,10 @@ https://vavoo.to/vavoo-iptv/play/12303381856673f2a33deb
 #EXTINF:-1 tvg-name="27 TWENTY SEVEN .s" group-title="Italy",27 TWENTY SEVEN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3
+
+#EXTINF:-1 tvg-name="27 TWENTYSEVEN .c" group-title="Italy",27 TWENTYSEVEN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/80896559d4a6e09d36f1
 
 #EXTINF:-1 tvg-name="51 RADIO TV .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=4216245552.png",51 RADIO TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -125,10 +129,6 @@ https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 #EXTINF:-1 tvg-name="CACCIA .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1692155417.png",CACCIA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
-
-#EXTINF:-1 tvg-name="CACCIA E PESCA .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3639213638.png",CACCIA E PESCA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 
 #EXTINF:-1 tvg-name="CAFE 24 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1625923783.png",CAFE 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -366,10 +366,6 @@ https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 
-#EXTINF:-1 tvg-name="EUROSPORT 2 TIMVISION .c" group-title="Italy",EUROSPORT 2 TIMVISION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
-
 #EXTINF:-1 tvg-name="EUROSPORT 4 TIMVISION .c" group-title="Italy",EUROSPORT 4 TIMVISION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
@@ -425,10 +421,6 @@ https://vavoo.to/vavoo-iptv/play/276786104991c55564696b
 #EXTINF:-1 tvg-name="FOX .s" group-title="Italy",FOX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
-
-#EXTINF:-1 tvg-name="FRANCE 24 (EN) .s" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2179686828.png",FRANCE 24
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
 
 #EXTINF:-1 tvg-name="FRISBEE .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1995860185.png",FRISBEE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1106,10 +1098,6 @@ https://vavoo.to/vavoo-iptv/play/3285185277cd2292829163
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 
-#EXTINF:-1 tvg-name="SKY PRIMAFILA 13 .c" group-title="Italy",SKY PRIMAFILA 13
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/310480937323455c2778b9
-
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 14 .c" group-title="Italy",SKY PRIMAFILA 14
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
@@ -1121,10 +1109,6 @@ https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 16 .c" group-title="Italy",SKY PRIMAFILA 16
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
-
-#EXTINF:-1 tvg-name="SKY PRIMAFILA 17 .c" group-title="Italy",SKY PRIMAFILA 17
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
 
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 2 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=877200714.png",SKY PRIMAFILA 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1190,10 +1174,6 @@ https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 
-#EXTINF:-1 tvg-name="SKY SERIE .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=836680112.png",SKY SERIE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65
-
 #EXTINF:-1 tvg-name="SKY SPORT 24 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2775802255.png",SKY SPORT 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87
@@ -1213,10 +1193,6 @@ https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-name="SKY SPORT CALCIO .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1665920101.png",SKY SPORT CALCIO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
-
-#EXTINF:-1 tvg-name="SKY SPORT CALCIO .s" group-title="Italy",SKY SPORT CALCIO
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 
 #EXTINF:-1 tvg-name="SKY SPORT F1 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=4246774056.png",SKY SPORT F1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
