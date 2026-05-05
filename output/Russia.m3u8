@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-05-05 13:59:31
+# Generated: 2026-05-05 19:24:12
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
@@ -94,6 +94,10 @@ https://vavoo.to/vavoo-iptv/play/109234169433964d18602e
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/705803278c30030583429
 
+#EXTINF:-1 tvg-name="ANI .b" group-title="Russia",ANI
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/288477470421dc013402c8
+
 #EXTINF:-1 tvg-name="ANI .s" group-title="Russia",ANI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/18851989756b8226b09b3e
@@ -149,10 +153,6 @@ https://vavoo.to/vavoo-iptv/play/228239354576d2e55f9999
 #EXTINF:-1 tvg-name="BOOMERANG .b" group-title="Russia",BOOMERANG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2520496704d469ed1d760c
-
-#EXTINF:-1 tvg-name="BOOMERANG .s" group-title="Russia" tvg-logo="https://logo.huhu.to/logo?c=427820695.png",BOOMERANG
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/427820695e1f57b2eddeb
 
 #EXTINF:-1 tvg-name="BOXE TB .s" group-title="Russia",BOXE TB
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -245,10 +245,6 @@ https://vavoo.to/vavoo-iptv/play/428467108827359d72f1c9
 #EXTINF:-1 tvg-name="DISCOVERY ID XTRA .s" group-title="Russia",DISCOVERY ID XTRA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/307615184548fbf89e2e42
-
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE .b" group-title="Russia",DISCOVERY SCIENCE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/665322372175c57c978d
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE .s" group-title="Russia",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
