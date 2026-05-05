@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-05-05 02:54:04
+# Generated: 2026-05-05 08:13:05
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="111 TV .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1600139819.png",111 TV
@@ -618,6 +618,10 @@ https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 
+#EXTINF:-1 tvg-name="MOTORTREND .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3758728323.png",MOTORTREND
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
+
 #EXTINF:-1 tvg-name="NAT GEO .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1735702308.png",NAT GEO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
@@ -1042,10 +1046,6 @@ https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 
-#EXTINF:-1 tvg-name="SKY CINEMA UNO .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2872151911.png",SKY CINEMA UNO
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
-
 #EXTINF:-1 tvg-name="SKY CINEMA UNO .s" group-title="Italy",SKY CINEMA UNO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
@@ -1185,6 +1185,10 @@ https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87
 #EXTINF:-1 tvg-name="SKY SPORT 24 [LIVE DURING EVENTS ONLY] .s" group-title="Italy",SKY SPORT 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
+
+#EXTINF:-1 tvg-name="SKY SPORT ARENA .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3007400791.png",SKY SPORT ARENA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 
 #EXTINF:-1 tvg-name="SKY SPORT ARENA .s" group-title="Italy",SKY SPORT ARENA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
