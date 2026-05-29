@@ -1,10 +1,14 @@
 #EXTM3U
-# Generated: 2026-05-29 03:50:59
+# Generated: 2026-05-29 09:56:59
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
+
+#EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 
 #EXTINF:-1 tvg-name=".SCI‑FI .b" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1189,6 +1193,10 @@ https://vavoo.to/vavoo-iptv/play/22316944831472849d758b
 #EXTINF:-1 tvg-name="ZVEZDA .s" group-title="Russia",ZVEZDA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/230315117900dd72ed2e96
+
+#EXTINF:-1 tvg-name="АВТО 24 .b" group-title="Russia",АВТО 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2093399135bb93256a7b16
 
 #EXTINF:-1 tvg-name="АВТО ПЛЮС .b" group-title="Russia",АВТО ПЛЮС
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
