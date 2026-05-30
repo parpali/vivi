@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-05-30 13:43:00
+# Generated: 2026-05-30 19:19:28
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
@@ -146,6 +146,10 @@ https://vavoo.to/vavoo-iptv/play/29773922573ce9b93d58ea
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/228239354576d2e55f9999
 
+#EXTINF:-1 tvg-name="BOOMERANG .b" group-title="Russia",BOOMERANG
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2520496704d469ed1d760c
+
 #EXTINF:-1 tvg-name="BOOMERANG .s" group-title="Russia" tvg-logo="https://logo.huhu.to/logo?c=427820695.png",BOOMERANG
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/427820695e1f57b2eddeb
@@ -237,10 +241,6 @@ https://vavoo.to/vavoo-iptv/play/428467108827359d72f1c9
 #EXTINF:-1 tvg-name="DISCOVERY ID XTRA .s" group-title="Russia",DISCOVERY ID XTRA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/307615184548fbf89e2e42
-
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE .b" group-title="Russia",DISCOVERY SCIENCE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/665322372175c57c978d
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE .s" group-title="Russia",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -457,10 +457,6 @@ https://vavoo.to/vavoo-iptv/play/20669156379258d0775b49
 #EXTINF:-1 tvg-name="KHL .b" group-title="Russia",KHL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2890854598f5b804149c2
-
-#EXTINF:-1 tvg-name="KHL PRIME .b" group-title="Russia",KHL PRIME
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4045527153e90ef006c64a
 
 #EXTINF:-1 tvg-name="KHL TV .s" group-title="Russia",KHL TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1002,6 +998,10 @@ https://vavoo.to/vavoo-iptv/play/316704812c1d16f66f94c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2045635278962af29ba91e
 
+#EXTINF:-1 tvg-name="TIJI .b" group-title="Russia",TIJI
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/30473084f881b946c63c
+
 #EXTINF:-1 tvg-name="TIJI TV .s" group-title="Russia",TIJI TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22244712993fb0763b2982
@@ -1194,13 +1194,13 @@ https://vavoo.to/vavoo-iptv/play/2093399135bb93256a7b16
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3481694962a6ade1b7c3a8
 
-#EXTINF:-1 tvg-name="АРСЕНАЛ (MATCH TIME) .s" group-title="Russia",АРСЕНАЛ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3807934386eaf6989b5d31
-
 #EXTINF:-1 tvg-name="АРХЫЗ 24 .s" group-title="Russia",АРХЫЗ 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/37985539339da712e79f59
+
+#EXTINF:-1 tvg-name="БЕЛАРУСЬ 24 .b" group-title="Russia",БЕЛАРУСЬ 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1750473072580811c0e977
 
 #EXTINF:-1 tvg-name="БЕЛРОС .b" group-title="Russia",БЕЛРОС
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
