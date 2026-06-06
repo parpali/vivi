@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-06-06 03:40:05
+# Generated: 2026-06-06 08:35:42
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="1.2.3 TV .s" group-title="Germany",1.2.3 TV
@@ -158,6 +158,10 @@ https://vavoo.to/vavoo-iptv/play/319974039176d79552c719
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/564036923769ef6c26e03
 
+#EXTINF:-1 tvg-name="AUTO MOTO SPORT HD .b" group-title="Sport",AUTO MOTO SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/77775754391079311f8c9
+
 #EXTINF:-1 tvg-name="AUTO MOTOR SPORT .c" group-title="Sport" tvg-logo="https://logo.huhu.to/logo?c=1834925213.png",AUTO MOTOR SPORT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1834925213eda556dc000c
@@ -181,10 +185,6 @@ https://vavoo.to/vavoo-iptv/play/3150125078e40bb1f5ac0
 #EXTINF:-1 tvg-name="AXN HD .b" group-title="Sky",AXN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/33911158650eccddb037b3
-
-#EXTINF:-1 tvg-name="BABY TV .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=3056472300.png",BABY TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3056472300a1783772e102
 
 #EXTINF:-1 tvg-name="BADEN TV .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=2249878622.png",BADEN TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -249,10 +249,6 @@ https://vavoo.to/vavoo-iptv/play/70431113182cd590abb
 #EXTINF:-1 tvg-name="BIBELTV HD .b" group-title="Germany",BIBELTV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22273545434394a1bce07f
-
-#EXTINF:-1 tvg-name="BIG BROTHER .c" group-title="Germany",BIG BROTHER
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3880053996292023cacdac
 
 #EXTINF:-1 tvg-name="BILD TV .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=2324017008.png",BILD TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -330,25 +326,49 @@ https://vavoo.to/vavoo-iptv/play/1135050852a30e431e1e2b
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2183749540f025637bef0d
 
-#EXTINF:-1 tvg-name="BLUETV ACTION ʜᴅ .b" group-title="Germany",BLUETV ACTION ʜᴅ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1289064117bcb64d0399eb
-
 #EXTINF:-1 tvg-name="BLUETV BOLLYWOOD ʜᴅ .b" group-title="Germany",BLUETV BOLLYWOOD ʜᴅ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/199684316627f9a3c661c5
+
+#EXTINF:-1 tvg-name="BLUETV DOKUMENTARFILM ʜᴅ .b" group-title="Germany",BLUETV DOKUMENTARFILM ʜᴅ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/265457868686bae73c5be4
 
 #EXTINF:-1 tvg-name="BLUETV DRAMA 1 ʜᴅ .b" group-title="Germany",BLUETV DRAMA 1 ʜᴅ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3911953199a086b8c6bcf2
 
+#EXTINF:-1 tvg-name="BLUETV FAMILIE 1 ʜᴅ .b" group-title="Germany",BLUETV FAMILIE 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1335837286ea234257fb85
+
+#EXTINF:-1 tvg-name="BLUETV FAMILIE 2 ʜᴅ .b" group-title="Germany",BLUETV FAMILIE 2 ʜᴅ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/359852554389c3b62437d4
+
 #EXTINF:-1 tvg-name="BLUETV FANTASY ʜᴅ .b" group-title="Germany",BLUETV FANTASY ʜᴅ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/36128412929fba395dd445
 
+#EXTINF:-1 tvg-name="BLUETV HISTORIE ʜᴅ .b" group-title="Germany",BLUETV HISTORIE ʜᴅ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/21518326221ebc0c1c1f9d
+
+#EXTINF:-1 tvg-name="BLUETV HORROR 1 ʜᴅ .b" group-title="Germany",BLUETV HORROR 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/13571752139dbb0c175f51
+
+#EXTINF:-1 tvg-name="BLUETV KOMODIE 1 ʜᴅ .b" group-title="Germany",BLUETV KOMODIE 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/4253115827cdffd0ec9955
+
 #EXTINF:-1 tvg-name="BLUETV KRIEGSFILM ʜᴅ .b" group-title="Germany",BLUETV KRIEGSFILM ʜᴅ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/116223296934241aaf11dc
+
+#EXTINF:-1 tvg-name="BLUETV KRIMI 1 ʜᴅ .b" group-title="Germany",BLUETV KRIMI 1 ʜᴅ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/31228905127e916582e0e4
 
 #EXTINF:-1 tvg-name="BLUETV LIEBESFILM 1 ʜᴅ .b" group-title="Germany",BLUETV LIEBESFILM 1 ʜᴅ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -362,9 +382,9 @@ https://vavoo.to/vavoo-iptv/play/2594145557bfa535038c3b
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3486007658f1e5ecad179
 
-#EXTINF:-1 tvg-name="BLUETV THRILLER 1 ʜᴅ .b" group-title="Germany",BLUETV THRILLER 1 ʜᴅ
+#EXTINF:-1 tvg-name="BLUETV SCIENCE-FICTION ʜᴅ .b" group-title="Germany",BLUETV SCIENCE-FICTION ʜᴅ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/13061536361110c450877c
+https://vavoo.to/vavoo-iptv/play/238647737739b74e9768d
 
 #EXTINF:-1 tvg-name="BOLLYWOOD .s" group-title="Germany",BOLLYWOOD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -442,17 +462,9 @@ https://vavoo.to/vavoo-iptv/play/7369015471ce728e672cf
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1091580590c76adf7935ae
 
-#EXTINF:-1 tvg-name="CINEDOME ANIMATION .c" group-title="Cine",CINEDOME ANIMATION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/12327974604b859522b15f
-
 #EXTINF:-1 tvg-name="CINEDOME CINEMA .c" group-title="Cine",CINEDOME CINEMA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/89811180891598a5df96d
-
-#EXTINF:-1 tvg-name="CINEDOME COMEDY .c" group-title="Cine",CINEDOME COMEDY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/321302800266d45dd3cfb4
 
 #EXTINF:-1 tvg-name="CINEDOME DC MOVIES .c" group-title="Cine",CINEDOME DC MOVIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -469,10 +481,6 @@ https://vavoo.to/vavoo-iptv/play/39369331322ff1803cb687
 #EXTINF:-1 tvg-name="CINEDOME FILMAX ANIMATION .c" group-title="Cine",CINEDOME FILMAX ANIMATION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1191389220f509e813c7d7
-
-#EXTINF:-1 tvg-name="CINEDOME FILMAX ARNOLD SCHWARZENEGGER .c" group-title="Cine",CINEDOME FILMAX ARNOLD SCHWARZENEGGER
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/251750662225f2212514
 
 #EXTINF:-1 tvg-name="CINEDOME FILMAX BOLLYWOOD .c" group-title="Cine",CINEDOME FILMAX BOLLYWOOD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -518,10 +526,6 @@ https://vavoo.to/vavoo-iptv/play/41303221460952aae580be
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/34030167547567bef225f1
 
-#EXTINF:-1 tvg-name="CINEDOME FILMAX JEAN CLAUDE VAN DAMME .c" group-title="Cine",CINEDOME FILMAX JEAN CLAUDE VAN DAMME
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/35370554570cc2bb6841a1
-
 #EXTINF:-1 tvg-name="CINEDOME FILMAX KURT RUSSELL .c" group-title="Cine",CINEDOME FILMAX KURT RUSSELL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/32636582734e0110302567
@@ -542,17 +546,9 @@ https://vavoo.to/vavoo-iptv/play/4899988994213cc976c3c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/33607913256fcd6e38a0cf
 
-#EXTINF:-1 tvg-name="CINEDOME FILMAX SYLVESTER STALLONE .c" group-title="Cine",CINEDOME FILMAX SYLVESTER STALLONE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2075303878994a72c178d0
-
 #EXTINF:-1 tvg-name="CINEDOME FILMAX THE FAST & THE FURIOUS .c" group-title="Cine",CINEDOME FILMAX THE FAST & THE FURIOUS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/29401538253333c4c9cdba
-
-#EXTINF:-1 tvg-name="CINEDOME FILMAX TOM CRUISE .c" group-title="Cine",CINEDOME FILMAX TOM CRUISE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3302097478bd78611c91cd
 
 #EXTINF:-1 tvg-name="CINEDOME FILMAX TOMMY LEE JONES .c" group-title="Cine",CINEDOME FILMAX TOMMY LEE JONES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -577,10 +573,6 @@ https://vavoo.to/vavoo-iptv/play/32822794131137e278071d
 #EXTINF:-1 tvg-name="CINEDOME MARVEL .c" group-title="Cine",CINEDOME MARVEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4185419520d3d43a599809
-
-#EXTINF:-1 tvg-name="CITY TV .b" group-title="Germany",CITY TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/247446075793cebf0be6
 
 #EXTINF:-1 tvg-name="COMEDY CENTRAL .b" group-title="Germany",COMEDY CENTRAL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -818,6 +810,10 @@ https://vavoo.to/vavoo-iptv/play/29809524343222a6cee254
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/300144653b62fc1429a44
 
+#EXTINF:-1 tvg-name="DB LIGA 1 HD .b" group-title="Germany",DB LIGA 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/544779527fee9e3400fd8
+
 #EXTINF:-1 tvg-name="DB LIGA 1 HD+ .b" group-title="Germany",DB LIGA 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/7631349038330da5c93e7
@@ -833,6 +829,10 @@ https://vavoo.to/vavoo-iptv/play/67835616800d836abaaf3
 #EXTINF:-1 tvg-name="DB LIGA 2 HD .b" group-title="Germany",DB LIGA 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2935466724408df5ac01fc
+
+#EXTINF:-1 tvg-name="DB LIGA 3 FHD .b" group-title="Germany",DB LIGA 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/10584024430eedbfa6fd5c
 
 #EXTINF:-1 tvg-name="DB LIGA 3 HD .b" group-title="Germany",DB LIGA 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -882,10 +882,6 @@ https://vavoo.to/vavoo-iptv/play/4087199410160f197072a3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2967776932cbba68153a75
 
-#EXTINF:-1 tvg-name="DELUXE LOUNGE .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=3638874712.png",DELUXE LOUNGE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/363887471223954bf3ea94
-
 #EXTINF:-1 tvg-name="DELUXE MUSIC .b" group-title="Germany",DELUXE MUSIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/218565287092f719df4d45
@@ -914,10 +910,6 @@ https://vavoo.to/vavoo-iptv/play/33432523724976692e0c5e
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/364770966b47b15c9f4a4
 
-#EXTINF:-1 tvg-name="DEUTSCHE SPORT .b" group-title="Sport",DEUTSCHE SPORT
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3690248614aeaba09f780b
-
 #EXTINF:-1 tvg-name="DEUTSCHES MUSIK FERNSEHEN .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=2195479735.png",DEUTSCHES MUSIK FERNSEHEN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/219547973580689592af80
@@ -929,10 +921,6 @@ https://vavoo.to/vavoo-iptv/play/2256158544a8afca575017
 #EXTINF:-1 tvg-name="DIE NEUE ZEIT TV .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=1906274466.png",DIE NEUE ZEIT TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1906274466d53fb305acff
-
-#EXTINF:-1 tvg-name="DISCOVERY .b" group-title="Germany",DISCOVERY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3051100732f4a7af6ae8fa
 
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL .s" group-title="Germany",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -957,6 +945,10 @@ https://vavoo.to/vavoo-iptv/play/7015519751f224008145c
 #EXTINF:-1 tvg-name="DISNEY JUNIOR (BACKUP) .b" group-title="Sky",DISNEY JUNIOR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/35285023817bfb6202b4d7
+
+#EXTINF:-1 tvg-name="DISNEY JUNIOR .b" group-title="Sky",DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/14339680663b724fcafe95
 
 #EXTINF:-1 tvg-name="DISNEY XD .s" group-title="Sky",DISNEY XD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -985,10 +977,6 @@ https://vavoo.to/vavoo-iptv/play/15201004986f5edd73b74d
 #EXTINF:-1 tvg-name="DMAX HD+ .b" group-title="Germany",DMAX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/79403627856f32c18a077
-
-#EXTINF:-1 tvg-name="DOKUMENTATION .b" group-title="Germany",DOKUMENTATION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/196474343111e0f530a0c6
 
 #EXTINF:-1 tvg-name="DOKUSAT .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=1325745142.png",DOKUSAT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1022,18 +1010,6 @@ https://vavoo.to/vavoo-iptv/play/4939706396689225497ed
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/42519209617087bb43b2fb
 
-#EXTINF:-1 tvg-name="DYN SPORT 10 .s" group-title="Sport",DYN SPORT 10
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/42463225237f7f47aea6f7
-
-#EXTINF:-1 tvg-name="DYN SPORT 10 [] .c" group-title="Sport",DYN SPORT 10
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3390026591ae2ff6776a12
-
-#EXTINF:-1 tvg-name="DYN SPORT 19 [] .c" group-title="Sport",DYN SPORT 19
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/357778443621093f101595
-
 #EXTINF:-1 tvg-name="DYN SPORT 2 .s" group-title="Sport",DYN SPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1523654175d237ed7b050e
@@ -1050,37 +1026,9 @@ https://vavoo.to/vavoo-iptv/play/4085419930b4ca8d140f16
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1739667375b70564ce305e
 
-#EXTINF:-1 tvg-name="DYN SPORT 3 [] .c" group-title="Sport",DYN SPORT 3
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/320930950079c6b1eb5088
-
 #EXTINF:-1 tvg-name="DYN SPORT 4 .s" group-title="Sport",DYN SPORT 4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/35831100797b94777c5371
-
-#EXTINF:-1 tvg-name="DYN SPORT 4 [] .c" group-title="Sport",DYN SPORT 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/304605699778a3735486c0
-
-#EXTINF:-1 tvg-name="DYN SPORT 5 .s" group-title="Sport",DYN SPORT 5
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/39081579678c20f5025270
-
-#EXTINF:-1 tvg-name="DYN SPORT 5 [] .c" group-title="Sport",DYN SPORT 5
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2032477371539bb548242c
-
-#EXTINF:-1 tvg-name="DYN SPORT 6 .s" group-title="Sport",DYN SPORT 6
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/29413685430926e4f60080
-
-#EXTINF:-1 tvg-name="DYN SPORT 7 .s" group-title="Sport",DYN SPORT 7
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/24527220317420861d5507
-
-#EXTINF:-1 tvg-name="DYN SPORT 8 .s" group-title="Sport",DYN SPORT 8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/274794174aa92a1662e08
 
 #EXTINF:-1 tvg-name="DYN SPORT 9 .s" group-title="Sport",DYN SPORT 9
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1098,10 +1046,6 @@ https://vavoo.to/vavoo-iptv/play/41417308173a4f22777c48
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/10145176681bcf2233febf
 
-#EXTINF:-1 tvg-name="EAGLE MASHA UND DER B HD .b" group-title="Cine",EAGLE MASHA UNDR B
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/26941571285a9aa56b11bd
-
 #EXTINF:-1 tvg-name="EAGLE PEPPA WUTZ HD .b" group-title="Cine",EAGLE PEPPA WUTZ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/334650504460fae4569d05
@@ -1109,10 +1053,6 @@ https://vavoo.to/vavoo-iptv/play/334650504460fae4569d05
 #EXTINF:-1 tvg-name="EAGLE PJ MASKS HD .b" group-title="Cine",EAGLE PJ MASKS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/349803180973dcbee283b
-
-#EXTINF:-1 tvg-name="EB COLLECTION IP MAN .c" group-title="Germany",EB COLLECTION IP MAN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/109738323908e83884d13a
 
 #EXTINF:-1 tvg-name="EB COLLECTION KUNG FU PANDA .c" group-title="Germany",EB COLLECTION KUNG FU PANDA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1130,9 +1070,17 @@ https://vavoo.to/vavoo-iptv/play/3639226616cc575bd12efc
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1571720270f23a527a880c
 
+#EXTINF:-1 tvg-name="EB COLLECTION STAR WARS .c" group-title="Germany",EB COLLECTION STAR WARS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/74720369622814b37b48d
+
 #EXTINF:-1 tvg-name="EB COLLECTION TERMINATOR .c" group-title="Germany",EB COLLECTION TERMINATOR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/7610293135ab198798986
+
+#EXTINF:-1 tvg-name="EB COLLECTION TRANSFORMERS .c" group-title="Germany",EB COLLECTION TRANSFORMERS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/39999985455a03cbda301c
 
 #EXTINF:-1 tvg-name="EB DISNEY+ .c" group-title="Sky",EB DISNEY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1166,10 +1114,6 @@ https://vavoo.to/vavoo-iptv/play/2975640481cc19265c84d2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2061834313ac85fa9fedb6
 
-#EXTINF:-1 tvg-name="ESPORTS 1 HD .b" group-title="Sport",ESPORTS 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1307123031b05b30a624bf
-
 #EXTINF:-1 tvg-name="ESPORTS 1 [LIVE DURING EVENTS ONLY] .s" group-title="Sport",ESPORTS 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3911683934800ce4f7591f
@@ -1177,10 +1121,6 @@ https://vavoo.to/vavoo-iptv/play/3911683934800ce4f7591f
 #EXTINF:-1 tvg-name="EURONEWS .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=3301562165.png",EURONEWS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/33015621659dcc832faf00
-
-#EXTINF:-1 tvg-name="EURONEWS .s" group-title="Germany",EURONEWS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/32727204171fac243abb83
 
 #EXTINF:-1 tvg-name="EURONEWS DEUTSCH HD .b" group-title="Germany",EURONEWSUTSCH
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1197,10 +1137,6 @@ https://vavoo.to/vavoo-iptv/play/1222315896dcc6e31f3735
 #EXTINF:-1 tvg-name="EUROSPORT 1 HD (BACKUP) .b" group-title="Sport",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1988924073cc27ed47d566
-
-#EXTINF:-1 tvg-name="EUROSPORT 1 HD .b" group-title="Sport",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/7317968734462dc6304a4
 
 #EXTINF:-1 tvg-name="EUROSPORT 1 [LIVE DURING EVENTS ONLY] .s" group-title="Sport",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1269,6 +1205,10 @@ https://vavoo.to/vavoo-iptv/play/807825411aad84bf580bf
 #EXTINF:-1 tvg-name="FIX & FOXI .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=3087933134.png",FIX & FOXI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3087933134a74430842c78
+
+#EXTINF:-1 tvg-name="FIX&FOXI .b" group-title="Germany",FIX&FOXI
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3567855153b279660bfce4
 
 #EXTINF:-1 tvg-name="FOLX .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=1288161498.png",FOLX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1402,6 +1342,10 @@ https://vavoo.to/vavoo-iptv/play/3146392775e1da82ce9ca5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/220421890602288122c49f
 
+#EXTINF:-1 tvg-name="ID INVESTIGATION DISCOVERY .b" group-title="Sky",ID INVESTIGATION DISCOVERY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/4202971985e0418640ee35
+
 #EXTINF:-1 tvg-name="INDIANA JONES CHANNEL .s" group-title="Germany",INDIANA JONES CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4162626550b5eaa77efdb7
@@ -1421,6 +1365,10 @@ https://vavoo.to/vavoo-iptv/play/186379979368d2a959fa10
 #EXTINF:-1 tvg-name="JUKEBOX .s" group-title="Germany",JUKEBOX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/30340790106bf57fc3b98e
+
+#EXTINF:-1 tvg-name="JUNIOR HD .b" group-title="Germany",JUNIOR
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1402056834d2ab205474c2
 
 #EXTINF:-1 tvg-name="JUST FISHING .c" group-title="Germany",JUST FISHING
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1502,6 +1450,10 @@ https://vavoo.to/vavoo-iptv/play/3303484794c62142ac7ba2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/31476952887d95e567d9cc
 
+#EXTINF:-1 tvg-name="KINDER SENDER .b" group-title="Germany",KINDER SENDER
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/10572654605e6e19b95e93
+
 #EXTINF:-1 tvg-name="KINDERM RCHEN 1 .b" group-title="Germany",KINDERM RCHEN 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3130154617a45e4a374b4f
@@ -1546,10 +1498,6 @@ https://vavoo.to/vavoo-iptv/play/1340748802e694318a5e15
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/68460934ad316fb531cc
 
-#EXTINF:-1 tvg-name="LG 100 LG 1 .c" group-title="Germany",LG 100 LG 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/178939013c9cf61280498
-
 #EXTINF:-1 tvg-name="LG 101 LG 1 FILM .c" group-title="Germany",LG 101 LG 1 FILM
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/386314300291d0c11a8dbf
@@ -1582,6 +1530,10 @@ https://vavoo.to/vavoo-iptv/play/1003730501cacfb3d840f4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1450429992f331ddf2c5d4
 
+#EXTINF:-1 tvg-name="LG 217 HIMMLISCHES KINO .c" group-title="Cine",LG 217 HIMMLISCHES KINO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3733038992d7ff7e8c8f31
+
 #EXTINF:-1 tvg-name="LG 218 WEDO MOVIES .c" group-title="Germany",LG 218 WEDO MOVIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3776562763698bcb6f91c8
@@ -1593,10 +1545,6 @@ https://vavoo.to/vavoo-iptv/play/29877107783b4250f220de
 #EXTINF:-1 tvg-name="LG 221 CRIMESTAR .c" group-title="Germany",LG 221 CRIMESTAR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1020726248edda85e629b7
-
-#EXTINF:-1 tvg-name="LG 222 DEUTSCHE FILME .c" group-title="Germany",LG 222UTSCHE FILME
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/316196725602f650ae5864
 
 #EXTINF:-1 tvg-name="LG 225 NETZKINO .c" group-title="Cine",LG 225 NETZKINO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1646,10 +1594,6 @@ https://vavoo.to/vavoo-iptv/play/23540452631e9598a6b6e7
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3115695842a5ae8ac7b1a3
 
-#EXTINF:-1 tvg-name="LG 238 DEUTSCHES KINO RAKUTEN TV .c" group-title="Cine",LG 238UTSCHES KINO RAKUTEN TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/31948174223d00d49c869c
-
 #EXTINF:-1 tvg-name="LG 240 SPARKLE MOVIES .c" group-title="Germany",LG 240 SPARKLE MOVIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/222766523a519ee5cbb2f
@@ -1697,10 +1641,6 @@ https://vavoo.to/vavoo-iptv/play/127719807156fe86d48673
 #EXTINF:-1 tvg-name="LG 326 KULTKRIMI .c" group-title="Germany",LG 326 KULTKRIMI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3331634137441168d9dd06
-
-#EXTINF:-1 tvg-name="LG 328 PROFILING PARIS .c" group-title="Germany",LG 328 PROFILING PARIS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3829262292087b7d4098d9
 
 #EXTINF:-1 tvg-name="LG 330 XENA WARRIOR PRINCESS .c" group-title="Germany",LG 330 XENA WARRIOR PRINCESS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1806,10 +1746,6 @@ https://vavoo.to/vavoo-iptv/play/3765802163eb45ed1b5970
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3695996192d5af1fe31e21
 
-#EXTINF:-1 tvg-name="LG 416 BEST OF STANDUP COMEDY .c" group-title="Germany",LG 416 BEST OF STANDUP COMEDY
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3868921262504857b2b300
-
 #EXTINF:-1 tvg-name="LG 425 FAIL ARMY .c" group-title="Germany",LG 425 FAIL ARMY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/354602401546f021ad2edb
@@ -1830,6 +1766,10 @@ https://vavoo.to/vavoo-iptv/play/6226982959c581f96356c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22251488933614667f378b
 
+#EXTINF:-1 tvg-name="LG 512 FILM RISE TRUE CRIME .c" group-title="Germany",LG 512 FILM RISE TRUE CRIME
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/193398010743006380a883
+
 #EXTINF:-1 tvg-name="LG 513 MEET MARRY MURDER .c" group-title="Germany",LG 513 MEET MARRY MURDER
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3189850181204c34a9e16
@@ -1838,9 +1778,9 @@ https://vavoo.to/vavoo-iptv/play/3189850181204c34a9e16
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/13706680580e92dd665351
 
-#EXTINF:-1 tvg-name="LG 525 THE REAL HOUSEWIVES .c" group-title="Germany",LG 525 THE REAL HOUSEWIVES
+#EXTINF:-1 tvg-name="LG 526 MADE IN CHELSEA .c" group-title="Germany",LG 526 MADE IN CHELSEA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1072875610aace8c0638d4
+https://vavoo.to/vavoo-iptv/play/1860680914a006761a45b4
 
 #EXTINF:-1 tvg-name="LG 528 BIG BROTHER .c" group-title="Germany",LG 528 BIG BROTHER
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1873,10 +1813,6 @@ https://vavoo.to/vavoo-iptv/play/186903437168760080392e
 #EXTINF:-1 tvg-name="LG 614 BBC TRAVEL .c" group-title="Germany",LG 614 BBC TRAVEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1362857016083f6489b69c
-
-#EXTINF:-1 tvg-name="LG 615 TRAVEL XP .c" group-title="Germany",LG 615 TRAVEL XP
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/273829526698afdcc5c2b0
 
 #EXTINF:-1 tvg-name="LG 616 GOUSA TV .c" group-title="Germany",LG 616 GOUSA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1954,6 +1890,10 @@ https://vavoo.to/vavoo-iptv/play/884376033de651460c04e
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2653598664e3b93daf1c84
 
+#EXTINF:-1 tvg-name="LG 700 DAZN FAST .c" group-title="Germany",LG 700 DAZN FAST
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/420919079996290edef0b0
+
 #EXTINF:-1 tvg-name="LG 701 DAZN RISE .c" group-title="Germany",LG 701 DAZN RISE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/358234211516170b73559d
@@ -2021,6 +1961,10 @@ https://vavoo.to/vavoo-iptv/play/2310442399c065afde561e
 #EXTINF:-1 tvg-name="LG 745 UNBEATEN .c" group-title="Germany",LG 745 UNBEATEN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/52491573196db9154baf
+
+#EXTINF:-1 tvg-name="LG 748 K BASEBALL TV .c" group-title="Germany",LG 748 K BASEBALL TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1074342588c51e14b9e7c8
 
 #EXTINF:-1 tvg-name="LG 822 NEW KFOOD .c" group-title="Germany",LG 822 NEW KFOOD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2214,14 +2158,6 @@ https://vavoo.to/vavoo-iptv/play/114806800d899af552992
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/200400891647615b814b30
 
-#EXTINF:-1 tvg-name="LG 990 CNBC .c" group-title="Germany",LG 990 CNBC
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/425285388794e1e8a37c75
-
-#EXTINF:-1 tvg-name="LG 991 CNNI .c" group-title="Germany",LG 991 CNNI
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/802018715f1726ef9ad98
-
 #EXTINF:-1 tvg-name="LG 994 SKY NEWS .c" group-title="Sky",LG 994 SKY NEWS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/36839308236d28b6ab80cf
@@ -2229,10 +2165,6 @@ https://vavoo.to/vavoo-iptv/play/36839308236d28b6ab80cf
 #EXTINF:-1 tvg-name="LG 995 NEWS WORLD .c" group-title="Germany",LG 995 NEWS WORLD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/248170492675d6e609fe08
-
-#EXTINF:-1 tvg-name="LG 996 NACHRICHTEN 360 .c" group-title="Germany",LG 996 NACHRICHTEN 360
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3785336451afe8ffb5c81
 
 #EXTINF:-1 tvg-name="LG 998 EURONEWS LIVE .c" group-title="Germany",LG 998 EURONEWS LIVE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2342,10 +2274,6 @@ https://vavoo.to/vavoo-iptv/play/143875012688d67c96d41d
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/21487208329b0862cf0f3d
 
-#EXTINF:-1 tvg-name="MAGENTA SPORT 11 .c" group-title="Sport" tvg-logo="https://logo.huhu.to/logo?c=1755429918.png",MAGENTA SPORT 11
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/175542991835fb3432a2f5
-
 #EXTINF:-1 tvg-name="MAGENTA SPORT 11 [LIVE DURING EVENTS ONLY] .s" group-title="Sport",MAGENTA SPORT 11
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2398423057756a9b2cddb0
@@ -2377,10 +2305,6 @@ https://vavoo.to/vavoo-iptv/play/366591182267fb49b0ba99
 #EXTINF:-1 tvg-name="MAGENTA SPORT 17 .c" group-title="Sport" tvg-logo="https://logo.huhu.to/logo?c=3890301374.png",MAGENTA SPORT 17
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3890301374bb35aed1dbc5
-
-#EXTINF:-1 tvg-name="MAGENTA SPORT 18 .c" group-title="Sport" tvg-logo="https://logo.huhu.to/logo?c=1706155631.png",MAGENTA SPORT 18
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/17061556318f1778ae7b87
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 2 .c" group-title="Sport" tvg-logo="https://logo.huhu.to/logo?c=2335883109.png",MAGENTA SPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2434,18 +2358,6 @@ https://vavoo.to/vavoo-iptv/play/1138372629ac781aad5910
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/38363842009ce71f63f846
 
-#EXTINF:-1 tvg-name="MAGENTA SPORT 8 .c" group-title="Sport" tvg-logo="https://logo.huhu.to/logo?c=3247089604.png",MAGENTA SPORT 8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3247089604fd07d73263bd
-
-#EXTINF:-1 tvg-name="MAGENTA SPORT 8 .s" group-title="Sport",MAGENTA SPORT 8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1727661081b32117de00ca
-
-#EXTINF:-1 tvg-name="MAGENTA SPORT 9 .c" group-title="Sport" tvg-logo="https://logo.huhu.to/logo?c=4243230324.png",MAGENTA SPORT 9
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4243230324ec2649ba522d
-
 #EXTINF:-1 tvg-name="MAGENTA SPORT 9 .s" group-title="Sport",MAGENTA SPORT 9
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1536830889cccec276305e
@@ -2457,6 +2369,10 @@ https://vavoo.to/vavoo-iptv/play/2616132465136fa64a5fc3
 #EXTINF:-1 tvg-name="MASHA UND DER B R .b" group-title="Germany",MASHA UNDR B R
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/240387588066981c0469c4
+
+#EXTINF:-1 tvg-name="MAX KINO .b" group-title="Cine",MAX KINO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3472371261ff0bc8ae135d
 
 #EXTINF:-1 tvg-name="MAX KINO 2 .b" group-title="Cine",MAX KINO 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2473,10 +2389,6 @@ https://vavoo.to/vavoo-iptv/play/3766920010e80eb8963647
 #EXTINF:-1 tvg-name="MDF 1 .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=689098675.png",MDF 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/689098675d491f3f87726
-
-#EXTINF:-1 tvg-name="MDF 1 .s" group-title="Germany",MDF 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1155419760b23ef6b8547b
 
 #EXTINF:-1 tvg-name="MDR .s" group-title="Germany",MDR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2657,6 +2569,10 @@ https://vavoo.to/vavoo-iptv/play/4035838813404dc0cd5ba8
 #EXTINF:-1 tvg-name="NICK JR .s" group-title="Germany",NICK JR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/24424717300dc6b4e579c5
+
+#EXTINF:-1 tvg-name="NICK JUNIOR .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=3564160163.png",NICK JUNIOR
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3564160163816a9193b2f1
 
 #EXTINF:-1 tvg-name="NICK/COMEDY CENTRAL+1 .b" group-title="Germany",NICK/COMEDY CENTRAL1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3122,10 +3038,6 @@ https://vavoo.to/vavoo-iptv/play/35970059694e155063db07
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2382176259c45898662baf
 
-#EXTINF:-1 tvg-name="RHEINMAIN TV .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=3556880534.png",RHEINMAIN TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/355688053433d3e2779ae6
-
 #EXTINF:-1 tvg-name="RIC .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=2684081118.png",RIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/268408111883c87cbdd455
@@ -3242,10 +3154,6 @@ https://vavoo.to/vavoo-iptv/play/1198260913079cb7e1caac
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/28775826376d4353b0d91d
 
-#EXTINF:-1 tvg-name="RTL ZWEI .s" group-title="Germany",RTL ZWEI
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/289174175313063e65f7dc
-
 #EXTINF:-1 tvg-name="RTL ZWEI HD .b" group-title="Germany",RTL ZWEI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/160203873fc8ecba6377a
@@ -3354,6 +3262,10 @@ https://vavoo.to/vavoo-iptv/play/4242909772b8374c84bf5a
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/265983091989ca76c7602c
 
+#EXTINF:-1 tvg-name="S. SPORT 11 FHD .b" group-title="Sport",S. SPORT 11
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3953049103f74277c6ee88
+
 #EXTINF:-1 tvg-name="S. SPORT 11 HD .b" group-title="Sport",S. SPORT 11
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1378077721a926ab11da69
@@ -3421,10 +3333,6 @@ https://vavoo.to/vavoo-iptv/play/2978752107fef207a14853
 #EXTINF:-1 tvg-name="S. SPORT 9 HD .b" group-title="Sport",S. SPORT 9
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11642275598cf307c0afd5
-
-#EXTINF:-1 tvg-name="S. SPORT F1 HD .b" group-title="Sport",S. SPORT F1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/33366594613ae1c09371da
 
 #EXTINF:-1 tvg-name="S. SPORT GOLF FHD .b" group-title="Sport",S. SPORT GOLF
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3602,21 +3510,13 @@ https://vavoo.to/vavoo-iptv/play/94808283ed2fa967bbd6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1751787800584af96e864c
 
-#EXTINF:-1 tvg-name="SKY 1 HD (BACKUP) .b" group-title="Sky",SKY 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/42182405823882c9fb0192
-
 #EXTINF:-1 tvg-name="SKY 1 HD .b" group-title="Sky",SKY 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2760602887782005e658e3
 
-#EXTINF:-1 tvg-name="SKY 1 HD+ (BACKUP) .b" group-title="Sky",SKY 1
+#EXTINF:-1 tvg-name="SKY 24 .b" group-title="Sky",SKY 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/29534198320ba5870cf793
-
-#EXTINF:-1 tvg-name="SKY 1 HD+ .b" group-title="Sky",SKY 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/771256431510afa12b5ca
+https://vavoo.to/vavoo-iptv/play/149550166636630e709d1c
 
 #EXTINF:-1 tvg-name="SKY ACTION .b" group-title="Sky",SKY ACTION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3646,6 +3546,10 @@ https://vavoo.to/vavoo-iptv/play/12134337452fec7faf938d
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2340670204ff621ff5a503
 
+#EXTINF:-1 tvg-name="SKY ATLANTIC HD (BACKUP) .b" group-title="Sky",SKYLANTIC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1376270745b0627d14387d
+
 #EXTINF:-1 tvg-name="SKY ATLANTIC HD .b" group-title="Sky",SKYLANTIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3714049053c3b64d17ddcf
@@ -3653,6 +3557,10 @@ https://vavoo.to/vavoo-iptv/play/3714049053c3b64d17ddcf
 #EXTINF:-1 tvg-name="SKY ATLANTIC HD+ (BACKUP) .b" group-title="Sky",SKYLANTIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2798401146ec7e7d28c11f
+
+#EXTINF:-1 tvg-name="SKY ATLANTIC HD+ .b" group-title="Sky",SKYLANTIC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/350456154001728f296c1e
 
 #EXTINF:-1 tvg-name="SKY BEST OF .b" group-title="Sky",SKY BEST OF
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3738,17 +3646,9 @@ https://vavoo.to/vavoo-iptv/play/3278898614063ce95e9dd
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/30461687866ca918f67f46
 
-#EXTINF:-1 tvg-name="SKY BOX KOMODIE .c" group-title="Sky",SKY BOX KOMODIE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1544513871d476307b0b6c
-
 #EXTINF:-1 tvg-name="SKY BOX KOMODIE HD .b" group-title="Sky",SKY BOX KOMODIE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2149902052f1250c2eea0d
-
-#EXTINF:-1 tvg-name="SKY BOX KRIEGSFILM .c" group-title="Sky",SKY BOX KRIEGSFILM
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1835191283b2454676c430
 
 #EXTINF:-1 tvg-name="SKY BOX KRIEGSFILM HD .b" group-title="Sky",SKY BOX KRIEGSFILM
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3769,6 +3669,10 @@ https://vavoo.to/vavoo-iptv/play/1940254837720d9321cfcd
 #EXTINF:-1 tvg-name="SKY BOX LIEBESFILM HD .b" group-title="Sky",SKY BOX LIEBESFILM
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/14350254833031f4d284de
+
+#EXTINF:-1 tvg-name="SKY BOX MYSTERY .c" group-title="Sky",SKY BOX MYSTERY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2981061970013e9a69ba91
 
 #EXTINF:-1 tvg-name="SKY BOX MYSTERY HD .b" group-title="Sky",SKY BOX MYSTERY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -4014,10 +3918,6 @@ https://vavoo.to/vavoo-iptv/play/2278748656d4794d0c7819
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/25847512893300a8132b78
 
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA 5 [] .c" group-title="Sky" tvg-logo="https://logo.huhu.to/logo?c=3428032953.png",SKY BUNDESLIGA 5
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3428032953f2228cca682a
-
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 6 (MATCH TIME) .s" group-title="Sky",SKY BUNDESLIGA 6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/31802941255ce1356d49dc
@@ -4106,6 +4006,14 @@ https://vavoo.to/vavoo-iptv/play/6337875b21cd118e52b
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3948160239d040a5149193
 
+#EXTINF:-1 tvg-name="SKY CINEMA +24 .c" group-title="Sky" tvg-logo="https://logo.huhu.to/logo?c=980791089.png",SKY CINEMA 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/980791089fceda20dca79
+
+#EXTINF:-1 tvg-name="SKY CINEMA 1 .s" group-title="Sky",SKY CINEMA 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/12794606493d8d8cd3b4fd
+
 #EXTINF:-1 tvg-name="SKY CINEMA 1+ .s" group-title="Sky",SKY CINEMA 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/27358287081689be5b67fc
@@ -4138,10 +4046,6 @@ https://vavoo.to/vavoo-iptv/play/227712345007279b49b40c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1506084946f625257b4975
 
-#EXTINF:-1 tvg-name="SKY CINEMA BEST OF .s" group-title="Sky",SKY CINEMA BEST OF
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/7675679855208c3fbe478
-
 #EXTINF:-1 tvg-name="SKY CINEMA BEST OF HD+ .b" group-title="Sky",SKY CINEMA BEST OF
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1779919359802f2c8cd069
@@ -4158,10 +4062,6 @@ https://vavoo.to/vavoo-iptv/play/311131418932a320ad54c1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1859918457bef7381e0c2
 
-#EXTINF:-1 tvg-name="SKY CINEMA CLASSICS HD+ .b" group-title="Sky",SKY CINEMA CLASSICS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/361705436f8af716c9648
-
 #EXTINF:-1 tvg-name="SKY CINEMA CRIME .s" group-title="Sky",SKY CINEMA CRIME
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/40564741164a7036747d07
@@ -4169,6 +4069,10 @@ https://vavoo.to/vavoo-iptv/play/40564741164a7036747d07
 #EXTINF:-1 tvg-name="SKY CINEMA DOCUMENTARIES .s" group-title="Sky",SKY CINEMA DOCUMENTARIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/7584313479fe18bee2495
+
+#EXTINF:-1 tvg-name="SKY CINEMA EMOTION .b" group-title="Sky",SKY CINEMA EMOTION
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/75068099388ef97789690
 
 #EXTINF:-1 tvg-name="SKY CINEMA EMOTION .c" group-title="Sky",SKY CINEMA EMOTION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -4186,6 +4090,14 @@ https://vavoo.to/vavoo-iptv/play/26152459164daf8d303e46
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/10915522642f277fd9ba45
 
+#EXTINF:-1 tvg-name="SKY CINEMA FAMILY HD+ .b" group-title="Sky",SKY CINEMA FAMILY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/19880745182e2f6c96907a
+
+#EXTINF:-1 tvg-name="SKY CINEMA FUN .s" group-title="Sky",SKY CINEMA FUN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2536879797b1c98070188
+
 #EXTINF:-1 tvg-name="SKY CINEMA FUN HD .b" group-title="Sky",SKY CINEMA FUN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2703750927c3c65ac8a7d0
@@ -4201,6 +4113,10 @@ https://vavoo.to/vavoo-iptv/play/36500348677afe90e35ed0
 #EXTINF:-1 tvg-name="SKY CINEMA HITS .s" group-title="Sky",SKY CINEMA HITS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/21306899026842ff975479
+
+#EXTINF:-1 tvg-name="SKY CINEMA NOSTALGIE .c" group-title="Sky" tvg-logo="https://logo.huhu.to/logo?c=631616247.png",SKY CINEMA NOSTALGIE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/631616247786c3788e7af
 
 #EXTINF:-1 tvg-name="SKY CINEMA NOSTALGIE .s" group-title="Sky",SKY CINEMA NOSTALGIE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -4226,6 +4142,10 @@ https://vavoo.to/vavoo-iptv/play/1845022262d7c436a1ca8c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/491492893ab12d2da98a7
 
+#EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN .c" group-title="Sky" tvg-logo="https://logo.huhu.to/logo?c=4117277461.png",SKY CINEMA PREMIEREN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/4117277461bb80bd4382ae
+
 #EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN .s" group-title="Sky",SKY CINEMA PREMIEREN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3507019421158db3217f80
@@ -4233,10 +4153,6 @@ https://vavoo.to/vavoo-iptv/play/3507019421158db3217f80
 #EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN 24 .s" group-title="Sky",SKY CINEMA PREMIEREN 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1743038820629ac0ff6adc
-
-#EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN HD+ .b" group-title="Sky",SKY CINEMA PREMIEREN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/42658796007222e9d29cb7
 
 #EXTINF:-1 tvg-name="SKY CINEMA SPECIAL .c" group-title="Sky" tvg-logo="https://logo.huhu.to/logo?c=805972699.png",SKY CINEMA SPECIAL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -4350,6 +4266,10 @@ https://vavoo.to/vavoo-iptv/play/1622881023c2132d61b5b0
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1574640463aab12616600f
 
+#EXTINF:-1 tvg-name="SKY PREMIEREN .b" group-title="Sky",SKY PREMIEREN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2826655246a3496b2f3670
+
 #EXTINF:-1 tvg-name="SKY PREMIEREN 24 HD .b" group-title="Sky",SKY PREMIEREN 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/40204379095337e917b8cf
@@ -4402,10 +4322,6 @@ https://vavoo.to/vavoo-iptv/play/290300060152b656c32c4f
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1859652468b2021ba73731
 
-#EXTINF:-1 tvg-name="SKY SELECT 1 BOX .s" group-title="Sky",SKY SELECT 1 BOX
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1652281656f96e11c6c244
-
 #EXTINF:-1 tvg-name="SKY SELECT 1 HD .b" group-title="Sky",SKY SELECT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/471974067439ccd51c642
@@ -4429,14 +4345,6 @@ https://vavoo.to/vavoo-iptv/play/1917658583e1246ffc0151
 #EXTINF:-1 tvg-name="SKY SELECT 10 HD .b" group-title="Sky",SKY SELECT 10
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1225702913e820a987787b
-
-#EXTINF:-1 tvg-name="SKY SELECT 13 4K (MULTIAUDIO) .s" group-title="Sky" tvg-logo="https://logo.huhu.to/logo?c=156477236.png",SKY SELECT 13
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/156477236f3261ff656e8
-
-#EXTINF:-1 tvg-name="SKY SELECT 14 4K (MULTIAUDIO) .s" group-title="Sky",SKY SELECT 14
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/162241777288e90e0d72f5
 
 #EXTINF:-1 tvg-name="SKY SELECT 2 .b" group-title="Sky",SKY SELECT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -4489,10 +4397,6 @@ https://vavoo.to/vavoo-iptv/play/278872166894a8a4c071c9
 #EXTINF:-1 tvg-name="SKY SELECT 4 HD .b" group-title="Sky",SKY SELECT 4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/14219875434bb4071c6397
-
-#EXTINF:-1 tvg-name="SKY SELECT 4 [4K] [] .c" group-title="Sky" tvg-logo="https://logo.huhu.to/logo?c=3018854180.png",SKY SELECT 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3018854180ffbb5fbd4b29
 
 #EXTINF:-1 tvg-name="SKY SELECT 5 .b" group-title="Sky",SKY SELECT 5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -4626,10 +4530,6 @@ https://vavoo.to/vavoo-iptv/play/29630676919edf64c3693f
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2382166683aa3a6ebf18c6
 
-#EXTINF:-1 tvg-name="SKY SELECT PROGRAMM BERSICHT .b" group-title="Sky",SKY SELECT PROGRAMM BERSICHT
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2777266633d00f3be1b209
-
 #EXTINF:-1 tvg-name="SKY SERIEN & SHOWS .c" group-title="Sky" tvg-logo="https://logo.huhu.to/logo?c=873142600.png",SKY SERIEN & SHOWS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/87314260030d570309897
@@ -4762,6 +4662,10 @@ https://vavoo.to/vavoo-iptv/play/2454960312cf3871fa5939
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/236268082e90deb789bcb
 
+#EXTINF:-1 tvg-name="SKY SPORT 9 HD .b" group-title="Sky",SKY SPORT 9
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/32671258975ee204f512e7
+
 #EXTINF:-1 tvg-name="SKY SPORT AUSTRIA 1 (MATCH TIME) .s" group-title="Sky",SKY SPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/766992038ccd25b112894
@@ -4846,82 +4750,6 @@ https://vavoo.to/vavoo-iptv/play/221390283794a927a8264e
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1922768904de41a23ad006
 
-#EXTINF:-1 tvg-name="SKY SPORT PREMIER LEAGUE [] .c" group-title="Sky",SKY SPORT PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2630403198771ace3a18e1
-
-#EXTINF:-1 tvg-name="SKY SPORT TENNIS .c" group-title="Sky" tvg-logo="https://logo.huhu.to/logo?c=2269735121.png",SKY SPORT TENNIS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/226973512188ede053f7c2
-
-#EXTINF:-1 tvg-name="SKY SPORT TENNIS [LIVE DURING EVENTS ONLY] .s" group-title="Sky",SKY SPORT TENNIS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/49755114794a615615475
-
-#EXTINF:-1 tvg-name="SKY SPORT TENNIS [] .c" group-title="Sky" tvg-logo="https://logo.huhu.to/logo?c=847443697.png",SKY SPORT TENNIS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/8474436979a21fa223a4f
-
-#EXTINF:-1 tvg-name="SKY SPORT TOP EVENT .c" group-title="Sky" tvg-logo="https://logo.huhu.to/logo?c=3259673333.png",SKY SPORT TOP EVENT
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3259673333d1927f8d89a8
-
-#EXTINF:-1 tvg-name="SKY SPORT TOP EVENT [LIVE DURING EVENTS ONLY] .s" group-title="Sky",SKY SPORT TOP EVENT
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/31037888758514437f20bf
-
-#EXTINF:-1 tvg-name="SKY SPORT TOP EVENT [] .c" group-title="Sky",SKY SPORT TOP EVENT
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1828977918d2d1fa4ed6db
-
-#EXTINF:-1 tvg-name="SKY SPORTS F1 .s" group-title="Sky",SKY SPORTS F1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/21611914607ee60510dea5
-
-#EXTINF:-1 tvg-name="SKY THRILLER HD .b" group-title="Sky",SKY THRILLER
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/248512881625609986f8b8
-
-#EXTINF:-1 tvg-name="SONNENKLAR TV .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=3495440592.png",SONNENKLAR TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3495440592709bab73596d
-
-#EXTINF:-1 tvg-name="SONNENKLAR TV .s" group-title="Germany",SONNENKLAR TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4215383566b7fe92900456
-
-#EXTINF:-1 tvg-name="SONY ANIXE .b" group-title="Germany",SONY ANIXE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3694545318fbb10d41b721
-
-#EXTINF:-1 tvg-name="SONY ANIXE HD .b" group-title="Germany",SONY ANIXE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/9863327046f2ad4bbde74
-
-#EXTINF:-1 tvg-name="SONY AXN (AXN BLACK) .c" group-title="Sky" tvg-logo="https://logo.huhu.to/logo?c=1069952375.png",SONY AXN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/106995237576219296ae85
-
-#EXTINF:-1 tvg-name="SONY AXN (AXN WHITE) .c" group-title="Sky" tvg-logo="https://logo.huhu.to/logo?c=3896241746.png",SONY AXN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/38962417460828fbc8be04
-
-#EXTINF:-1 tvg-name="SONY AXN .s" group-title="Sky",SONY AXN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3593288083170f89099e79
-
-#EXTINF:-1 tvg-name="SONY AXN HD .b" group-title="Sky",SONY AXN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/55712198587e2cf3d88be
-
-#EXTINF:-1 tvg-name="SONY CHANNEL .s" group-title="Germany",SONY CHANNEL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/8732370240bd48f3e2554
-
-#EXTINF:-1 tvg-name="SONY CHANNEL HD+ .b" group-title="Germany",SONY CHANNEL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/725548284f51fc1cf72bb
-
 #EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE .b" group-title="Germany",SPIEGEL GESCHICHTE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3824241725bd8c4b12c9c
@@ -4949,10 +4777,6 @@ https://vavoo.to/vavoo-iptv/play/2520302204f235e56dd105
 #EXTINF:-1 tvg-name="SPORT 1 .c" group-title="Sport" tvg-logo="https://logo.huhu.to/logo?c=513346178.png",SPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/51334617841ebc9d3984d
-
-#EXTINF:-1 tvg-name="SPORT 1 [] .c" group-title="Sport" tvg-logo="https://logo.huhu.to/logo?c=2371927408.png",SPORT 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2371927408de56cc637ad1
 
 #EXTINF:-1 tvg-name="SPORT DIGITAL .s" group-title="Sport",SPORT DIGITAL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -4998,17 +4822,9 @@ https://vavoo.to/vavoo-iptv/play/1079483287c439c0c0a982
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/7078169291b641b84ff3d
 
-#EXTINF:-1 tvg-name="SPORTDIGITAL 1+ [] .c" group-title="Sport",SPORTDIGITAL 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1111961105f456004d282d
-
 #EXTINF:-1 tvg-name="SPORTDIGITAL FUSSBALL .c" group-title="Sport" tvg-logo="https://logo.huhu.to/logo?c=1939849274.png",SPORTDIGITAL FUSSBALL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1939849274ccdd4eae1312
-
-#EXTINF:-1 tvg-name="SPORTDIGITAL FUSSBALL [] .c" group-title="Sport",SPORTDIGITAL FUSSBALL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2656798788ada1b3749b65
 
 #EXTINF:-1 tvg-name="SPORTDIGITALL FUSSBALL .s" group-title="Sport",SPORTDIGITALL FUSSBALL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -5266,6 +5082,10 @@ https://vavoo.to/vavoo-iptv/play/4177014626d97e25d8a94c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1310739364e235ff437e25
 
+#EXTINF:-1 tvg-name="TNT SERIE HD+ .b" group-title="Sky",TNT SERIE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1657612547b6da3cf3e3a6
+
 #EXTINF:-1 tvg-name="TOM AND JERRY .s" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=3467051802.png",TOM AND JERRY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3467051802703b67e2933c
@@ -5358,10 +5178,6 @@ https://vavoo.to/vavoo-iptv/play/4096804646a62b3d1f7ff1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3712417544dd2df44df7ae
 
-#EXTINF:-1 tvg-name="TV3 SPORT .b" group-title="Sport",TV3 SPORT
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3307783229b070addd157d
-
 #EXTINF:-1 tvg-name="TVA OSTBAYERN .c" group-title="Germany",TVA OSTBAYERN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1364897583a36dd6013875
@@ -5394,6 +5210,10 @@ https://vavoo.to/vavoo-iptv/play/2086139873e54578e3bcc9
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/39592075475dad9fb46d17
 
+#EXTINF:-1 tvg-name="V FILM PREMIERE .b" group-title="Germany",V FILM PREMIERE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/489755247705cd637708e
+
 #EXTINF:-1 tvg-name="V SERIES .b" group-title="Germany",V SERIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/16126897713cec8d43189c
@@ -5405,6 +5225,10 @@ https://vavoo.to/vavoo-iptv/play/3439312957ce321c82c4d
 #EXTINF:-1 tvg-name="VH1 CLASSIC .b" group-title="Germany",VH1 CLASSIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/7540185640152f57743e4
+
+#EXTINF:-1 tvg-name="VIASAT EXPLORE .b" group-title="Germany",VIASAT EXPLORE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/117291557ba984e961de8
 
 #EXTINF:-1 tvg-name="VIASAT HISTORY .b" group-title="Germany",VIASAT HISTORY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -5453,6 +5277,10 @@ https://vavoo.to/vavoo-iptv/play/280187807010b9177bd1a7
 #EXTINF:-1 tvg-name="WARNER COMEDY (BACKUP) .s" group-title="Sky",WARNER COMEDY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/386219912039ba7e4917e5
+
+#EXTINF:-1 tvg-name="WARNER COMEDY .s" group-title="Sky",WARNER COMEDY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/40066388850b473e235a0
 
 #EXTINF:-1 tvg-name="WARNER COMEDY RAW .b" group-title="Sky" tvg-logo="https://logo.huhu.to/logo?c=3830483196.png",WARNER COMEDY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -5574,6 +5402,10 @@ https://vavoo.to/vavoo-iptv/play/164858686582d4dd686caf
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/835915068bff379202095
 
+#EXTINF:-1 tvg-name="XITE .s" group-title="Germany",XITE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/131977343899ed6b3a08c0
+
 #EXTINF:-1 tvg-name="XITE HD .b" group-title="Germany",XITE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/33815888547fbf2449ad20
@@ -5618,6 +5450,10 @@ https://vavoo.to/vavoo-iptv/play/438448158c7f5e0907f0a
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2309304070eaa0d41cd9cd
 
+#EXTINF:-1 tvg-name="ZDF INFO HD [SAT] [] .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=2733347254.png",ZDF INFO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2733347254d27b1fb1a206
+
 #EXTINF:-1 tvg-name="ZDF NEO .b" group-title="Germany",ZDF NEO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1860571224f867b6cef5ca
@@ -5642,31 +5478,7 @@ https://vavoo.to/vavoo-iptv/play/14579195794c6d94de16d8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/335451081987d8b7abafb2
 
-#EXTINF:-1 tvg-name="[KINDER] DER KLEINE PRINZ .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=1825493845.png",[KINDER]R KLEINE PRINZ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/18254938455ea9d58931e4
-
-#EXTINF:-1 tvg-name="[KINDER] DRAGON BALL 7/24 .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=701382547.png",[KINDER] DRAGON BALL 7/24
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/701382547a9649a3c2758
-
-#EXTINF:-1 tvg-name="[KINDER] HT SPONGEBOB .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=2869897012.png",[KINDER] HT SPONGEBOB
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2869897012f73109b45c42
-
-#EXTINF:-1 tvg-name="[KINDER] PJ MASKS 7/24 .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=3977587401.png",[KINDER] PJ MASKS 7/24
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/39775874011c2882519b56
-
 #EXTINF:-1 tvg-name="[KINDER] THE BOSS BABY 7/24 .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=2316231037.png",[KINDER] THE BOSS BABY 7/24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/23162310375786f668543c
-
-#EXTINF:-1 tvg-name="[KINDER] TOM UND JERRY SHOW 7/24 .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=1258356088.png",[KINDER] TOM UND JERRY SHOW 7/24
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/12583560881a8ec18b0c81
-
-#EXTINF:-1 tvg-name="[KINDER] WIR KINDER AUS DEM MÖWENWEG .c" group-title="Germany" tvg-logo="https://logo.huhu.to/logo?c=1353734992.png",[KINDER] WIR KINDER AUSM MÖWENWEG
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1353734992860f3c677fc5
 
