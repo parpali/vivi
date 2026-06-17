@@ -1,14 +1,10 @@
 #EXTM3U
-# Generated: 2026-06-17 11:00:00
+# Generated: 2026-06-17 15:36:23
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
-
-#EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 
 #EXTINF:-1 tvg-name=".SCI‑FI .b" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -74,6 +70,10 @@ https://vavoo.to/vavoo-iptv/play/2022519012522857de3910
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1113667051962e353d6d23
 
+#EXTINF:-1 tvg-name="CGTN‑РУССКИЙ .b" group-title="Russia",CGTN‑РУССКИЙ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/4216517736e60b344c9d6c
+
 #EXTINF:-1 tvg-name="CLASSIC MUSIC HD .b" group-title="Russia",CLASSIC MUSIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1831060051d265bd419f00
@@ -89,6 +89,10 @@ https://vavoo.to/vavoo-iptv/play/280163182457e4fea83235
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD .b" group-title="Russia",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/428467108827359d72f1c9
+
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE .b" group-title="Russia",DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/665322372175c57c978d
 
 #EXTINF:-1 tvg-name="DORAMA .b" group-title="Russia",DORAMA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -290,10 +294,6 @@ https://vavoo.to/vavoo-iptv/play/2574900283a9feac2d9758
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2500910818e469ce3e2826
 
-#EXTINF:-1 tvg-name="TIJI .b" group-title="Russia",TIJI
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/30473084f881b946c63c
-
 #EXTINF:-1 tvg-name="TLC HD .b" group-title="Russia",TLC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1982303099720c4b6fe15a
@@ -445,6 +445,10 @@ https://vavoo.to/vavoo-iptv/play/5618881442c4d44d7ab28
 #EXTINF:-1 tvg-name="КАНАЛ DISNEY .b" group-title="Russia",КАНАЛ DISNEY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2809722704d7a90bf2acaf
+
+#EXTINF:-1 tvg-name="КВН ТВ .b" group-title="Russia",КВН ТВ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/646612816bb1a90c91b0f
 
 #EXTINF:-1 tvg-name="КИНО ТВ .b" group-title="Russia",КИНО ТВ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -729,10 +733,6 @@ https://vavoo.to/vavoo-iptv/play/2820519021aaac5c496919
 #EXTINF:-1 tvg-name="РОССИЯ 1 +6 .b" group-title="Russia",РОССИЯ 1 6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/35377579659b5d3d399e8d
-
-#EXTINF:-1 tvg-name="РОССИЯ 1 +8 .b" group-title="Russia",РОССИЯ 1 8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1844271468581e6d621a30
 
 #EXTINF:-1 tvg-name="РОССИЯ 1 HD .b" group-title="Russia",РОССИЯ 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
