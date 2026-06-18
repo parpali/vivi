@@ -1,6 +1,10 @@
 #EXTM3U
-# Generated: 2026-06-18 04:10:19
+# Generated: 2026-06-18 10:26:13
 # Source: raw vavoo.to catalog URLs
+
+#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
 
 #EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -294,6 +298,10 @@ https://vavoo.to/vavoo-iptv/play/2574900283a9feac2d9758
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2500910818e469ce3e2826
 
+#EXTINF:-1 tvg-name="TIJI .b" group-title="Russia",TIJI
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/30473084f881b946c63c
+
 #EXTINF:-1 tvg-name="TLC HD .b" group-title="Russia",TLC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1982303099720c4b6fe15a
@@ -365,10 +373,6 @@ https://vavoo.to/vavoo-iptv/play/3481694962a6ade1b7c3a8
 #EXTINF:-1 tvg-name="БЕЛАРУСЬ 24 .b" group-title="Russia",БЕЛАРУСЬ 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1750473072580811c0e977
-
-#EXTINF:-1 tvg-name="БЕЛРОС .b" group-title="Russia",БЕЛРОС
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/808389630b0bf0bea6e0f
 
 #EXTINF:-1 tvg-name="БОКС ТВ .b" group-title="Russia",БОКС ТВ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6

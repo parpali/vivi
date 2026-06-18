@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-06-18 04:10:19
+# Generated: 2026-06-18 10:26:13
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="111 TV .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1600139819.png",111 TV
@@ -277,6 +277,10 @@ https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1955739367.png",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
+
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL .s" group-title="Italy",DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 
 #EXTINF:-1 tvg-name="DISCOVERY FOCUS .s" group-title="Italy",DISCOVERY FOCUS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -978,6 +982,10 @@ https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
 
+#EXTINF:-1 tvg-name="RSI LA 2 .c" group-title="Italy",RSI LA 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
+
 #EXTINF:-1 tvg-name="RSI LA 2 .s" group-title="Italy",RSI LA 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
@@ -1038,9 +1046,17 @@ https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
 
+#EXTINF:-1 tvg-name="SKY CINEMA ACTION (BACKUP) .s" group-title="Italy",SKY CINEMA ACTION
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
+
 #EXTINF:-1 tvg-name="SKY CINEMA ACTION .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3812796171.png",SKY CINEMA ACTION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/381279617198e7a1b969ee
+
+#EXTINF:-1 tvg-name="SKY CINEMA ACTION .s" group-title="Italy",SKY CINEMA ACTION
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62
 
 #EXTINF:-1 tvg-name="SKY CINEMA COLLECTION .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1759653413.png",SKY CINEMA COLLECTION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1250,6 +1266,10 @@ https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
 
+#EXTINF:-1 tvg-name="SKY SPORT ARENA .s" group-title="Italy",SKY SPORT ARENA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
+
 #EXTINF:-1 tvg-name="SKY SPORT CALCIO .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1665920101.png",SKY SPORT CALCIO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
@@ -1333,10 +1353,6 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 #EXTINF:-1 tvg-name="SKYSHOWTIME 1 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2873793231.png",SKYSHOWTIME 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/287379323134c651595371
-
-#EXTINF:-1 tvg-name="SPORT ITALIA .s" group-title="Italy",SPORT ITALIA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
 
 #EXTINF:-1 tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] .s" group-title="Italy",SPORT ITALIA SOLO CALCIO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1641,10 +1657,6 @@ https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f
 #EXTINF:-1 tvg-name="VIDEOSTAR TV .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2499488584.png",VIDEOSTAR TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86
-
-#EXTINF:-1 tvg-name="VIDEOTOLENTINO .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2015312510.png",VIDEOTOLENTINO
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
 
 #EXTINF:-1 tvg-name="YU-GI-OH! ITALY .c" group-title="Italy",YU-GI-OH! ITALY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
