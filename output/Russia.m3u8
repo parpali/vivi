@@ -1,6 +1,10 @@
 #EXTM3U
-# Generated: 2026-06-21 14:14:57
+# Generated: 2026-06-21 19:44:40
 # Source: raw vavoo.to catalog URLs
+
+#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
 
 #EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -374,10 +378,6 @@ https://vavoo.to/vavoo-iptv/play/1750473072580811c0e977
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/808389630b0bf0bea6e0f
 
-#EXTINF:-1 tvg-name="БОКС ТВ .b" group-title="Russia",БОКС ТВ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/37401324358863d1a363de
-
 #EXTINF:-1 tvg-name="В ГОСТЯХ У СКАЗКИ .b" group-title="Russia",В ГОСТЯХ У СКАЗКИ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/17080132946bd8a5aa59e5
@@ -737,6 +737,10 @@ https://vavoo.to/vavoo-iptv/play/2820519021aaac5c496919
 #EXTINF:-1 tvg-name="РОССИЯ 1 +6 .b" group-title="Russia",РОССИЯ 1 6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/35377579659b5d3d399e8d
+
+#EXTINF:-1 tvg-name="РОССИЯ 1 +8 .b" group-title="Russia",РОССИЯ 1 8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1844271468581e6d621a30
 
 #EXTINF:-1 tvg-name="РОССИЯ 1 HD .b" group-title="Russia",РОССИЯ 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
