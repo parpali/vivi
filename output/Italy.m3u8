@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-06-23 09:42:52
+# Generated: 2026-06-23 14:52:48
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="111 TV .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1600139819.png",111 TV
@@ -626,6 +626,10 @@ https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 
+#EXTINF:-1 tvg-name="NAT GEO .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1735702308.png",NAT GEO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
+
 #EXTINF:-1 tvg-name="NAT GEO .s" group-title="Italy",NAT GEO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
@@ -1022,6 +1026,14 @@ https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 
+#EXTINF:-1 tvg-name="SKY ATLANTIC .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1421393119.png",SKYLANTIC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918
+
+#EXTINF:-1 tvg-name="SKY ATLANTIC .s" group-title="Italy",SKYLANTIC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
+
 #EXTINF:-1 tvg-name="SKY CINEMA ACTION (BACKUP) .s" group-title="Italy",SKY CINEMA ACTION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
@@ -1321,10 +1333,6 @@ https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
 #EXTINF:-1 tvg-name="SKY TG 24 .s" group-title="Italy",SKY TG 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
-
-#EXTINF:-1 tvg-name="SKY UNO .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2130523218.png",SKY UNO
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
 
 #EXTINF:-1 tvg-name="SKY UNO .s" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=322024849.png",SKY UNO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
