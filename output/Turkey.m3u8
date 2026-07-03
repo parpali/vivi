@@ -1,10 +1,14 @@
 #EXTM3U
-# Generated: 2026-07-02 19:26:31
+# Generated: 2026-07-03 03:26:20
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="24 HABER HD+ SD .b" group-title="Turkey",24 HABER
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3828793616b62b9cc5834c
+
+#EXTINF:-1 tvg-name="24 KITCHEN HD .b" group-title="Turkey",24 KITCHEN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/42853502477bb17264f322
 
 #EXTINF:-1 tvg-name="24 RAW .b" group-title="Turkey",24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -98,21 +102,17 @@ https://vavoo.to/vavoo-iptv/play/1709129189f694bdd416ac
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2706210049a80b69a6323c
 
-#EXTINF:-1 tvg-name="4K TR: ENGLISH CLUB TV .b" group-title="Turkey",4K TR: ENGLISH CLUB TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/925055356337611dcda8b
-
 #EXTINF:-1 tvg-name="4K TR: EPIC DRAMA .b" group-title="Turkey",4K TR: EPIC DRAMA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/6782616930c5115ad7507
 
+#EXTINF:-1 tvg-name="4K TR: EUROSPORT 1 HD .b" group-title="Turkey",4K TR: EUROSPORT 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/207886293750ec015d3e85
+
 #EXTINF:-1 tvg-name="4K TR: EUROSPORT 2 HD .b" group-title="Turkey",4K TR: EUROSPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/41172279629184f8c9c408
-
-#EXTINF:-1 tvg-name="4K TR: EXXEN TV .b" group-title="Turkey",4K TR: EXXEN TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1944695268eb5e2a66f22
 
 #EXTINF:-1 tvg-name="4K TR: FB TV .b" group-title="Turkey",4K TR: FB TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -206,53 +206,21 @@ https://vavoo.to/vavoo-iptv/play/40428875846b4e812374d1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/152660259946902d02c5c6
 
-#EXTINF:-1 tvg-name="4K TR: POWER TURK HD .b" group-title="Turkey",4K TR: POWER TURK
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/42444473843632d84d102d
-
-#EXTINF:-1 tvg-name="4K TR: POWER TV HD .b" group-title="Turkey",4K TR: POWER TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/130796566204d6973e458e
-
 #EXTINF:-1 tvg-name="4K TR: S NEMA 1002 HD .b" group-title="Turkey",4K TR: S NEMA 1002
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1076643856c5c88735393f
 
-#EXTINF:-1 tvg-name="4K TR: S NEMA A LE 2 HD .b" group-title="Turkey",4K TR: S NEMA A LE 2
+#EXTINF:-1 tvg-name="4K TR: S NEMA AKS YON 2 HD .b" group-title="Turkey",4K TR: S NEMA AKS YON 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/30005947634e6b4664fb0b
-
-#EXTINF:-1 tvg-name="4K TR: S NEMA A LE HD .b" group-title="Turkey",4K TR: S NEMA A LE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/698495811d90e484ca252
-
-#EXTINF:-1 tvg-name="4K TR: S NEMA KOMED HD .b" group-title="Turkey",4K TR: S NEMA KOMED
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4407749499b6c2037cd18
-
-#EXTINF:-1 tvg-name="4K TR: S NEMA TV 1001 HD .b" group-title="Turkey",4K TR: S NEMA TV 1001
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/27613851667b0cf470c1d7
+https://vavoo.to/vavoo-iptv/play/344071158009740df4a222
 
 #EXTINF:-1 tvg-name="4K TR: S NEMA TV 2 HD .b" group-title="Turkey",4K TR: S NEMA TV 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/295060524599a0e2494fd
 
-#EXTINF:-1 tvg-name="4K TR: S NEMA TV AKS YON HD .b" group-title="Turkey",4K TR: S NEMA TV AKS YON
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2246993811df5da1c0152b
-
-#EXTINF:-1 tvg-name="4K TR: S NEMA TV HD .b" group-title="Turkey",4K TR: S NEMA TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2780830033f62b9d4a4669
-
 #EXTINF:-1 tvg-name="4K TR: S NEMA YERL 2 HD .b" group-title="Turkey",4K TR: S NEMA YERL 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/397160342723f52ab76e2e
-
-#EXTINF:-1 tvg-name="4K TR: S NEMA YERL HD .b" group-title="Turkey",4K TR: S NEMA YERL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/18971594736fd7a4c68deb
 
 #EXTINF:-1 tvg-name="4K TR: S SPORT .b" group-title="Turkey",4K TR: S SPORT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -273,10 +241,6 @@ https://vavoo.to/vavoo-iptv/play/960578312ee36cc17c5d2
 #EXTINF:-1 tvg-name="4K TR: SPOR SMART .b" group-title="Turkey",4K TR: SPOR SMART
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3159604752e1cba547bb
-
-#EXTINF:-1 tvg-name="4K TR: SPORTS TV HD .b" group-title="Turkey",4K TR: SPORTS TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2429298798dcd505d1ab4b
 
 #EXTINF:-1 tvg-name="4K TR: STAR TV HD .b" group-title="Turkey",4K TR: STAR TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -314,9 +278,21 @@ https://vavoo.to/vavoo-iptv/play/418740351278f04c94b243
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2990410352438976430a38
 
+#EXTINF:-1 tvg-name="4K TR: TRT BELGESEL HD .b" group-title="Turkey",4K TR: TRT BELGESEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/786973656b665fa8beb18
+
+#EXTINF:-1 tvg-name="4K TR: TRT KURD .b" group-title="Turkey",4K TR: TRT KURD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1216632307df2afc1919fa
+
 #EXTINF:-1 tvg-name="4K TR: TRT M Z K .b" group-title="Turkey",4K TR: TRT M Z K
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/970382162286220f5fa39
+
+#EXTINF:-1 tvg-name="4K TR: TRT OCUK HD .b" group-title="Turkey",4K TR: TRT OCUK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/30291805064bacb8a4036d
 
 #EXTINF:-1 tvg-name="4K TR: TRT SPOR HD .b" group-title="Turkey",4K TR: TRT SPOR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -325,6 +301,10 @@ https://vavoo.to/vavoo-iptv/play/22629699381f94fcd9dbe6
 #EXTINF:-1 tvg-name="4K TR: TRT SPOR YILDIZ .b" group-title="Turkey",4K TR: TRT SPOR YILDIZ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2750507083b8337c6b6616
+
+#EXTINF:-1 tvg-name="4K TR: TRT T RK .b" group-title="Turkey",4K TR: TRT T RK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/35084774810a78b091aa35
 
 #EXTINF:-1 tvg-name="4K TR: TV 4 .b" group-title="Turkey",4K TR: TV 4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -530,10 +510,6 @@ https://vavoo.to/vavoo-iptv/play/4250561695aeafaa1af43b
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/40635964179eb6e60f85f9
 
-#EXTINF:-1 tvg-name="ANIMAL PLANET HD .b" group-title="Turkey",ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3913298991ebe0634b3649
-
 #EXTINF:-1 tvg-name="ANIMATION 1 HD .b" group-title="Turkey",ANIMATION 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/7274274379cbbe0c37b06
@@ -617,6 +593,10 @@ https://vavoo.to/vavoo-iptv/play/962169494c61eb5a2ee2f
 #EXTINF:-1 tvg-name="ATV SD .b" group-title="Turkey",ATV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/64543153093b2057929eb
+
+#EXTINF:-1 tvg-name="AV TV .b" group-title="Turkey",AV TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/154080342742a01f2d589
 
 #EXTINF:-1 tvg-name="BABA RADYO ARABESK .b" group-title="Turkey",BABA RADYO ARABESK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -866,10 +846,6 @@ https://vavoo.to/vavoo-iptv/play/164663282518e6179f90af
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1221587067c43d5b265b10
 
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1 FHD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=4071474743.png",BEIN SPORTS MAX 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4071474743dbe8a60b9395
-
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 1 HD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=225281423.png",BEIN SPORTS MAX 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22528142332d275721233
@@ -990,6 +966,10 @@ https://vavoo.to/vavoo-iptv/play/34182375310e960a426e1c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/16003488113ad5cdfa73f1
 
+#EXTINF:-1 tvg-name="BEYAZ TV HD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2755756005.png",BEYAZ TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2755756005a4ea6e7589ca
+
 #EXTINF:-1 tvg-name="BEYAZ TV HEVC .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=1510783901.png",BEYAZ TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/15107839012fa9f66fac00
@@ -1006,21 +986,9 @@ https://vavoo.to/vavoo-iptv/play/2224047651b7df1fd1adc5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/25407700892aa536e1a9ff
 
-#EXTINF:-1 tvg-name="BLOOMBERG HT .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=223866535.png",BLOOMBERG HT
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2238665354014ee25dcf7
-
 #EXTINF:-1 tvg-name="BLOOMBERG HT HD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=236989031.png",BLOOMBERG HT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/236989031b5bce3e87ca9
-
-#EXTINF:-1 tvg-name="BLOOMBERG HT HD+ SD .b" group-title="Turkey",BLOOMBERG HT
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2563486225460803675883
-
-#EXTINF:-1 tvg-name="BLOOMBERGHT HD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=858568307.png",BLOOMBERGHT
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/8585683074b88a84fea71
 
 #EXTINF:-1 tvg-name="BOOBA TV .b" group-title="Turkey",BOOBA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1198,6 +1166,18 @@ https://vavoo.to/vavoo-iptv/play/306993094f3cd5715860a
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3331045719b0c99b128adf
 
+#EXTINF:-1 tvg-name="DINAMIK WESTERN .b" group-title="Turkey",DINAMIK WESTERN
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/7269150727f343c6d0f13
+
+#EXTINF:-1 tvg-name="DINAMIK YESILCAM .b" group-title="Turkey",DINAMIK YESILCAM
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/10475251689d5a1f09d886
+
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD+ .b" group-title="Turkey",DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/6957057788f10364acdac
+
 #EXTINF:-1 tvg-name="DISCOVERY ID .b" group-title="Turkey",DISCOVERY ID
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/20954040600611bde9e160
@@ -1210,10 +1190,6 @@ https://vavoo.to/vavoo-iptv/play/9700986623c97a7651f69
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/10132204470a3c3b52576d
 
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD+ .b" group-title="Turkey",DISCOVERY SCIENCE
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2818684271ea7ddc0e09ff
-
 #EXTINF:-1 tvg-name="DISCOVERY WORLD .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=3624002307.png",DISCOVERY WORLD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3624002307d3a1f474d7ce
@@ -1221,14 +1197,6 @@ https://vavoo.to/vavoo-iptv/play/3624002307d3a1f474d7ce
 #EXTINF:-1 tvg-name="DISNEY CHANNEL HD .b" group-title="Turkey",DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3578544716a4cc42d03dcd
-
-#EXTINF:-1 tvg-name="DISNEY JR HD .b" group-title="Turkey",DISNEY JR
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4108765291d43a8a0a8088
-
-#EXTINF:-1 tvg-name="DISNEY JR HD+ .b" group-title="Turkey",DISNEY JR
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1772892321058f7001d327
 
 #EXTINF:-1 tvg-name="DISNEY XD HD .b" group-title="Turkey",DISNEY XD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1241,6 +1209,10 @@ https://vavoo.to/vavoo-iptv/play/939027674e949a778ccc0
 #EXTINF:-1 tvg-name="DIYANET TV .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2131958841.png",DIYANET TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2131958841c54888546e7f
+
+#EXTINF:-1 tvg-name="DIYAR TV .c" group-title="Turkey",DIYAR TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/4252763849da396737d0fb
 
 #EXTINF:-1 tvg-name="DIZISMART MAX .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=1165201807.png",DIZISMART MAX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1570,6 +1542,10 @@ https://vavoo.to/vavoo-iptv/play/3814925371b27457afc78f
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3377046146a9c27858fc04
 
+#EXTINF:-1 tvg-name="EXXEN TV SPOR 2 UHD .b" group-title="Turkey",EXXEN TV SPOR 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3673037054bbf23da360dd
+
 #EXTINF:-1 tvg-name="EXXEN TV SPOR 3 .b" group-title="Turkey",EXXEN TV SPOR 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/851841067026eb6346001
@@ -1842,10 +1818,6 @@ https://vavoo.to/vavoo-iptv/play/139252951413a076a7b3ed
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2826493312357d40edbc08
 
-#EXTINF:-1 tvg-name="HRT AKDENIZ TV .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=4223430509.png",HRT AKDENIZ TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4223430509a4cfa811948c
-
 #EXTINF:-1 tvg-name="HT SPOR HD .b" group-title="Turkey",HT SPOR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2773338492aa94862b5b31
@@ -1989,10 +1961,6 @@ https://vavoo.to/vavoo-iptv/play/326498336471980dd56f67
 #EXTINF:-1 tvg-name="KANAL 7 FHD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2736723250.png",KANAL 7
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2736723250cbdbc6581c7c
-
-#EXTINF:-1 tvg-name="KANAL 7 HD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=1639889598.png",KANAL 7
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/16398895980886efa9037e
 
 #EXTINF:-1 tvg-name="KANAL 7 HEVC .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=3897412802.png",KANAL 7
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2394,10 +2362,6 @@ https://vavoo.to/vavoo-iptv/play/2140655971f1ad35201549
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1953745495384d5f996a8
 
-#EXTINF:-1 tvg-name="MUSLUM GURSES .c" group-title="Turkey",MUSLUM GURSES
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/116649464548e13965dce6
-
 #EXTINF:-1 tvg-name="NASREDDIN HOCA .b" group-title="Turkey",NASREDDIN HOCA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2930757080c4b0b0917745
@@ -2710,14 +2674,6 @@ https://vavoo.to/vavoo-iptv/play/33465497225b9857743b71
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1313768516926dc999c43b
 
-#EXTINF:-1 tvg-name="S SPORT+3 MAC SAATI .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=3269372326.png",S SPORT3 MAC SAATI
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3269372326de5ff1a4d9d7
-
-#EXTINF:-1 tvg-name="S SPORT+4 MAC SAATI .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=1507829436.png",S SPORT4 MAC SAATI
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1507829436cb5aa4fb5b34
-
 #EXTINF:-1 tvg-name="S ZC SZC TV .b" group-title="Turkey",S ZC SZC TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/24669057008c1d07812ce0
@@ -2753,10 +2709,6 @@ https://vavoo.to/vavoo-iptv/play/20587004472af839207827
 #EXTINF:-1 tvg-name="S-SPORT PLUS FHD .b" group-title="Turkey",S-SPORT PLUS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/403604621968c940720735
-
-#EXTINF:-1 tvg-name="S-SPORT+1 MAC SAATI .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2559756791.png",S-SPORT1 MAC SAATI
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2559756791dcf166140367
 
 #EXTINF:-1 tvg-name="S-SPORT+2 MAC SAATI .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2314183566.png",S-SPORT2 MAC SAATI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2990,10 +2942,6 @@ https://vavoo.to/vavoo-iptv/play/6664660641f7f8de14ebd
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/625665056a20f68791854
 
-#EXTINF:-1 tvg-name="SOZCU SZC TV SD .b" group-title="Turkey",SOZCU SZC TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1098172953a40c7864dfeb
-
 #EXTINF:-1 tvg-name="SPIDERMAN TV .b" group-title="Turkey",SPIDERMAN TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2478813774db6f05549bf2
@@ -3005,10 +2953,6 @@ https://vavoo.to/vavoo-iptv/play/1771511397d05184d3e443
 #EXTINF:-1 tvg-name="SPOR SMART 2 .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=907165095.png",SPOR SMART 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/90716509593fd6426951b
-
-#EXTINF:-1 tvg-name="SPOR SMART 2 HD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2726496671.png",SPOR SMART 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2726496671ea6fd3c6dc54
 
 #EXTINF:-1 tvg-name="SPOR SMART FHD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=3763931520.png",SPOR SMART
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3094,41 +3038,33 @@ https://vavoo.to/vavoo-iptv/play/310770852202539a162e99
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11426114102c71664711c
 
-#EXTINF:-1 tvg-name="TABII SPOR 2 HD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2490165372.png",TABII SPOR 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/24901653728e4a187da4c4
-
-#EXTINF:-1 tvg-name="TABII SPOR 2 UHD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2159469231.png",TABII SPOR 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/21594692318c346548c2be
-
 #EXTINF:-1 tvg-name="TABII SPOR 4 .c" group-title="Turkey",TABII SPOR 4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2307885365b7f1828e97ba
+
+#EXTINF:-1 tvg-name="TABII SPOR 4 UHD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=4088175397.png",TABII SPOR 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/408817539739fafefc9d3b
 
 #EXTINF:-1 tvg-name="TABII SPOR 5 .c" group-title="Turkey",TABII SPOR 5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3035603077ef0df0e5da67
 
-#EXTINF:-1 tvg-name="TABII SPOR 5 HD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2661933413.png",TABII SPOR 5
+#EXTINF:-1 tvg-name="TABII SPOR 5 UHD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=3839332198.png",TABII SPOR 5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/26619334135baa08b0bc1a
+https://vavoo.to/vavoo-iptv/play/383933219867eefb660622
 
 #EXTINF:-1 tvg-name="TABII SPOR 6 .c" group-title="Turkey",TABII SPOR 6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/40820967253b1d74e19a7f
 
-#EXTINF:-1 tvg-name="TABII SPOR HD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2259480087.png",TABII SPOR
+#EXTINF:-1 tvg-name="TABII SPOR 6 UHD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=3713708963.png",TABII SPOR 6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/225948008747f499d08214
+https://vavoo.to/vavoo-iptv/play/37137089631c97c5b7ef8f
 
 #EXTINF:-1 tvg-name="TABII SPOR SD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=4022148175.png",TABII SPOR
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/40221481750ee503c548f9
-
-#EXTINF:-1 tvg-name="TARIH TV .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=3856957052.png",TARIH TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3856957052050da882aa10
 
 #EXTINF:-1 tvg-name="TARKAN .b" group-title="Turkey",TARKAN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3202,6 +3138,10 @@ https://vavoo.to/vavoo-iptv/play/2773252030692bf456c601
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3925938631130980bfec69
 
+#EXTINF:-1 tvg-name="TGRT BELGESEL .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2753787815.png",TGRT BELGESEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2753787815ca92c106e311
+
 #EXTINF:-1 tvg-name="TGRT HABER .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=1718429323.png",TGRT HABER
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/171842932374df57124fd0
@@ -3250,6 +3190,10 @@ https://vavoo.to/vavoo-iptv/play/3307062704472686916fe7
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/163038510f87c95f99d11
 
+#EXTINF:-1 tvg-name="TIVIBU SPOR RAW .b" group-title="Turkey",TIVIBU SPOR
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1406262118fb4f653061f6
+
 #EXTINF:-1 tvg-name="TIVIBUSPOR 1 FHD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2896658744.png",TIVIBUSPOR 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/289665874444b8f4f2d451
@@ -3290,6 +3234,10 @@ https://vavoo.to/vavoo-iptv/play/314642933454afb0ab4f31
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/17668406603d2e9e4942ac
 
+#EXTINF:-1 tvg-name="TMB .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2675123009.png",TMB
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2675123009e882be009e84
+
 #EXTINF:-1 tvg-name="TOM & JERRY .b" group-title="Turkey",TOM & JERRY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/410018565922373c7100a2
@@ -3297,10 +3245,6 @@ https://vavoo.to/vavoo-iptv/play/410018565922373c7100a2
 #EXTINF:-1 tvg-name="TON TV .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=3855597416.png",TON TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/385559741691e8e41971e8
-
-#EXTINF:-1 tvg-name="TRABZON HABER 61 TV HD .b" group-title="Turkey",TRABZON HABER 61 TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1840643644b180a4d619d6
 
 #EXTINF:-1 tvg-name="TRANSFORMERS .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=3939293866.png",TRANSFORMERS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3446,6 +3390,10 @@ https://vavoo.to/vavoo-iptv/play/930542029ffe0c297ec0
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/14238458092c57f9e072fb
 
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ HEVC .b" group-title="Turkey",TRT SPOR YILDIZ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/114501523d11f5030113f
+
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ RAW .b" group-title="Turkey",TRT SPOR YILDIZ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/268929752745bb1e55d52a
@@ -3485,6 +3433,10 @@ https://vavoo.to/vavoo-iptv/play/4073129368ac841af4a4cd
 #EXTINF:-1 tvg-name="TV 100 .b" group-title="Turkey",TV 100
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/37694889827bcff8d6501a
+
+#EXTINF:-1 tvg-name="TV 100 .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=1685299472.png",TV 100
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/16852994727259ba10c029
 
 #EXTINF:-1 tvg-name="TV 100 HEVC .b" group-title="Turkey",TV 100
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3549,10 +3501,6 @@ https://vavoo.to/vavoo-iptv/play/19082658164debc10cdc44
 #EXTINF:-1 tvg-name="TV 8.5 HD .b" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=3472698776.png",TV 8.5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3472698776e30314a5e33a
-
-#EXTINF:-1 tvg-name="TV DEN .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=3341720640.png",TVN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/33417206402eccd63d5a50
 
 #EXTINF:-1 tvg-name="TV KAYSERI .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2378683302.png",TV KAYSERI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3641,10 +3589,6 @@ https://vavoo.to/vavoo-iptv/play/1868001587a3901abe7695
 #EXTINF:-1 tvg-name="ULUSAL KANAL .b" group-title="Turkey",ULUSAL KANAL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1910048817671d14cfb4cd
-
-#EXTINF:-1 tvg-name="ULUSAL KANAL .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=2249801655.png",ULUSAL KANAL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/22498016558c1c9b866616
 
 #EXTINF:-1 tvg-name="ULUSAL KANAL SD .b" group-title="Turkey",ULUSAL KANAL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -3753,6 +3697,10 @@ https://vavoo.to/vavoo-iptv/play/86164523287041869577b
 #EXTINF:-1 tvg-name="ZERRIN OZER .b" group-title="Turkey",ZERRIN OZER
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2655157451b1786586fd0c
+
+#EXTINF:-1 tvg-name="ZONGULDAK KANAL Z .b" group-title="Turkey",ZONGULDAK KANAL Z
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1467834090ec77c1def93a
 
 #EXTINF:-1 tvg-name="ÇOCUK SMART .c" group-title="Turkey" tvg-logo="https://logo.huhu.to/logo?c=1884291733.png",ÇOCUK SMART
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
