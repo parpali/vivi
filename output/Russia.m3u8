@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-07-03 14:09:24
+# Generated: 2026-07-03 19:25:16
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
@@ -13,6 +13,10 @@ https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 #EXTINF:-1 tvg-name=".SCI‑FI .b" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/8858445202e2ac20b5656
+
+#EXTINF:-1 tvg-name="360 НОВОСТИ .b" group-title="Russia",360 НОВОСТИ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1091733503a136df29c545
 
 #EXTINF:-1 tvg-name="365 ДНЕЙ ТВ .b" group-title="Russia",365 ДНЕЙ ТВ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -250,10 +254,6 @@ https://vavoo.to/vavoo-iptv/play/25783989e9f0fc86d265
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/12271914897157c6e6d141
 
-#EXTINF:-1 tvg-name="NICKELODEON HD .b" group-title="Russia",NICKELODEON
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/302064724750065d097261
-
 #EXTINF:-1 tvg-name="NICKTOONS .b" group-title="Russia",NICKTOONS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2111994892eff89d08a583
@@ -297,10 +297,6 @@ https://vavoo.to/vavoo-iptv/play/2574900283a9feac2d9758
 #EXTINF:-1 tvg-name="SHOT TV HD .b" group-title="Russia",SHOT TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2500910818e469ce3e2826
-
-#EXTINF:-1 tvg-name="TIJI .b" group-title="Russia",TIJI
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/30473084f881b946c63c
 
 #EXTINF:-1 tvg-name="TLC HD .b" group-title="Russia",TLC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -581,6 +577,14 @@ https://vavoo.to/vavoo-iptv/play/3609686576f7ae6748d659
 #EXTINF:-1 tvg-name="МИР СЕРИАЛА .b" group-title="Russia",МИР СЕРИАЛА
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3830432754f8c2475936f1
+
+#EXTINF:-1 tvg-name="МОСКВА 24 .b" group-title="Russia",МОСКВА 24
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/350631465047642359eb0b
+
+#EXTINF:-1 tvg-name="МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ .b" group-title="Russia",МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/2154783433e8d10040fa32
 
 #EXTINF:-1 tvg-name="МОТОРСПОРТ ТВ .b" group-title="Russia",МОТОРСПОРТ ТВ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
