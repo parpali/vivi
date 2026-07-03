@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-07-03 03:26:20
+# Generated: 2026-07-03 09:20:30
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="101 TV .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=3042734297.png",101 TV
@@ -42,6 +42,10 @@ https://vavoo.to/vavoo-iptv/play/25046287401fbfb1a839ef
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3126618519f102cab27f99
 
+#EXTINF:-1 tvg-name="A3 SERIES HD .b" group-title="Spain",A3 SERIES
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/33408929373ca1e3011ab7
+
 #EXTINF:-1 tvg-name="ACTIVA TV .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=3892867833.png",ACTIVA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/38928678336f1f46aad32e
@@ -49,14 +53,6 @@ https://vavoo.to/vavoo-iptv/play/38928678336f1f46aad32e
 #EXTINF:-1 tvg-name="ADORAM TV .c" group-title="Spain",ADORAM TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/13594521772e2852eacc8d
-
-#EXTINF:-1 tvg-name="AGUACATE TV .c" group-title="Spain",AGUACATE TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/37006060996c7dc4f1d661
-
-#EXTINF:-1 tvg-name="AHORA TV .c" group-title="Spain",AHORA TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3321128121aaef3cf39ad1
 
 #EXTINF:-1 tvg-name="ALACANTI TV .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=4125579950.png",ALACANTI TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -113,6 +109,10 @@ https://vavoo.to/vavoo-iptv/play/251250868707e65580891
 #EXTINF:-1 tvg-name="AXN MOVIES .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=2493319111.png",AXN MOVIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2493319111ca06f6af6644
+
+#EXTINF:-1 tvg-name="AXN WHITE .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=3312673778.png",AXN WHITE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/33126737788738bced58b8
 
 #EXTINF:-1 tvg-name="AXN WHITE HD .b" group-title="Spain",AXN WHITE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -362,10 +362,6 @@ https://vavoo.to/vavoo-iptv/play/4289152978d5a171a3fd46
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/38532226005b67baa164c
 
-#EXTINF:-1 tvg-name="DAZN 1 .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=2941093452.png",DAZN 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/294109345260e52343e322
-
 #EXTINF:-1 tvg-name="DAZN 2 .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=3907910812.png",DAZN 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3907910812527bd3e7d3e0
@@ -413,6 +409,10 @@ https://vavoo.to/vavoo-iptv/play/35473987865b3a2bf0e587
 #EXTINF:-1 tvg-name="DISNEY CHANNEL HD .b" group-title="Spain",DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11131967587bc888e78aae
+
+#EXTINF:-1 tvg-name="DISNEY JUNIOR .b" group-title="Spain",DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/4130868041911ac9fcd305
 
 #EXTINF:-1 tvg-name="DISTRITO TV .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=4257164702.png",DISTRITO TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -557,10 +557,6 @@ https://vavoo.to/vavoo-iptv/play/16269576763ea1d159d207
 #EXTINF:-1 tvg-name="GALICIA TV .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=2642866194.png",GALICIA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/26428661941c7a1978342f
-
-#EXTINF:-1 tvg-name="GOIENA EUS .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=2106371951.png",GOIENA EUS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/21063719512b26251f993e
 
 #EXTINF:-1 tvg-name="GOL .b" group-title="Spain",GOL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1005,10 +1001,6 @@ https://vavoo.to/vavoo-iptv/play/2824797327b460326d3ca5
 #EXTINF:-1 tvg-name="RAKUTEN TV THRILLERS SPAIN .c" group-title="Spain",RAKUTEN TV THRILLERS SPAIN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3516889709b8cb6cb539a9
-
-#EXTINF:-1 tvg-name="RAKUTEN TV TOP MOVIES SPAIN .c" group-title="Spain",RAKUTEN TV TOP MOVIES SPAIN
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/241855934383e920da995
 
 #EXTINF:-1 tvg-name="RALLY TV .c" group-title="Spain",RALLY TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
