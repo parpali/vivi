@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-07-21 08:31:20
+# Generated: 2026-07-21 13:53:53
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="101 TV .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=3042734297.png",101 TV
@@ -41,6 +41,10 @@ https://vavoo.to/vavoo-iptv/play/25046287401fbfb1a839ef
 #EXTINF:-1 tvg-name="A&E .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=3126618519.png",A&E
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3126618519f102cab27f99
+
+#EXTINF:-1 tvg-name="A3 SERIES HD .b" group-title="Spain",A3 SERIES
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/33408929373ca1e3011ab7
 
 #EXTINF:-1 tvg-name="ACTIVA TV .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=3892867833.png",ACTIVA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -422,10 +426,6 @@ https://vavoo.to/vavoo-iptv/play/35473987865b3a2bf0e587
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11131967587bc888e78aae
 
-#EXTINF:-1 tvg-name="DISNEY JUNIOR .b" group-title="Spain",DISNEY JUNIOR
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4130868041911ac9fcd305
-
 #EXTINF:-1 tvg-name="DISTRITO TV .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=4257164702.png",DISTRITO TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4257164702a68ba0f258f7
@@ -722,9 +722,17 @@ https://vavoo.to/vavoo-iptv/play/3518404885f1e2de46ce35
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/399652946528748febdb3c
 
+#EXTINF:-1 tvg-name="M.ACCION HD .b" group-title="Spain",M.ACCION
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1704900898b7b10daa61fb
+
 #EXTINF:-1 tvg-name="M.DEPORTES HD .b" group-title="Spain",M.DEPORTES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2981915461c801aa5afbb8
+
+#EXTINF:-1 tvg-name="M.ESTRENOS HD .b" group-title="Spain",M.ESTRENOS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/38643985961d782a6ca836
 
 #EXTINF:-1 tvg-name="M.FORMULA 1 HD .b" group-title="Spain",M.FORMULA 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -773,6 +781,10 @@ https://vavoo.to/vavoo-iptv/play/91737588510a3c1c17e0e
 #EXTINF:-1 tvg-name="MOLAHITS TV .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=328081519.png",MOLAHITS TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/328081519f9217971de78
+
+#EXTINF:-1 tvg-name="MOTO ADV .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=1498547821.png",MOTO ADV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1498547821a030b97a17f4
 
 #EXTINF:-1 tvg-name="MOVISTAR ACCI©N HD .b" group-title="Spain",MOVISTAR ACCI©N
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1054,6 +1066,10 @@ https://vavoo.to/vavoo-iptv/play/3665863164e80c0eb44f07
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/117689973822e85dcb4f7e
 
+#EXTINF:-1 tvg-name="SOLIDARIA TV ESPAÑA .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=3973811070.png",SOLIDARIA TV ESPAÑA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3973811070e5652df4f221
+
 #EXTINF:-1 tvg-name="SOMOS .c" group-title="Spain" tvg-logo="https://logo.huhu.to/logo?c=4252300734.png",SOMOS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/42523007348859663c4410
@@ -1177,6 +1193,10 @@ https://vavoo.to/vavoo-iptv/play/46981335898e66a40a61f
 #EXTINF:-1 tvg-name="TOROS TV HD .b" group-title="Spain",TOROS TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1213515147e8f773d35b54
+
+#EXTINF:-1 tvg-name="TRECE TV .c" group-title="Spain",TRECE TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/90214658748d677e663ea
 
 #EXTINF:-1 tvg-name="TV GALICIA .b" group-title="Spain",TV GALICIA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
