@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-07-23 19:20:12
+# Generated: 2026-07-24 02:47:18
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="111 TV .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1600139819.png",111 TV
@@ -1018,6 +1018,10 @@ https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 
+#EXTINF:-1 tvg-name="SKY ARTE .s" group-title="Italy",SKY ARTE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
+
 #EXTINF:-1 tvg-name="SKY ATLANTIC .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1421393119.png",SKYLANTIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918
@@ -1189,10 +1193,6 @@ https://vavoo.to/vavoo-iptv/play/31379908902c3fc54d6e13
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 4 .s" group-title="Italy",SKY PRIMAFILA 4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74
-
-#EXTINF:-1 tvg-name="SKY PRIMAFILA 5 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2255083866.png",SKY PRIMAFILA 5
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2
 
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 5 .s" group-title="Italy",SKY PRIMAFILA 5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1537,10 +1537,6 @@ https://vavoo.to/vavoo-iptv/play/2521763009f0e0ef1051a6
 #EXTINF:-1 tvg-name="TELETUTTO .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3271666551.png",TELETUTTO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3271666551331132c8bfab
-
-#EXTINF:-1 tvg-name="TG COM 24 .s" group-title="Italy",TG COM 24
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 
 #EXTINF:-1 tvg-name="TG NORBA 24 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3379729817.png",TG NORBA 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
