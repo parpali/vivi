@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-07-30 08:28:32
+# Generated: 2026-07-30 14:05:18
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
@@ -930,6 +930,10 @@ https://vavoo.to/vavoo-iptv/play/316704812c1d16f66f94c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2045635278962af29ba91e
 
+#EXTINF:-1 tvg-name="TIJI .b" group-title="Russia",TIJI
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/30473084f881b946c63c
+
 #EXTINF:-1 tvg-name="TIJI TV .s" group-title="Russia",TIJI TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22244712993fb0763b2982
@@ -997,10 +1001,6 @@ https://vavoo.to/vavoo-iptv/play/417197353cbbe73b4e467
 #EXTINF:-1 tvg-name="TV 1000 HD .b" group-title="Russia",TV 1000
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4124897079d71b74873a38
-
-#EXTINF:-1 tvg-name="TV 1000 MEGAHIT .s" group-title="Russia",TV 1000 MEGAHIT
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4595173082d3c5362bae6
 
 #EXTINF:-1 tvg-name="TV 1000 PREMIUM .s" group-title="Russia",TV 1000 PREMIUM
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1526,17 +1526,9 @@ https://vavoo.to/vavoo-iptv/play/42541058089c7709e89871
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/66042311743a68bcaf49d
 
-#EXTINF:-1 tvg-name="РОССИЯ 1 +4 .b" group-title="Russia",РОССИЯ 1 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2820519021aaac5c496919
-
 #EXTINF:-1 tvg-name="РОССИЯ 1 +6 .b" group-title="Russia",РОССИЯ 1 6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/35377579659b5d3d399e8d
-
-#EXTINF:-1 tvg-name="РОССИЯ 1 +8 .b" group-title="Russia",РОССИЯ 1 8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/1844271468581e6d621a30
 
 #EXTINF:-1 tvg-name="РОССИЯ 1 HD .b" group-title="Russia",РОССИЯ 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1601,6 +1593,10 @@ https://vavoo.to/vavoo-iptv/play/93696591387d3ab69b1af
 #EXTINF:-1 tvg-name="ТАЙНЫ ГАЛАКТИКИ .b" group-title="Russia",ТАЙНЫ ГАЛАКТИКИ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1567375257cdc993380d70
+
+#EXTINF:-1 tvg-name="ТАНЦУЙ! HD .b" group-title="Russia",ТАНЦУЙ!
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1225955289f867414f0cf6
 
 #EXTINF:-1 tvg-name="ТВЦ .b" group-title="Russia",ТВЦ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
