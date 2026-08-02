@@ -1,14 +1,10 @@
 #EXTM3U
-# Generated: 2026-08-01 19:09:56
+# Generated: 2026-08-02 02:54:14
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
-
-#EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 
 #EXTINF:-1 tvg-name=".SCI‑FI .b" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -45,6 +41,10 @@ https://vavoo.to/vavoo-iptv/play/15835461165105772d34b7
 #EXTINF:-1 tvg-name="8 КАНАЛ .b" group-title="Russia",8 КАНАЛ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2111492302983ebb46240f
+
+#EXTINF:-1 tvg-name="A 2 .s" group-title="Russia",A 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/34331293557f9252b803d6
 
 #EXTINF:-1 tvg-name="A1 .b" group-title="Russia",A1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -434,10 +434,6 @@ https://vavoo.to/vavoo-iptv/play/20669156379258d0775b49
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2890854598f5b804149c2
 
-#EXTINF:-1 tvg-name="KHL PRIME .b" group-title="Russia",KHL PRIME
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4045527153e90ef006c64a
-
 #EXTINF:-1 tvg-name="KHL TV .s" group-title="Russia",KHL TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/274155986507fa3db19108
@@ -653,6 +649,10 @@ https://vavoo.to/vavoo-iptv/play/961112764e23e5174c389
 #EXTINF:-1 tvg-name="MUSIC BOX RUSSIA HD .b" group-title="Russia",MUSIC BOX RUSSIA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3544884412e324d1673d6c
+
+#EXTINF:-1 tvg-name="MUZ TV .s" group-title="Russia",MUZ TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1227689972bf6b597f652f
 
 #EXTINF:-1 tvg-name="MUZHSKOE KINO .s" group-title="Russia",MUZHSKOE KINO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1037,10 +1037,6 @@ https://vavoo.to/vavoo-iptv/play/2930148024af449e6cb49e
 #EXTINF:-1 tvg-name="V GOSTYAX U SKAZKI .s" group-title="Russia",V GOSTYAX U SKAZKI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/405341536314ab39778bd9
-
-#EXTINF:-1 tvg-name="VIASAT 1000 ACTION .s" group-title="Russia",VIASAT 1000 ACTION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/4053261448a5dd8a8bdde
 
 #EXTINF:-1 tvg-name="VIASAT EXPLORE HD .b" group-title="Russia",VIASAT EXPLORE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
