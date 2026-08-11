@@ -1,6 +1,10 @@
 #EXTM3U
-# Generated: 2026-08-11 13:07:55
+# Generated: 2026-08-11 19:03:07
 # Source: raw vavoo.to catalog URLs
+
+#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
 
 #EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1069,6 +1073,10 @@ https://vavoo.to/vavoo-iptv/play/4032631690a2b2a0ee5147
 #EXTINF:-1 tvg-name="VIASAT HISTORY HD .b" group-title="Russia",VIASAT HISTORY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/31416379579af70c62af86
+
+#EXTINF:-1 tvg-name="VIASAT NATURE .s" group-title="Russia",VIASAT NATURE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/9068388187362d5f129c
 
 #EXTINF:-1 tvg-name="VIASAT NATURE HD .b" group-title="Russia",VIASAT NATURE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
