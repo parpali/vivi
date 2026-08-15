@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-08-14 18:55:33
+# Generated: 2026-08-15 01:18:08
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
@@ -690,6 +690,10 @@ https://vavoo.to/vavoo-iptv/play/2701430610c558f0decb66
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1850303642a21d4deacb73
 
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC .s" group-title="Russia",NATIONAL GEOGRAPHIC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/91886549390a6d3c5c5cf
+
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD .b" group-title="Russia",NATIONAL GEOGRAPHIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/25783989e9f0fc86d265
@@ -721,10 +725,6 @@ https://vavoo.to/vavoo-iptv/play/47885688119605bc9f899
 #EXTINF:-1 tvg-name="PARAMOUNT CHANNEL .b" group-title="Russia",PARAMOUNT CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/37331871626d30d153f066
-
-#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL .s" group-title="Russia",PARAMOUNT CHANNEL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/76242220790757446597a
 
 #EXTINF:-1 tvg-name="PARAMOUNT COMEDY .b" group-title="Russia",PARAMOUNT COMEDY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -842,9 +842,17 @@ https://vavoo.to/vavoo-iptv/play/23374016205e19c3f24c0
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/94017294085b1ba91b5d5
 
+#EXTINF:-1 tvg-name="RUSSIA RTR .s" group-title="Russia",RUSSIA RTR
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/34925266900c7a54b776a3
+
 #EXTINF:-1 tvg-name="RUSSIA TODAY .s" group-title="Russia" tvg-logo="https://logo.huhu.to/logo?c=1925203113.png",RUSSIA TODAY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1925203113bc27aecee239
+
+#EXTINF:-1 tvg-name="RUSSIA XTREAM .s" group-title="Russia",RUSSIA XTREAM
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3444722691e8f954dd009f
 
 #EXTINF:-1 tvg-name="RUSSIA-K .s" group-title="Russia",RUSSIA-K
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -925,10 +933,6 @@ https://vavoo.to/vavoo-iptv/play/316704812c1d16f66f94c
 #EXTINF:-1 tvg-name="THT MUSIC .s" group-title="Russia",THT MUSIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2045635278962af29ba91e
-
-#EXTINF:-1 tvg-name="TIJI .b" group-title="Russia",TIJI
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/30473084f881b946c63c
 
 #EXTINF:-1 tvg-name="TIJI TV .s" group-title="Russia",TIJI TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
