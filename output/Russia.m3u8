@@ -1,6 +1,10 @@
 #EXTM3U
-# Generated: 2026-08-21 18:37:23
+# Generated: 2026-08-22 01:17:32
 # Source: raw vavoo.to catalog URLs
+
+#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
 
 #EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -13,10 +17,6 @@ https://vavoo.to/vavoo-iptv/play/8858445202e2ac20b5656
 #EXTINF:-1 tvg-name="24 TECHNO .s" group-title="Russia",24 TECHNO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4223838354ce43479f5c1c
-
-#EXTINF:-1 tvg-name="2X2 TV .s" group-title="Russia",2X2 TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/315716754464580c53e16a
 
 #EXTINF:-1 tvg-name="360 TUNEBOX .s" group-title="Russia",360 TUNEBOX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -246,10 +246,6 @@ https://vavoo.to/vavoo-iptv/play/36929441861909abd4a0e1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4245290927160d162a6176
 
-#EXTINF:-1 tvg-name="DORAMA .b" group-title="Russia",DORAMA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/184505918564c5f30b9924
-
 #EXTINF:-1 tvg-name="DOZHD TV .s" group-title="Russia",DOZHD TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2887131026a2ae810c9556
@@ -425,10 +421,6 @@ https://vavoo.to/vavoo-iptv/play/3609920790c7b8625d6de
 #EXTINF:-1 tvg-name="KARUSEL TV .s" group-title="Russia" tvg-logo="https://logo.huhu.to/logo?c=2066915637.png",KARUSEL TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/20669156379258d0775b49
-
-#EXTINF:-1 tvg-name="KHL .b" group-title="Russia",KHL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2890854598f5b804149c2
 
 #EXTINF:-1 tvg-name="KHL PRIME .b" group-title="Russia",KHL PRIME
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -717,6 +709,10 @@ https://vavoo.to/vavoo-iptv/play/47885688119605bc9f899
 #EXTINF:-1 tvg-name="PARAMOUNT CHANNEL .b" group-title="Russia",PARAMOUNT CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/37331871626d30d153f066
+
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL .s" group-title="Russia",PARAMOUNT CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/76242220790757446597a
 
 #EXTINF:-1 tvg-name="PARAMOUNT COMEDY .b" group-title="Russia",PARAMOUNT COMEDY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1022,10 +1018,6 @@ https://vavoo.to/vavoo-iptv/play/697082013194d095901e1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/26342537083bed47653573
 
-#EXTINF:-1 tvg-name="TV XXI (TV21) .s" group-title="Russia",TV XXI
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/12157227316d4522215561
-
 #EXTINF:-1 tvg-name="TV XXI .s" group-title="Russia" tvg-logo="https://logo.huhu.to/logo?c=3699264047.png",TV XXI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3699264047cf91ffd5ce9e
@@ -1233,10 +1225,6 @@ https://vavoo.to/vavoo-iptv/play/2809722704d7a90bf2acaf
 #EXTINF:-1 tvg-name="КВН ТВ .b" group-title="Russia",КВН ТВ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/646612816bb1a90c91b0f
-
-#EXTINF:-1 tvg-name="КИНО ТВ .b" group-title="Russia",КИНО ТВ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/2442441826941316753e96
 
 #EXTINF:-1 tvg-name="КИНОКОМЕДИЯ .b" group-title="Russia",КИНОКОМЕДИЯ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
