@@ -1,6 +1,10 @@
 #EXTM3U
-# Generated: 2026-08-23 18:31:01
+# Generated: 2026-08-24 01:21:43
 # Source: raw vavoo.to catalog URLs
+
+#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
 
 #EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -233,6 +237,10 @@ https://vavoo.to/vavoo-iptv/play/665322372175c57c978d
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE .s" group-title="Russia",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/4026890856b88bdc10e22c
+
+#EXTINF:-1 tvg-name="DISNEY CHANNEL .s" group-title="Russia",DISNEY CHANNEL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/40147168656904978e87bf
 
 #EXTINF:-1 tvg-name="DOM KINO .s" group-title="Russia",DOM KINO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
