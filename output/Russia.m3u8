@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-08-28 21:47:26
+# Generated: 2026-08-29 06:05:31
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
@@ -449,6 +449,10 @@ https://vavoo.to/vavoo-iptv/play/3820426745dd1ea5b67c93
 #EXTINF:-1 tvg-name="KINO KLUB .s" group-title="Russia" tvg-logo="https://logo.huhu.to/logo?c=24466529.png",KINO KLUB
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/24466529fbccd90eeac8
+
+#EXTINF:-1 tvg-name="KINO KOMEDIJA .s" group-title="Russia",KINO KOMEDIJA
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/110753114452f1436c12b
 
 #EXTINF:-1 tvg-name="KINO MIX .s" group-title="Russia",KINO MIX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1414,6 +1418,14 @@ https://vavoo.to/vavoo-iptv/play/900982786ae65efe386c9
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/424473935800c7fa20143c
 
+#EXTINF:-1 tvg-name="НТВ +2 .b" group-title="Russia",НТВ 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1625653914202fc92e5596
+
+#EXTINF:-1 tvg-name="НТВ +4 .b" group-title="Russia",НТВ 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/40205985861d4c16143e7d
+
 #EXTINF:-1 tvg-name="НТВ +6 .b" group-title="Russia",НТВ 6
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/250643362606b394bbab53
@@ -1461,6 +1473,10 @@ https://vavoo.to/vavoo-iptv/play/14033522891cfb1f5d2f7a
 #EXTINF:-1 tvg-name="ПЯТНИЦА +2 .b" group-title="Russia",ПЯТНИЦА 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/25774628183a8f51d22b1d
+
+#EXTINF:-1 tvg-name="ПЯТНИЦА +6 .b" group-title="Russia",ПЯТНИЦА 6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1814057186c89a830698a7
 
 #EXTINF:-1 tvg-name="ПЯТНИЦА .b" group-title="Russia",ПЯТНИЦА
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
