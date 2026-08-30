@@ -1,6 +1,10 @@
 #EXTM3U
-# Generated: 2026-08-30 04:13:00
+# Generated: 2026-08-30 11:27:46
 # Source: raw vavoo.to catalog URLs
+
+#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
 
 #EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -398,10 +402,6 @@ https://vavoo.to/vavoo-iptv/play/20925127416dcfde316841
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/8111102086a0179c1cfa4
 
-#EXTINF:-1 tvg-name="ID .b" group-title="Russia",ID
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/125503784320a11c11f7be
-
 #EXTINF:-1 tvg-name="ILLUSION .s" group-title="Russia",ILLUSION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/23774627631ef275c206a7
@@ -533,6 +533,10 @@ https://vavoo.to/vavoo-iptv/play/23918359973d081de311c5
 #EXTINF:-1 tvg-name="MATCH BOX .s" group-title="Russia",MATCH BOX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11388711212e6db4b4e4af
+
+#EXTINF:-1 tvg-name="MATCH FUTBOL 1 .s" group-title="Russia",MATCH FUTBOL 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/4249443615ef9811d3f519
 
 #EXTINF:-1 tvg-name="MATCH FUTBOL 2 .s" group-title="Russia",MATCH FUTBOL 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
