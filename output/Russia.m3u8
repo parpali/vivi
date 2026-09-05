@@ -1,6 +1,14 @@
 #EXTM3U
-# Generated: 2026-09-05 10:07:30
+# Generated: 2026-09-05 14:48:45
 # Source: raw vavoo.to catalog URLs
+
+#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
+
+#EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 
 #EXTINF:-1 tvg-name=".SCI‑FI .b" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -154,6 +162,10 @@ https://vavoo.to/vavoo-iptv/play/176302805032514f265c12
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/33251460037c404ac0e04a
 
+#EXTINF:-1 tvg-name="HDL .b" group-title="Russia",HDL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1460781813711084efe481
+
 #EXTINF:-1 tvg-name="HGTV HD .b" group-title="Russia",HGTV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/15929737514e39a4ceec09
@@ -170,9 +182,17 @@ https://vavoo.to/vavoo-iptv/play/20925127416dcfde316841
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/125503784320a11c11f7be
 
+#EXTINF:-1 tvg-name="JIMJAM .b" group-title="Russia",JIMJAM
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3609920790c7b8625d6de
+
 #EXTINF:-1 tvg-name="KHL .b" group-title="Russia",KHL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2890854598f5b804149c2
+
+#EXTINF:-1 tvg-name="KHL PRIME .b" group-title="Russia",KHL PRIME
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/4045527153e90ef006c64a
 
 #EXTINF:-1 tvg-name="LEOMAX24 .b" group-title="Russia",LEOMAX24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -710,10 +730,6 @@ https://vavoo.to/vavoo-iptv/play/7374072166ba0270b9bc0
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/42541058089c7709e89871
 
-#EXTINF:-1 tvg-name="РОССИЯ 1 +2 .b" group-title="Russia",РОССИЯ 1 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/66042311743a68bcaf49d
-
 #EXTINF:-1 tvg-name="РОССИЯ 1 +4 .b" group-title="Russia",РОССИЯ 1 4
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2820519021aaac5c496919
@@ -725,6 +741,10 @@ https://vavoo.to/vavoo-iptv/play/35377579659b5d3d399e8d
 #EXTINF:-1 tvg-name="РОССИЯ 1 +8 .b" group-title="Russia",РОССИЯ 1 8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1844271468581e6d621a30
+
+#EXTINF:-1 tvg-name="РОССИЯ 1 HD .b" group-title="Russia",РОССИЯ 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/3752798550cb647b3c0e2e
 
 #EXTINF:-1 tvg-name="РОССИЯ 24 .b" group-title="Russia",РОССИЯ 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
