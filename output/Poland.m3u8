@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-09-07 03:26:32
+# Generated: 2026-09-07 11:52:13
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="13 ULICA .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=1699787152.png",13 ULICA
@@ -286,6 +286,10 @@ https://vavoo.to/vavoo-iptv/play/1704728504febe14917c27
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/110963690186ec1b4ccca3
 
+#EXTINF:-1 tvg-name="CANAL+ SPORT .b" group-title="Poland",CANAL SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1881505779372e8d2d39c8
+
 #EXTINF:-1 tvg-name="CANAL+ SPORT .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=2279950453.png",CANAL SPORT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22799504535bdefe43c9c1
@@ -297,10 +301,6 @@ https://vavoo.to/vavoo-iptv/play/41803423298f18b92da6d1
 #EXTINF:-1 tvg-name="CANAL+ SPORT 2 .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=4275582277.png",CANAL SPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/42755822772b0785da795e
-
-#EXTINF:-1 tvg-name="CANAL+ SPORT 3 .b" group-title="Poland",CANAL SPORT 3
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/3293241225da191d1bbed6
 
 #EXTINF:-1 tvg-name="CANAL+ SPORT 3 .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=3283623157.png",CANAL SPORT 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1129,10 +1129,6 @@ https://vavoo.to/vavoo-iptv/play/189043094ed8e82be4f51
 #EXTINF:-1 tvg-name="POLSAT DOKU .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=1307720792.png",POLSAT DOKU
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/13077207922eaaea36ceb5
-
-#EXTINF:-1 tvg-name="POLSAT DOKU HD .b" group-title="Poland",POLSAT DOKU
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/297391791429568f64d73f
 
 #EXTINF:-1 tvg-name="POLSAT FILM .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=563274468.png",POLSAT FILM
 #EXTVLCOPT:http-user-agent=VAVOO/2.6

@@ -1,6 +1,10 @@
 #EXTM3U
-# Generated: 2026-09-07 03:26:32
+# Generated: 2026-09-07 11:52:13
 # Source: raw vavoo.to catalog URLs
+
+#EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
 
 #EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -398,10 +402,6 @@ https://vavoo.to/vavoo-iptv/play/20925127416dcfde316841
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/8111102086a0179c1cfa4
 
-#EXTINF:-1 tvg-name="ID .b" group-title="Russia",ID
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/125503784320a11c11f7be
-
 #EXTINF:-1 tvg-name="ILLUSION .s" group-title="Russia",ILLUSION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/23774627631ef275c206a7
@@ -550,10 +550,6 @@ https://vavoo.to/vavoo-iptv/play/22739063035e5ab0bc6b4f
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/378091407995fa71d7e2d1
 
-#EXTINF:-1 tvg-name="MATCH OUR SPORTS .s" group-title="Russia",MATCH OUR SPORTS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/34296168417a4a58e5026
-
 #EXTINF:-1 tvg-name="MATCH PLANET .s" group-title="Russia",MATCH PLANET
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/1015824518dd2d0a478923
@@ -685,10 +681,6 @@ https://vavoo.to/vavoo-iptv/play/12271914897157c6e6d141
 #EXTINF:-1 tvg-name="NICKELODEON .s" group-title="Russia",NICKELODEON
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/148643273381a78b6ff13c
-
-#EXTINF:-1 tvg-name="NICKELODEON HD .b" group-title="Russia",NICKELODEON
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/302064724750065d097261
 
 #EXTINF:-1 tvg-name="NICKTOONS .b" group-title="Russia",NICKTOONS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1017,6 +1009,10 @@ https://vavoo.to/vavoo-iptv/play/697082013194d095901e1
 #EXTINF:-1 tvg-name="TV CENTER .s" group-title="Russia",TV CENTER
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/26342537083bed47653573
+
+#EXTINF:-1 tvg-name="TV XXI (TV21) .s" group-title="Russia",TV XXI
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/12157227316d4522215561
 
 #EXTINF:-1 tvg-name="UNIVER TV .s" group-title="Russia",UNIVER TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
