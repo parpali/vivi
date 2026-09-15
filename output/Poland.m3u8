@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated: 2026-09-15 16:29:01
+# Generated: 2026-09-15 20:57:45
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name="13 ULICA .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=1699787152.png",13 ULICA
@@ -65,6 +65,10 @@ https://vavoo.to/vavoo-iptv/play/2733166280b31372a2c10b
 #EXTINF:-1 tvg-name="ANIMAL PLANET .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=2384808701.png",ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/2384808701dc19665286ec
+
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD .b" group-title="Poland",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/1537256341da95874e6e9d
 
 #EXTINF:-1 tvg-name="ANTENA .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=412051492.png",ANTENA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -565,10 +569,6 @@ https://vavoo.to/vavoo-iptv/play/58077751007adc0b81e78
 #EXTINF:-1 tvg-name="ELEVEN SPORT 1 .b" group-title="Poland",ELEVEN SPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/259173545124d73aa3a90e
-
-#EXTINF:-1 tvg-name="ELEVEN SPORT 2 .b" group-title="Poland",ELEVEN SPORT 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/37221018353f645c66ed4d
 
 #EXTINF:-1 tvg-name="ELEVEN SPORT 3 .b" group-title="Poland",ELEVEN SPORT 3
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1397,10 +1397,6 @@ https://vavoo.to/vavoo-iptv/play/1618047268622d180aa1ee
 #EXTINF:-1 tvg-name="SPORTKLUB HD .b" group-title="Poland",SPORTKLUB
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/26270112672188e3001667
-
-#EXTINF:-1 tvg-name="SPORTOWA TV .c" group-title="Poland",SPORTOWA TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/15910651905aea61dbaa7a
 
 #EXTINF:-1 tvg-name="STARS TV .c" group-title="Poland" tvg-logo="https://logo.huhu.to/logo?c=4113862971.png",STARS TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
