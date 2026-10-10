@@ -1,10 +1,14 @@
 #EXTM3U
-# Generated: 2026-10-09 22:23:19
+# Generated: 2026-10-10 04:58:11
 # Source: raw vavoo.to catalog URLs
 
 #EXTINF:-1 tvg-name=".BLACK .b" group-title="Russia",.BLACK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
+
+#EXTINF:-1 tvg-name=".RED HD .b" group-title="Russia",.RED
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 
 #EXTINF:-1 tvg-name=".SCI‑FI .b" group-title="Russia",.SCI‑FI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -590,10 +594,6 @@ https://vavoo.to/vavoo-iptv/play/34249818231300e8daf90
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/20658380407a63d8366fcd
 
-#EXTINF:-1 tvg-name="MEZZO .b" group-title="Russia",MEZZO
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/vavoo-iptv/play/86247815017bcd61d5dbc
-
 #EXTINF:-1 tvg-name="MEZZO LIVE HD .b" group-title="Russia",MEZZO LIVE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/22456101875c4e5cb31ecc
@@ -813,6 +813,10 @@ https://vavoo.to/vavoo-iptv/play/1937212278bc6b1812d789
 #EXTINF:-1 tvg-name="RU.TV .s" group-title="Russia",RU.TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/317280710707ab80a1f361
+
+#EXTINF:-1 tvg-name="RUSSIA 1 .s" group-title="Russia",RUSSIA 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/37003946697e6f099ea610
 
 #EXTINF:-1 tvg-name="RUSSIA 24 .s" group-title="Russia",RUSSIA 24
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1257,6 +1261,10 @@ https://vavoo.to/vavoo-iptv/play/33437147685e2915da08fe
 #EXTINF:-1 tvg-name="КИНОСВИДАНИЕ .b" group-title="Russia",КИНОСВИДАНИЕ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://vavoo.to/vavoo-iptv/play/3375899100e75cba37cf6b
+
+#EXTINF:-1 tvg-name="КИНОСВИДАНИЕ .s" group-title="Russia",КИНОСВИДАНИЕ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+https://vavoo.to/vavoo-iptv/play/8651140320f6d60fc469d
 
 #EXTINF:-1 tvg-name="КИНОСЕМЬЯ .b" group-title="Russia",КИНОСЕМЬЯ
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
