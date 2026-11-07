@@ -4,28 +4,52 @@ Vavoo.to M3U8 Scraper
 Otomatik kanal çekme ve M3U8 playlist oluşturma
 """
 
-import requests
 import json
-import re
 import os
 import random
+import re
+import sys
+import threading
 import warnings
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
+
+import requests
 
 # Disable SSL warnings
 warnings.filterwarnings("ignore", message="Unverified HTTPS request")
 
-# Import tracker - will be imported dynamically
-tracker_loaded = False
-
 # Constants
 BASEURL = "https://www2.vavoo.to/ccapi/"
-VAVOO_LIVE_URL = "https://www.vavoo.to/live2/index?output=json"
 VAVOO_API_URL = "https://vavoo.to/mediahubmx-catalog.json"
 VAVOO_RESOLVE_URL = "https://vavoo.to/mediahubmx-resolve.json"
 PING_URL = "https://www.vavoo.tv/api/box/ping2"
 LOKKE_URL = "https://www.lokke.app/api/app/ping"
 VEC_URL = "http://mastaaa1987.github.io/repo/veclist.json"
+
+# Fallback groups if the catalog is unreachable
+FALLBACK_GROUPS = [
+    "Albania",
+    "Arabia",
+    "Balkans",
+    "Bulgaria",
+    "Croatia",
+    "France",
+    "France Sport",
+    "Germany",
+    "Italy",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Russia",
+    "Spain",
+    "Turkey",
+    "United Kingdom",
+]
+
+# How many streams to resolve in parallel
+RESOLVE_WORKERS = int(os.environ.get("RESOLVE_WORKERS", "8"))
 
 # Output directory
 OUTPUT_DIR = "output"
@@ -44,11 +68,15 @@ class VavooScraper:
         self.groups = {}
         self.auth_token = None
         self.watched_sig = None
+        self._local = threading.local()
 
+    # ------------------------------------------------------------------
+    # Authentication
+    # ------------------------------------------------------------------
     def get_veclist(self):
         """Get vector list for auth"""
         try:
-            response = self.session.get(VEC_URL, timeout=10)
+            response = self.session.get(VEC_URL, timeout=30)
             data = response.json()
             return data.get("value", [])
         except Exception as e:
@@ -62,29 +90,26 @@ class VavooScraper:
             print("No veclist available")
             return None
 
-        sig = None
-        for i in range(50):
+        for _ in range(50):
             try:
                 vec = {"vec": random.choice(veclist)}
                 response = self.session.post(PING_URL, data=vec, timeout=10)
                 data = response.json()
 
                 if data.get("signed"):
-                    sig = data["signed"]
-                elif data.get("data", {}).get("signed"):
-                    sig = data["data"]["signed"]
-                elif data.get("response", {}).get("signed"):
-                    sig = data["response"]["signed"]
-
-                if sig:
-                    break
-            except Exception as e:
+                    return data["signed"]
+                if data.get("data", {}).get("signed"):
+                    return data["data"]["signed"]
+                if data.get("response", {}).get("signed"):
+                    return data["response"]["signed"]
+            except Exception:
                 continue
 
-        return sig
+        print("Could not get auth signature from vavoo.tv")
+        return None
 
     def get_watched_signature(self):
-        """Get watched signature from lokke.app"""
+        """Get watched signature from lokke.app (fallback only)"""
         headers = {
             "user-agent": "okhttp/4.11.0",
             "accept": "application/json",
@@ -145,40 +170,83 @@ class VavooScraper:
             print(f"Error getting watched signature: {e}")
             return None
 
-    def fetch_live_channels(self):
-        """Fetch channels from vavoo.to/live2/index"""
-        print("Fetching live channels from vavoo.to...")
+    def get_mediahub_headers(self):
+        """Build auth headers for catalog and resolve endpoints.
+
+        The mediahubmx endpoints accept the signature returned by
+        vavoo.tv/api/box/ping2 ("signed"). The lokke.app addon signature is
+        kept only as a fallback because the catalog rejects it now.
+        """
+        sig = self.auth_token or self.watched_sig
+        if not sig:
+            return None
+
+        return {
+            "accept-encoding": "gzip",
+            "user-agent": "MediaHubMX/2",
+            "accept": "application/json",
+            "content-type": "application/json; charset=utf-8",
+            "mediahubmx-signature": sig,
+        }
+
+    # ------------------------------------------------------------------
+    # Catalog
+    # ------------------------------------------------------------------
+    def get_groups(self):
+        """Get available channel groups from the vavoo catalog"""
+        headers = self.get_mediahub_headers()
+        if not headers:
+            print("No auth signature available, using fallback groups")
+            return FALLBACK_GROUPS
+
+        data = {
+            "language": "de",
+            "region": "AT",
+            "catalogId": "iptv",
+            "id": "iptv",
+            "adult": False,
+            "search": "",
+            "sort": "name",
+            "filter": {"group": ""},
+            "cursor": 0,
+            "clientVersion": "3.0.2",
+        }
+
         try:
-            response = self.session.get(
-                VAVOO_LIVE_URL,
-                headers={
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-                },
-                timeout=30,
+            response = self.session.post(
+                VAVOO_API_URL, json=data, headers=headers, timeout=30
             )
-            channels = response.json()
-            print(f"Found {len(channels)} channels from live index")
-            return channels
+            result = response.json()
+            filter_data = result.get("features", {}).get("filter", [])
+            if filter_data:
+                groups = [v for v in filter_data[0].get("values", []) if v]
+                if groups:
+                    return groups
         except Exception as e:
-            print(f"Error fetching live channels: {e}")
-            return []
+            print(f"Error fetching groups: {e}")
+
+        return FALLBACK_GROUPS
 
     def fetch_api_channels(self):
-        """Fetch channels from vavoo API"""
+        """Fetch every channel from the vavoo catalog"""
         print("Fetching channels from vavoo API...")
 
         headers = self.get_mediahub_headers()
         if not headers:
-            print("Could not get watched signature")
+            print("Could not get a valid mediahubmx signature")
             return []
 
         all_channels = []
+        seen_ids = set()
         groups = self.get_groups()
 
         for group in groups:
             print(f"Fetching channels for group: {group}")
             cursor = 0
-            while True:
+            page = 0
+
+            while page < 100:
+                page += 1
                 data = {
                     "language": "de",
                     "region": "AT",
@@ -198,10 +266,19 @@ class VavooScraper:
                     )
                     result = response.json()
 
-                    items = result.get("items", [])
-                    for item in items:
+                    if result.get("error"):
+                        print(f"API error for {group}: {result.get('error')}")
+                        break
+
+                    for item in result.get("items", []):
                         if "LUXEMBOURG" in item.get("name", "") and group == "Germany":
                             continue
+
+                        item_id = (item.get("ids") or {}).get("id") or item.get("url")
+                        if item_id and item_id in seen_ids:
+                            continue
+                        if item_id:
+                            seen_ids.add(item_id)
                         all_channels.append(item)
 
                     next_cursor = result.get("nextCursor")
@@ -216,116 +293,103 @@ class VavooScraper:
         print(f"Found {len(all_channels)} channels from API")
         return all_channels
 
-    def get_mediahub_headers(self):
-        """Build auth headers for catalog and resolve endpoints"""
-        if not self.watched_sig:
-            self.watched_sig = self.get_watched_signature()
+    # ------------------------------------------------------------------
+    # Stream resolution
+    # ------------------------------------------------------------------
+    def _worker_session(self):
+        """One requests session per worker thread"""
+        if not hasattr(self._local, "session"):
+            session = requests.Session()
+            session.headers.update(self.session.headers)
+            self._local.session = session
+        return self._local.session
 
-        if not self.watched_sig:
-            return None
-
-        return {
-            "accept-encoding": "gzip",
-            "user-agent": "MediaHubMX/2",
-            "accept": "application/json",
-            "content-type": "application/json; charset=utf-8",
-            "mediahubmx-signature": self.watched_sig,
+    def _resolve_one(self, item, headers):
+        """Resolve a catalog item to a direct stream URL"""
+        body = {
+            "language": "de",
+            "region": "AT",
+            "catalogId": "iptv",
+            "id": "iptv",
+            "clientVersion": "3.0.2",
+            "url": item.get("url", ""),
+            "type": item.get("type", "iptv"),
+            "ids": item.get("ids", {}),
         }
 
-    def get_groups(self):
-        """Get available channel groups"""
-        if not self.watched_sig:
-            self.watched_sig = self.get_watched_signature()
+        for _ in range(2):
+            try:
+                response = self._worker_session().post(
+                    VAVOO_RESOLVE_URL, json=body, headers=headers, timeout=25
+                )
+                data = response.json()
 
-        headers = {
-            "user-agent": "WATCHED/1.8.3 (android)",
-            "accept": "application/json",
-            "content-type": "application/json; charset=utf-8",
-            "cookie": "lng=",
-            "watched-sig": self.watched_sig,
-        }
+                if isinstance(data, list) and data:
+                    url = data[0].get("url")
+                    if url:
+                        return url
+                elif isinstance(data, dict) and data.get("url"):
+                    return data["url"]
+            except Exception:
+                continue
 
-        data = {"adult": True, "cursor": 0, "sort": "name"}
+        return None
 
-        try:
-            response = self.session.post(
-                "https://www.oha.to/oha-tv-index/directory.watched",
-                json=data,
-                headers=headers,
-                timeout=10,
-            )
-            result = response.json()
-            features = result.get("features", {})
-            filter_data = features.get("filter", [])
-            if filter_data:
-                return [v.get("value") for v in filter_data[0].get("values", [])]
-        except Exception as e:
-            print(f"Error fetching groups: {e}")
+    def resolve_streams(self, channels):
+        """Resolve every channel to a direct playable URL"""
+        print("Resolving stream URLs...")
+        headers = self.get_mediahub_headers()
+        if not headers:
+            return []
 
-        # Fallback groups
-        return [
-            "Germany",
-            "Austria",
-            "Switzerland",
-            "Turkey",
-            "United Kingdom",
-            "USA",
-            "Spain",
-            "Italy",
-            "France",
-            "Poland",
-            "Russia",
-        ]
+        resolved_channels = []
+        resolved = 0
 
-    def process_channels(self, live_channels, api_channels):
-        """Process and merge channels from both sources"""
+        with ThreadPoolExecutor(max_workers=RESOLVE_WORKERS) as executor:
+            futures = {
+                executor.submit(self._resolve_one, ch, headers): ch for ch in channels
+            }
+
+            for done, future in enumerate(as_completed(futures), 1):
+                channel = futures[future]
+                url = future.result()
+
+                if url:
+                    channel["resolved_url"] = url
+                    resolved_channels.append(channel)
+                    resolved += 1
+
+                if done % 500 == 0:
+                    print(f"  resolved {done}/{len(channels)}")
+
+        print(f"Resolved {resolved}/{len(channels)} streams")
+        return resolved_channels
+
+    # ------------------------------------------------------------------
+    # Processing
+    # ------------------------------------------------------------------
+    def process_channels(self, channels):
+        """Group resolved channels by their group name"""
         print("Processing channels...")
 
-        # Process live channels
-        for ch in live_channels:
-            country = ch.get("group", "Unknown")
-            if country not in self.groups:
-                self.groups[country] = []
+        for ch in channels:
+            url = ch.get("resolved_url")
+            if not url:
+                continue
 
-            channel_data = {
-                "name": ch.get("name", ""),
-                "display_name": self.clean_name(ch.get("name", "")),
-                "group": country,
-                "logo": ch.get("logo", ""),
-                "url": ch.get("url", ""),
-                "hls": "",
-            }
-            self.groups[country].append(channel_data)
+            country = ch.get("group") or "Unknown"
+            name = ch.get("name", "")
 
-        # Process API channels and merge
-        for ch in api_channels:
-            country = ch.get("group", "Unknown")
-
-            # Find existing channel
-            existing = None
-            if country in self.groups:
-                for existing_ch in self.groups[country]:
-                    if existing_ch["name"] == ch.get("name"):
-                        existing = existing_ch
-                        break
-
-            if existing:
-                existing["hls"] = ch.get("url", "")
-                if ch.get("logo") and not existing["logo"]:
-                    existing["logo"] = ch.get("logo")
-            else:
-                if country not in self.groups:
-                    self.groups[country] = []
-
-                channel_data = {
-                    "name": ch.get("name", ""),
-                    "display_name": self.clean_name(ch.get("name", "")),
+            self.groups.setdefault(country, []).append(
+                {
+                    "name": name,
+                    "display_name": self.clean_name(name),
                     "group": country,
                     "logo": ch.get("logo", ""),
-                    "url": "",
-                    "hls": ch.get("url", ""),
+                    "url": ch.get("url", ""),
+                    "hls": url,
                 }
-                self.groups[country].append(channel_data)
+            )
 
     def clean_name(self, name):
         """Clean channel name"""
@@ -372,11 +436,35 @@ class VavooScraper:
 
         return group
 
+    # ------------------------------------------------------------------
+    # Output
+    # ------------------------------------------------------------------
+    def clean_output(self):
+        """Remove old playlists so removed/renamed groups leave no stale files.
+
+        This also prevents files that differ only by case (Germany.m3u8 vs
+        GERMANY.m3u8) from breaking the GitHub release upload.
+        """
+        removed = 0
+        for name in os.listdir(OUTPUT_DIR):
+            if name.lower().endswith(".m3u8"):
+                os.remove(os.path.join(OUTPUT_DIR, name))
+                removed += 1
+        if removed:
+            print(f"Removed {removed} old playlist(s)")
+
+    def count_playable(self):
+        """Number of channels that have a stream URL"""
+        return sum(
+            1 for channels in self.groups.values() for ch in channels if ch.get("hls")
+        )
+
     def generate_m3u8(self):
         """Generate M3U8 playlist files"""
         print("Generating M3U8 files...")
 
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        total_written = 0
 
         for country, channels in self.groups.items():
             if not channels:
@@ -387,37 +475,46 @@ class VavooScraper:
             written_channels = 0
             skipped_channels = 0
 
+            lines = [
+                "#EXTM3U",
+                f"# Generated: {timestamp}",
+                "# Source: vavoo.to catalog (resolved streams)",
+                "",
+            ]
+
+            for ch in sorted(channels, key=lambda x: x["name"]):
+                group = self.categorize_channel(ch["name"], country)
+                raw_url = ch.get("hls")
+
+                if not raw_url:
+                    skipped_channels += 1
+                    continue
+
+                extinf = f'#EXTINF:-1 tvg-name="{ch["name"]}" group-title="{group}"'
+                if ch["logo"]:
+                    extinf += f' tvg-logo="{ch["logo"]}"'
+                extinf += f",{ch['display_name']}"
+
+                lines.append(extinf)
+                lines.append("#EXTVLCOPT:http-user-agent=VAVOO/2.6")
+                lines.append(raw_url)
+                lines.append("")
+                written_channels += 1
+
+            # Do not publish an empty playlist
+            if written_channels == 0:
+                print(f"Skipped: {filepath} (no playable channels)")
+                continue
+
             with open(filepath, "w", encoding="utf-8") as f:
-                f.write(f"#EXTM3U\n")
-                f.write(f"# Generated: {timestamp}\n")
-                f.write(f"# Source: raw vavoo.to catalog URLs\n\n")
+                f.write("\n".join(lines))
 
-                # Sort channels by name
-                sorted_channels = sorted(channels, key=lambda x: x["name"])
-
-                for ch in sorted_channels:
-                    group = self.categorize_channel(ch["name"], country)
-                    raw_url = ch["hls"] if ch["hls"] else None
-
-                    if not raw_url:
-                        skipped_channels += 1
-                        continue
-
-                    extinf = (
-                        f'#EXTINF:-1 tvg-name="{ch["name"]}" group-title="{group}"'
-                    )
-                    if ch["logo"]:
-                        extinf += f' tvg-logo="{ch["logo"]}"'
-                    extinf += f",{ch['display_name']}"
-
-                    f.write(extinf + "\n")
-                    f.write("#EXTVLCOPT:http-user-agent=VAVOO/2.6\n")
-                    f.write(f"{raw_url}\n\n")
-                    written_channels += 1
-
+            total_written += written_channels
             print(
                 f"Created: {filepath} ({written_channels} playable, {skipped_channels} skipped)"
             )
+
+        return total_written
 
     def save_json(self):
         """Save channels as JSON for tracking changes"""
@@ -435,6 +532,9 @@ class VavooScraper:
 
         print(f"Saved JSON: {filepath}")
 
+    # ------------------------------------------------------------------
+    # Main
+    # ------------------------------------------------------------------
     def run(self):
         """Main execution"""
         print("=" * 60)
@@ -442,54 +542,93 @@ class VavooScraper:
         print(f"Started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
         print("=" * 60)
 
-        # Get signatures
-        print("\n[1/5] Getting authentication signatures...")
-        self.auth_token = self.get_auth_signature()
-        self.watched_sig = self.get_watched_signature()
+        # Get signature
+        print("\n[1/5] Getting authentication signature...")
+        for attempt in range(1, 4):
+            self.auth_token = self.get_auth_signature()
+            if self.auth_token:
+                break
+            print(f"Auth signature attempt {attempt}/3 failed, retrying...")
 
-        if not self.auth_token and not self.watched_sig:
-            print("Warning: Could not get authentication tokens, continuing anyway...")
+        if not self.auth_token:
+            # lokke signature is only a fallback; the catalog often rejects it
+            self.watched_sig = self.get_watched_signature()
+
+        if self.auth_token:
+            print("Got vavoo.tv auth signature")
+        elif self.watched_sig:
+            print("Using lokke.app signature (fallback)")
+        else:
+            print("ERROR: Could not get authentication tokens")
+            sys.exit(1)
 
         # Fetch channels
-        print("\n[2/5] Fetching live channels...")
-        live_channels = self.fetch_live_channels()
-
-        print("\n[3/5] Fetching API channels...")
+        print("\n[2/5] Fetching channels...")
         api_channels = self.fetch_api_channels()
+        if not api_channels:
+            print("\nERROR: No channels returned by the catalog, aborting")
+            sys.exit(1)
 
-        # Process
+        # Resolve direct stream URLs
+        print("\n[3/5] Resolving streams...")
+        resolved = self.resolve_streams(api_channels)
+        if not resolved:
+            print("\nERROR: No streams could be resolved, aborting")
+            sys.exit(1)
+
+        # Group channels
         print("\n[4/5] Processing channels...")
-        self.process_channels(live_channels, api_channels)
+        self.process_channels(resolved)
 
+        total_channels = sum(len(ch) for ch in self.groups.values())
+        playable = self.count_playable()
         print(f"\nTotal groups: {len(self.groups)}")
-        print(f"Total channels: {sum(len(ch) for ch in self.groups.values())}")
+        print(f"Total channels: {total_channels}")
+        print(f"Playable channels: {playable}")
+
+        # Never overwrite working playlists with an empty result
+        if playable == 0:
+            print("\nERROR: No playable channels found, aborting")
+            sys.exit(1)
+
+        # Load the previous channel list before channels.json is overwritten
+        old_data = None
+        tracker_available = False
+        try:
+            from tracker import (
+                compare_channels,
+                load_previous_channels,
+                print_diff,
+                save_history,
+            )
+
+            old_data = load_previous_channels()
+            tracker_available = True
+        except Exception as e:
+            print(f"Tracker import error (non-critical): {e}")
 
         # Generate outputs
         print("\n[5/5] Generating output files...")
-        self.generate_m3u8()
+        self.clean_output()
+        written = self.generate_m3u8()
+        if written == 0:
+            print("\nERROR: No playlist files were written, aborting")
+            sys.exit(1)
         self.save_json()
 
         # Track changes
         print("\n[6/6] Tracking changes...")
-        try:
-            from tracker import (
-                load_previous_channels,
-                compare_channels,
-                save_history,
-                print_diff,
-            )
+        if tracker_available:
+            try:
+                diff = compare_channels(old_data, self.groups)
+                print_diff(diff)
+                save_history(diff)
 
-            old_data = load_previous_channels()
-            diff = compare_channels(old_data, self.groups)
-            print_diff(diff)
-            save_history(diff)
-
-            # Save diff report
-            diff_file = os.path.join(OUTPUT_DIR, "diff_report.json")
-            with open(diff_file, "w", encoding="utf-8") as f:
-                json.dump(diff, f, indent=2, ensure_ascii=False)
-        except Exception as e:
-            print(f"Tracker error (non-critical): {e}")
+                diff_file = os.path.join(OUTPUT_DIR, "diff_report.json")
+                with open(diff_file, "w", encoding="utf-8") as f:
+                    json.dump(diff, f, indent=2, ensure_ascii=False)
+            except Exception as e:
+                print(f"Tracker error (non-critical): {e}")
 
         print("\n" + "=" * 60)
         print("Done!")

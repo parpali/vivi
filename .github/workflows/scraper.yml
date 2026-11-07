@@ -9,30 +9,35 @@ permissions:
   contents: write
   actions: read
 
+# Aynı anda iki tarama çalışıp commit çakışması yaşanmasın
+concurrency:
+  group: vavoo-scraper
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
         token: ${{ github.token }}
         fetch-depth: 0
-    
+
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-    
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests
-    
+
     - name: Run scraper
       run: python scraper.py
-    
+
     - name: Check for changes
       id: verify-changed-files
       run: |
@@ -42,7 +47,7 @@ jobs:
         else
           echo "changed=true" >> $GITHUB_OUTPUT
         fi
-    
+
     - name: Commit changes
       if: steps.verify-changed-files.outputs.changed == 'true'
       env:
@@ -53,18 +58,25 @@ jobs:
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
         git commit -m "Update M3U8 playlists - $(date +'%Y-%m-%d %H:%M:%S')"
         git push
-    
+
+    - name: Set timestamp
+      id: timestamp
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: echo "now=$(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_OUTPUT
+
     - name: Create Release
       if: steps.verify-changed-files.outputs.changed == 'true'
-      uses: softprops/action-gh-release@v1
+      uses: softprops/action-gh-release@v2
       with:
         tag_name: v${{ github.run_number }}
         name: Release ${{ github.run_number }}
         files: |
           output/*.m3u8
           output/channels.json
+        overwrite_files: true
+        fail_on_unmatched_files: true
         body: |
           Otomatik M3U8 playlist güncellemesi
-          Tarih: $(date +'%Y-%m-%d %H:%M:%S')
+          Tarih: ${{ steps.timestamp.outputs.now }}
       env:
         GITHUB_TOKEN: ${{ github.token }}
